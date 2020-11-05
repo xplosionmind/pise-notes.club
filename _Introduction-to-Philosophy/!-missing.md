@@ -1,0 +1,2 @@
+- Aristotheles Philosophy vs Descartes Philosophy
+- The definition of substance: if God is the perfect definition of substance, what's the difference from the body and the mind?
