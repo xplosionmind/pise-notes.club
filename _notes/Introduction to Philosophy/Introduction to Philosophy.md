@@ -1,3 +1,6 @@
+---
+---
+
 # Introduction to Philosophy
 
 1. [[What is Philosophy|What is Philosophy?]]

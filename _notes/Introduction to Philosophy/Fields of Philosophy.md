@@ -1,3 +1,6 @@
+---
+---
+
 # Fields of Philosophy
 
 The deep structure of the world is **mathematics**. At the time it wasn't considered as something real, but something like an abstract theory.

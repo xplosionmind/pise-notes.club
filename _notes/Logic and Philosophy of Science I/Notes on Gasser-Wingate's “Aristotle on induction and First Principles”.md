@@ -1,3 +1,6 @@
+---
+---
+
 From [[Gasser-Wingate - Aristotle on induction and first principles.pdf]]:
 
 Induction (ἐπαγωγή):

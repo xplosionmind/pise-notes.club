@@ -14,3 +14,7 @@ _includes/notes_graph.json
 # Obsidian data
 .obsidian/
 obsidian.css
+_notes/templates/
+
+# not shareable content
+copyrighted-content/

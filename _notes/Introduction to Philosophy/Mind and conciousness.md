@@ -1,3 +1,6 @@
+---
+---
+
 Up to early modern philosophy, there has been a clear distinction between the two:
 
 The mind was conceived as the substance; consciousness was the activity performed by the mind the source of principles, reasoning and beliefs, or better the ontological meaning of the former.

@@ -1,3 +1,6 @@
+---
+---
+
 # C.S. Peirce
 
 He believed that there was something worth investigating in terms of logic analysis in the matter of the discovery of hypotheses.

@@ -1,3 +1,6 @@
+---
+---
+
 # Imre Lakatos
 
 [Imre Lakatos](https://plato.stanford.edu/entries/lakatos/) on Stanford Encyclopedia of Philosophy

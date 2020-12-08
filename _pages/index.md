@@ -4,18 +4,46 @@ title: Home
 id: home
 permalink: /
 ---
+# PISE notes
 
-# Welcome! 🌱
+This is an open set of notes from [***Philosophy, International Studies and Economics***](https://unive.it/pise) classes at [Ca' Foscari University](https://unive.it) in Venice. More details in the [About](/about) page.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+<br>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Courses
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+Start browsing around by entering a course; each course is sub-divided in sections.
 
-If this template helps you in any way, [consider buying me a coffee](https://ko-fi.com/maximevaillancourt)! ☕️
+- [[Contemporary History]]
+- [[Introduction to Philosophy]]
+- [[Logic and Philosophy of Science I]]
+
+<br>
+
+## Purpose
+
+The final aim of this website is to create an open set of resources for PISE students, allowing us to join forces and study in the most effective way by sharing notes and knowledge across different years of the degree and different topics.
+
+<br>
+
+## Completeness and reliability
+
+This website was started by a first year clumsy PISE student: its content may be incomplete or not totally reliable. Many topics and/or classes may be missing but by [contributing](/contrib) you can help in filling the gaps.
+
+<br>
+
+## Legend of symbols
+
+Since up to now content comes only from Tommi's notes, there are several gaps and notes may be inconsistent.
+
+- `+++`: missing parts
+- `???`:
+	- unclear passages
+	- questions
+- `grm`: doubts about grammar
+- `+++S`: copy from slides
+- `“+++”`: exact citation of the professor missing
+- `(+++)`: there's a missing knowledge to what has just been written
 
 <style>
   .wrapper {

@@ -1,3 +1,6 @@
+---
+---
+
 # Thomas Kuhn
 
 [Thomas Kuhn](https://plato.stanford.edu/entries/thomas-kuhn/ "Thomas Kuhn on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy

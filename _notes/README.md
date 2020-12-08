@@ -1,4 +1,5 @@
-# Notes from PISE Course
+---
+---
 
 These are the notes I take while attending [***Philosophy, International Studies and Economics***](https://unive.it/pise) classes at [Ca' Foscari University](https://unive.it) in Venice.
 
@@ -12,7 +13,7 @@ The final aim of this website is to create an open set of resources for PISE stu
 
 ## Completeness and reliability
 
-This website was started by a PISE student: its content may be incomplete or not totally attendibile+++. Many topics and/or classes may be missing but by [contributing](#contribution) you can help in filling the gaps.
+This website was started by a first year clumsy PISE student: its content may be incomplete or not totally reliable. Many topics and/or classes may be missing but by [contributing](#contribution) you can help in filling the gaps.
 
 <br>
 
@@ -21,7 +22,7 @@ This website was started by a PISE student: its content may be incomplete or not
 Please feel free to share and improve this repository as you like; the only requisite for contribution is to be a PISE student, former student, or professor.
 
 The source of these digital set of notes are is in [this GitHub repository](https://tommi.space/xplosionmind/PISE-notes), which you can freely edit.   
-If you have absolutely no idea what GitHub is and how it works but you'd like to share your notes or contribute in any way to this website, please email contribute@pise.notes+++ 
+If you have absolutely no idea what GitHub is and how it works but you'd like to share your notes or contribute in any way to this website, please email tommiboom+pisenotes@protonmail.com
 
 ### Note
 

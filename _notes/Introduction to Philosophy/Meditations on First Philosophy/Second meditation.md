@@ -1,3 +1,6 @@
+---
+---
+
 # Second meditation
 
 ## 1. Searching for an Archimedean point

@@ -9,6 +9,6 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
-gem "jekyll-target-blank"
+# gem "jekyll-target-blank" # no compatibility with bidirectional links plugin
 gem "jekyll-redirect-from"
 gem "jekyll-optional-front-matter"

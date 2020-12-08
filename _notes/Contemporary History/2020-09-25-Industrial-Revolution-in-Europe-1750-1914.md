@@ -1,3 +1,6 @@
+---
+---
+
 25<sup>th</sup> September 2020
 
 # Industrial Revolution in Europe, 1750-1914

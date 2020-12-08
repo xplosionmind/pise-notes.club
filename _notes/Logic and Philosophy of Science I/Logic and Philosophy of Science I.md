@@ -1,3 +1,6 @@
+---
+---
+
 # Logic and Philosophy of Science I
 
 ## Course introduction

@@ -1,3 +1,6 @@
+---
+---
+
 # Descartes' Third Meditation
 
 *The existence of God*

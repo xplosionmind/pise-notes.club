@@ -1,3 +1,6 @@
+---
+---
+
 # Aristotelean logic
 
 <p class="date">5<sup>th</sup> November 2020</p>

@@ -1,3 +1,6 @@
+---
+---
+
 [René Descartes](https://plato.stanford.edu/entries/descartes/) on Stanford Encyclopedia of Philosophy
 
 Understanding the new currents of thought, graduated in **law** at the university of Poitier, he then enrolled in the army of Nassau, a protestant prince. He spent a lot of time in Holland. He started the thirty years war in the protestant army, then, after one year, he moved to Germany.

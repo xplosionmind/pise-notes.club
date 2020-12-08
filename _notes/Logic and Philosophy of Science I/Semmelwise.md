@@ -1,3 +1,6 @@
+---
+---
+
 He worked in the first maternal division. Observations on a mysterious disease, the *puerperal fever*.
 
 Description of the problem +++

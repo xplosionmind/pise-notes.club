@@ -1,3 +1,6 @@
+---
+---
+
 # Paul Feyerabend
 
 [Paul Feyerabend](https://plato.stanford.edu/search/searcher.py?query=feyerabend "Paul Feyerabend on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy

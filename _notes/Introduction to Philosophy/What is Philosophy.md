@@ -1,3 +1,6 @@
+---
+---
+
 <p class="date">14<sup>th</sup> September 2020</p>
 
 # What is Philosophy?

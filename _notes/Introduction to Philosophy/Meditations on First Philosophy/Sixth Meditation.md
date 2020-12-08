@@ -1,3 +1,6 @@
+---
+---
+
 # Sixth Meditation
 
 <p class="date">13<sup>th</sup> October 2020</p>

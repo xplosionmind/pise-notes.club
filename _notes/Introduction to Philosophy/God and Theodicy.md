@@ -1,3 +1,6 @@
+---
+---
+
 # God and Theodicy
 
 <p class="date">17<sup>th</sup> November 2020</p>

@@ -1,3 +1,6 @@
+---
+---
+
 ## Francis Bacon
 
 [Francis Bacon](https://plato.stanford.edu/entries/francis-bacon/) was the one who really turned induction in a new science. He was against Aristhotelean method, finding it “hasty”, from [*The New Organon*][NO], written in aphorisms:

@@ -1,3 +1,6 @@
+---
+---
+
 ## Socinianism
 
 [[Socinianism - Encyclopedia of Reinassance Philosophy.pdf|Definition of Socinianism]] on [Encyclopedia of Reinassance Philosophy](https://link.springer.com/referencework/10.1007/978-3-319-02848-4) by professor Priarolo.

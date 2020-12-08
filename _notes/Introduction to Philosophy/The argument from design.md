@@ -1,3 +1,6 @@
+---
+---
+
 # The argument from design
 
 <p class="date">25<sup>th</sup> November 2020</p>

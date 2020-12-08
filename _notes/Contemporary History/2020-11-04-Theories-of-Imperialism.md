@@ -1,3 +1,6 @@
+---
+---
+
 # Theories of Imperialism
 
 In XIX century, changes have been so deep and unprecedented that they can hardly be clearly framed.

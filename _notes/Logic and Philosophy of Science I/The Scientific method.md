@@ -1,3 +1,6 @@
+---
+---
+
 1. [[Aristotelean logic]]
 1. [[Francis Bacon]]
 1. [[David Hume]] ([[2020-11-12]])
