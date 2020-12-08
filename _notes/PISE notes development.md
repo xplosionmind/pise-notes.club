@@ -1,5 +1,5 @@
 ---
-title: "Website development"
+title: "Development ideas and improvements"
 permalink: /development
 description: "Technical, practical and creative improvements to be performed on this website"
 redirect_from:
@@ -15,7 +15,7 @@ redirect_from:
 1. Organize knowledge || choose a structure
     - create a collection for every subject?
 1. How to manage copyrighted data (pdf of books, lessons presentations, notes of other students, etc.)
-3. Choose a domain and a hosting service
+3. ~~Choose a domain and a hosting service~~ up to now, domain hosted on [Freenom](https://freenom.com)
     - custom email?
 5. Share the website to be completed
     - Create a contribution guide

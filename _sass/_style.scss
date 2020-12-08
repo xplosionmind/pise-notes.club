@@ -31,7 +31,7 @@ time {
 }
 
 footer {
-  margin: 2em 0;
+  margin: 6em 0 2em;
   font-size: 0.8em;
   color: mix($color-text, white, 80%);
   padding: 3vw;
@@ -80,18 +80,18 @@ h6 {
 
 a {
   transition: background 300ms;
-  padding: 0 0.1em;
+  padding: 0 0.2em;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 2px solid $color-border;
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: #ffe0ac;
   }
   &:after {
     position: relative;
     top: -0.5em;
-    font-size: 0.7em;
+    font-size: 0.5em;
     content: "↗";
     color: #aaaaaa;
   }
@@ -101,7 +101,7 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: #ffe0ac !important;
   color: black !important;
 }
 

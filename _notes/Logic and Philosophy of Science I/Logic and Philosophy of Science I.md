@@ -1,19 +1,28 @@
 ---
+title: "Logic and Philosophy of Science I"
 ---
-
-# Logic and Philosophy of Science I
-
 ## Course introduction
 
 [[Introduction to Logic and Philosophy of Science I]]
 
 <br>
 
-![[The Scientific method]]
+## The Scientific method
+
+1. [[Aristotelian logic]]
+1. [[Francis Bacon]]
+1. [[David Hume]] ([[2020-11-12]])
+1. [[Logical Positivism]]
+1. [[Peter Frederick Strawson]]
+1. [[David Hume]]
+1. [[Karl Popper]]
+1. [[Post-Popperian interpretations]]
 
 <br>
 
-![[The scientific explanation]]
+## The scientific explanation
+
+- [[Introduction to Scientific explanation]]
 
 <br>
 

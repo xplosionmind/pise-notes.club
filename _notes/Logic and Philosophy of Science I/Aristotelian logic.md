@@ -1,8 +1,5 @@
 ---
 ---
-
-# Aristotelean logic
-
 <p class="date">5<sup>th</sup> November 2020</p>
 
 When we think of traditional logic, **Aristotle** is the first name that comes to mind.
@@ -89,7 +86,7 @@ An inference is the process of reasoning which correlates one type of sentence (
 - From two affirmative premises we can only derive an affirmative conclusion
 - From two particular premises we can never derive a general conlusion
 
-and more (see [[Aristotelean logic#Limits]]).
+and more (see [[Aristotelian logic#Limits]]).
 
 ### Logical principles
 

@@ -3,10 +3,12 @@ layout: page
 title: Home
 id: home
 permalink: /
+title: "PISE notes"
 ---
-# PISE notes
+This is an open set of notes from [***Philosophy, International Studies and Economics***](https://unive.it/pise) classes at [Ca' Foscari University](https://unive.it) in Venice. More details in the [[About]] page.
 
-This is an open set of notes from [***Philosophy, International Studies and Economics***](https://unive.it/pise) classes at [Ca' Foscari University](https://unive.it) in Venice. More details in the [About](/about) page.
+If you have any suggestion, idea, or you want to report a bug, please [open an issue on GitHub](https://github.com/xplosionmind/pise-notes/issues). 
+{:.box}
 
 <br>
 
@@ -22,13 +24,13 @@ Start browsing around by entering a course; each course is sub-divided in sectio
 
 ## Purpose
 
-The final aim of this website is to create an open set of resources for PISE students, allowing us to join forces and study in the most effective way by sharing notes and knowledge across different years of the degree and different topics.
+The final aim of this website is to create an open set of resources for PISE students, allowing us to join forces and study in the most effective way by sharing notes and knowledge across different years of the degree and different areas of interest.
 
 <br>
 
 ## Completeness and reliability
 
-This website was started by a first year clumsy PISE student: its content may be incomplete or not totally reliable. Many topics and/or classes may be missing but by [contributing](/contrib) you can help in filling the gaps.
+This website is mantained and updated by a first year clumsy PISE student: <mark>its content may be incomplete or not totally reliable</mark>; I keep track of what I lost during the lessons in the [[missing|missing page]]. **Many** topics may be missing but by [[Contribute|contributing]] you can help in filling the gaps.
 
 <br>
 

@@ -1,5 +1,0 @@
----
----
-
-- [[Introduction to Scientific explanation]]
-- 

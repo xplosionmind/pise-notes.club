@@ -1,0 +1,11 @@
+.date,
+.cite,
+.right {
+  text-align: right;
+}
+
+.cite {
+  &::before {
+    content: '~ ';
+  }
+}

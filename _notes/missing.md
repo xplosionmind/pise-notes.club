@@ -1,8 +1,6 @@
 ---
+title: "Missing parts"
 ---
-
-# Missing pieces
-
 ## Philosophy
 
 - Aristotle's Philosophy vs Descartes Philosophy

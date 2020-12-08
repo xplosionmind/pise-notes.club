@@ -1,8 +1,6 @@
 ---
+title: "The Scientific Explanation"
 ---
-
-# The Scientific explanation
-
 <p class="date">26<sup>th</sup> November 2020</p>
 
 How do scientific theories achieve the task of explaining science?

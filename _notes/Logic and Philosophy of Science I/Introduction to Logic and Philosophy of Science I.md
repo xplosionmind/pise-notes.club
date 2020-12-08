@@ -93,4 +93,4 @@ Principles of logic are **necessary**, not contingent
 
 <br>
 
-Next topic: [[Aristotelean logic]]
+Next topic: [[Aristotelian logic]]

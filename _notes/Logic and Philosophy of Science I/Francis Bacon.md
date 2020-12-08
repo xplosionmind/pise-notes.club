@@ -126,7 +126,7 @@ Hume says that only some of our factual knowledge is based on something we perce
 If you were to ask a man why he believes his friend his out of town, he will reply by giving another matter of fact, like he has received a letter from his friend where he says he is out of town. A man finds a watch in a desert island, therefore he concludes there must have been someone else there before him, without direct acquaintance.
 All matters of facts relies on a present facts and another fact which the former is inferred from. How do we reason here? Exactly in the same way in which we reason when we connect an effect to a cause: we see something and we asked ourselves what brought it about. How do we formulate this type of reasoning? Are we entitled to make this connection? Can we acquire knowledge from this connection?
 
-Previous topic: [[Aristotelean logic]]
+Previous topic: [[Aristotelian logic]]
 
 [SEP]: https://plato.stanford.edu "Stanford Encyclopedia of Philosophy"
 [NO]: https://www.wikiwand.com/en/Novum_Organum "Novum Organon on Wikipedia"

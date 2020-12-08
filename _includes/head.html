@@ -1,11 +1,15 @@
 <head>
   <meta charset="UTF-8">
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="mobile-web-app-capable" content="yes" />
+	<meta property="og:locale:alternate" content="{% if page.lang == 'it' %}en{% else %}it{% endif %}" />
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <meta property="og:site_name" content="{{ site.title }}">
 
@@ -16,7 +20,7 @@
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}
-  <meta property="og:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"/>
+  <meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}"/>
   {% endif %}
 
   {% if page.title %}
@@ -32,10 +36,10 @@
   <meta property="article:author" content="{{ site.url }}/">
   {% endif %}
 
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
 
   {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
   {% endif %}
 
   <title>

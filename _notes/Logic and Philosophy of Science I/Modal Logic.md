@@ -1,8 +1,6 @@
 ---
 date: 2020-12-03
 ---
-# Modal Logic
-
 <p class="date">3<sup>rd</sup> December 2020</p>
 
 Classical logic is a binary logic, it's based on truth or falsity.

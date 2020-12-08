@@ -1,8 +1,5 @@
 ---
 ---
-
-# Logical Positivism
-
 <p class="date">13<sup>th</sup> November 2020</p>
 
 - [Logical Empiricism](https://plato.stanford.edu/entries/logical-empiricism/ "Logical Empiricism on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy
