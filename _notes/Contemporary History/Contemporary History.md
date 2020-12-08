@@ -1,5 +1,5 @@
 ---
+title: "Contemporary History"
 ---
-
-# Contemporary History
-+++ every topic
+- [[Contemporary History by Lili Marciano|notes by Lili Marciano]]
+- [[Contemporary History by Eleonora Arca]]

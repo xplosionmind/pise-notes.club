@@ -126,6 +126,18 @@ nav {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+  p {
+    font-size: 0.6em;
+  }
+}
+
+.backlinks-container {
+  border: solid 2px $color-box-background;
+  border-radius: $border-radius;
+  padding: 1em;
+  h3 {
+    margin-top: 0;
+  }
 }
 
 code {
@@ -146,4 +158,14 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.box {
+  margin: 0.5rem auto;
+  padding: 1em;
+  background: #F3F7D9;
+  border-radius: $border-radius;
+  h3 {
+    margin: 0;
+  }
 }

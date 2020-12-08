@@ -5,6 +5,7 @@ baseurl:             /
 url:                 "https://pise-notes.tk"
 description: >-
   Notes from PISE classes at Ca' Foscari university in Venice
+author: tommi
 permalink:           pretty
 relative_permalinks: false
 image: "/assets/pise-notes.jpg"
@@ -32,8 +33,10 @@ defaults:
     values:
       layout: "default"
       image: "/assets/pise-notes.jpg"
+      author: "tommi"
   - scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+      author: "tommi"
       image: "/assets/pise-notes.jpg"
