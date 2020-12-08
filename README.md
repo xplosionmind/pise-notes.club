@@ -1,23 +1,23 @@
-# Notes from PISE Classes
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
 
-These are the notes I take while attending [***Philosophy, International Studies and Economics***](https://unive.it/pise) classes at [Ca' FOscari University](https://unive.it) in Venice.
+# Digital garden Jekyll template
 
-<br>
+Use this template repository to get started with your own digital garden.
 
-## Purpose
+**I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
-The final aim of this repository is to create an open set of resources for PISE students, allowing us to join forces and study in the most effective way by sharing notes and knowledge across different years and topics.
+Preview the template here: https://digital-garden-jekyll-template.netlify.app/
 
-My idea is to eventually make it a Jekyll website in order to make its content accessible to non-geek students too. Nevertheless, as you can see, as of right now I'm the only contributor and tbh my notes are far from being complete or insightful.
+- Based on Jekyll, a static website generator
+- Supports Roam-style double bracket link syntax to other notes
+- Creates backlinks to other notes automatically
+- Features link previews on hover
+- Includes graph visualization of the notes and their links
+- Features a simple and responsive design
+- Supports Markdown or HTML notes
 
-<br>
+<img width="1522" alt="Screen Shot 2020-05-19 at 23 05 46" src="https://user-images.githubusercontent.com/8457808/82400515-7d026d80-9a25-11ea-83f1-3b9cb8347e07.png">
 
-## Note
+## License
 
-Ideas on how to improve this repo, as well as development milestones, are all noted in the [development page](./development.md)
-
-<br>
-
-## Contribution
-
-Please fel free to fork, share, improve this repo as you like; the only requisite for contribution is to be a PISE student, former student, or professor.
+Source code is available under the [MIT license](LICENSE.md).
