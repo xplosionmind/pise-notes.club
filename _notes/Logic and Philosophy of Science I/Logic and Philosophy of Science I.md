@@ -1,5 +1,10 @@
 ---
 title: "Logic and Philosophy of Science I"
+redirect_from:
+  - /logic
+  - /phil-of-science
+  - /philosophy-of-science
+  - /logic-and-philosophy-of-science
 ---
 ## Course introduction
 

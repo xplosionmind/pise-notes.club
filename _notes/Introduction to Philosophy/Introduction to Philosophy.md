@@ -1,8 +1,12 @@
 ---
+redirect_from:
+  - /phil
+  - /philosophy
+  - /intro-to-phil
+  - /ph
+  - /intro-ph
+  - /intro-phil
 ---
-
-# Introduction to Philosophy
-
 1. [[What is Philosophy|What is Philosophy?]]
 2. [[Fields of Philosophy]]
 3. [[Knowledge and epistemology]]
