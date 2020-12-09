@@ -5,6 +5,8 @@
 }
 
 .cite {
+  font-size: .85em;
+  margin-bottom: 2rem;
   &::before {
     content: '~ ';
   }

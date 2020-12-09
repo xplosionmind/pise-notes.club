@@ -64,6 +64,6 @@ redirect_from:
 
 ### Examples
 
-- Does inventing hypotheses rely on logic in science?
-- Is Popper's logical criterion of falsification a convincing response to Hume's problem of induction?
+> Does inventing hypotheses rely on logic in science?
 
+> Is Popper's logical criterion of falsification a convincing response to Hume's problem of induction?

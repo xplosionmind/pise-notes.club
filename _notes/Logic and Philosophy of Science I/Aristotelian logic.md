@@ -50,24 +50,38 @@ The basic units of a syllogism are sentences with a particular grammatical form:
 
 By stating <q>all men are human</q> we're saying something about the humanity of men. <q>human</q> and <q>men</q> are **categories**.
 
-We may therefore affirm that Aristotelian logic is:
+We may therefore affirm that Aristotelian logic is:   
 - a **categorical logic**: it is about sentences that predicate things about classes of objects and objects belonging to those classes;
 - a **binary logic**: propositions are either true or false.
+
+<br>
+
+---
+
+<p class="date">12<sup>th</sup> November 2020</p>
 
 ### Limits
 
 Syllogisms only deal with **properties**: they put in connection or separation two categories.   
-Consequently, this type of logic <u>exclude many sentences</u> used in everyday language. Relations such as “Oedipus loves Jocasta” or “The Greeks won against the Persians” can't be used. +++ EXAMPLES 2020.11.12 FROM SLIDES.
+Consequently, this type of logic <u>excludes many sentences</u> used in everyday language. Relations such as “Oedipus loves Jocasta” or “The Greeks won against the Persians” can't be used. +++ EXAMPLES 2020.11.12 FROM SLIDES.
 
-We are “constrained” by grammatical rules that may not be optimal in logic. A problem emerges when we make the subject of a sentence its object, by transforming the sentence in passive. Grammatically the meaning is perfectly the same; nonetheless, logically it becomes a problem.
+We are “constrained” by grammatical rules that may not be optimal in logic. For example: a problem emerges when we make the subject of a sentence its object, by transforming the sentence in passive. Grammatically the meaning is perfectly the same; nonetheless, logically it becomes a problem.
 
-These limits and constraints became a motive for criticism, particularly by [Gottlob Frege](https://plato.stanford.edu/entries/frege/ "Gottlob Frege on Stanford Encyclopedia of Philosophy") in the 19<sup>th</sup> century
+> The Greek defeated the Persian
+
+has exactly the same meaning but logically it is not at all the same as:
+
+> The Persian were defeated by the Greek
+
+These limits and constraints became a motive for criticism, particularly by [Gottlob Frege](https://plato.stanford.edu/entries/frege/ "Gottlob Frege on Stanford Encyclopedia of Philosophy") in the 19<sup>th</sup> century.
+
+---
 
 <br>
 
 ### Types of propositions
 
-Propositions can be
+Propositions can be   
 - **Universal**: concerning everything   
 *e.g.*: “all `S` are `P`” or “all `S` are not `P`”
 - **Particular**: concerning a subset of entities   
@@ -86,7 +100,7 @@ An inference is the process of reasoning which correlates one type of sentence (
 - From two affirmative premises we can only derive an affirmative conclusion
 - From two particular premises we can never derive a general conlusion
 
-and more (see [[Aristotelian logic#Limits]]).
+and more (see [Limits](#limits)).
 
 ### Logical principles
 
@@ -146,7 +160,7 @@ First principles can be used to demonstrate, but they aren't demonstrable themse
 > If we only understand (in a correct, valid way) the things we can demonstrate, we won’t be able to understand (in an equally correct, valid way) first principles which by their very nature are indemonstrable.   
 > And if we don’t understand them how can we understand what is demonstrated by means of them?
 
-<p class="cite">Marc Gasser-Wingate, <cite>Aristotle on Induction and First Principles</cite>, *Philosopher’s Imprint*, volume 16, n.4, February 2016.</p>
+<p class="cite">Marc Gasser-Wingate, <cite>Aristotle on Induction and First Principles</cite>, <i>Philosopher’s Imprint</i>, volume 16, n.4, February 2016.</p>
 
 It becomes quite natural to ask what kind of knowledge can we get of these first principles. So:
 - How can it be trusted that what is derived from the premises is true, since the truthfulness of the premises themselves can't be demonstrated?
@@ -154,7 +168,7 @@ It becomes quite natural to ask what kind of knowledge can we get of these first
 
 Aristotle has an answer to these two questions: **a cognitive development** needs to be applied, not a procedure.
 
-![[Notes on Gasser-Wingate's “Aristotle on induction and First Principles”]]
+Further explanation in [[Notes on Gasser-Wingate]]’s “Aristotle on induction and First Principles”
 
 <p class="date">6<sup>th</sup> November 2020</p>
 
@@ -177,24 +191,28 @@ The capacity of knowing first principles by generalizing.
 
 <p class="cite">Aristotle, <cite>Posterior Analytics</cite></p>
 
+> \[1\] We must possess some sort of capacity, but not one which will be more valuable than these states \[which know first principles\] in respect of exactness. And this certainly seems to be the case for all animals: they have an innate discriminatory capacity called perception.
+
+<p class="cite">Aristotle, <cite>99b32-35</cite></p>
+
 Obviously, merely generalizing what has been observed isn't enough. An intuitive <u>sensibility</u> has to be developed, it takes the name of *νοῦς*.
 
 ## Νοῦς
 
-*Νοῦς* is the “intuition„ which leads to *epagogé*.
+*Νοῦς* is the “intuition” which leads to *epagogé*.
 
 > So from perception there comes memory, as we say, and from repeated memories of the same thing \[there comes\] experience (ἐμπειρία); for many memories constitute a single experience. And from experience, or rather from the whole universal which has come to rest in the soul, the one apart from the many, that which is one and the same in all these things, \[comes\] a principle of craft or understanding \[i.e. νοῦς\] — of craft if it concerns coming to-be, of understanding if it concerns what is
 
 <p class="cite">Aristotle, <cite>(100a3–9)</cite></p>
 
-
+*Νοῦς* is the only state **truer** and more exact than scientific understanding
 
 <br>
 <br>
 
 ## Criticisms
 
-This solution will be criticized by both rationalists (such as [[René Descartes]]) and experimentalists (such as[[Francis Bacon]]):
+This solution will be criticized by both rationalists (such as [[René Descartes]]) and experimentalists (such as [[Francis Bacon]]):
 
 ### Rationalist criticisms
 
@@ -213,6 +231,8 @@ Induction is the right way, but not in Aristotle' way.
 A branch of Experimentalism, supported by William of Ockham, among the others. It was the firs modern philosophy, approaching induction in a different way from the Aristothelean philosophy.
 
 <br>
+
+<hr>
 
 Next topic: [[Francis Bacon]]
 

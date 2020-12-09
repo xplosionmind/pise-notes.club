@@ -11,15 +11,18 @@ redirect_from:
 ---
 ## Roadmap
 
-1. Complete the notes and fill the gaps
+1. add new content
+1. Abbreviate `internal-link` and `external-link` classes to `int` and `ext`
 1. Organize knowledge || choose a structure
     - create a collection for every subject?
+1. `{% raw %}{% if page.content contains '+++' %}{% endraw %}` print a banner in `<side>` pointing out these notes are incomplete
 1. How to manage copyrighted data (pdf of books, lessons presentations, notes of other students, etc.)
 3. ~~Choose a domain and a hosting service~~ up to now, domain hosted on [Freenom](https://freenom.com)
     - custom email?
-5. Share the website to be completed
-    - Create a contribution guide
-6. Promote the website to be used
+1. Create a contribution guide
+1. Share
+	- PISEr pills Instagram page
+	- other years' students
 
 <br>
 

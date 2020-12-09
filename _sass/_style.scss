@@ -48,11 +48,11 @@ img {
 }
 
 blockquote {
-  padding: 1.5em;
-  margin: 0;
-  font-size: 0.88em;
-  background: $color-box-background;
-  border-radius: $border-radius;
+  padding: 0 2em;
+  margin: 2em 2em 0;
+  font: 0.9em "EB Garamond", "Garamond", "Times", "Times New Roman", serif, "Playfair Display";
+  /*background: $color-box-background;
+  border-radius: $border-radius; */
 
   p {
     margin: 0;
@@ -62,9 +62,16 @@ blockquote {
 hr {
   width: 100%;
   border: 0;
-  height: 1px;
+  height: 2px;
   margin: 1.5em 0;
   background: $color-border;
+  border-radius: $border-radius;
+}
+
+content hr {
+  background: #FFF;
+  border-bottom: 5px dotted $color-border;
+  border-radius: 0;
 }
 
 h1,

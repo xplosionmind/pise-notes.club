@@ -2,7 +2,6 @@
 author: "ele"
 title: "Third World, political Islam, decline of Soviet communism"
 ---
-
 ### The Nonalignment movement
 
 emergence of cold war bipolarity, decline of European powers, beginning
