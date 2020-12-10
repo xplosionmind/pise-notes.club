@@ -3,7 +3,7 @@ title: "Contemporary History"
 redirect_from:
   - /ch
   - /chistory
-  - /c-h
+  - /cont-hist
 ---
-- [[Contemporary History by Lili Marciano|notes by Lili Marciano]]
+- [[Contemporary History by Lili Murciano|notes by Lili Murciano]]
 - [[Contemporary History by Eleonora Arca]]

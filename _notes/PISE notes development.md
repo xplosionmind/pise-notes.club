@@ -12,6 +12,7 @@ redirect_from:
 ## Roadmap
 
 1. add new content
+1. a tag for every course
 1. Abbreviate `internal-link` and `external-link` classes to `int` and `ext`
 1. Organize knowledge || choose a structure
     - create a collection for every subject?

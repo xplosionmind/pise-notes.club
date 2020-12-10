@@ -1,4 +1,6 @@
 ---
+date: 2020-11-06
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Francis_Bacon%2C_Viscount_St_Alban_from_NPG_(2).jpg/800px-Francis_Bacon%2C_Viscount_St_Alban_from_NPG_(2).jpg"
 ---
 [Francis Bacon](https://plato.stanford.edu/entries/francis-bacon/) was the one who really turned induction in a new science. He was against Aristhotelean method, finding it “hasty”; from [*The New Organon*][NO], written in aphorisms:
 
@@ -145,13 +147,19 @@ In the former, starting by a universal statement and  getting to specific ones, 
 
 If a large number of instances have been observed under a wide variety of conditions, and if all those observed ones without exceptions possessed a certain property, then all instances have that property.
 
+Is meant to be legitimate and explain how by going from the observation of particular instances to a generalization which includes all of those instances and possibly all of the instances **yet to be realized**. The principle of induction makes significant not only the instances I observed up to now but the ones I'll observe in the future. A **projaction** is entailed in this principle.
+
 Logically speaking the problem comes therefore from **expectations**: if I see a lot of whit swans, I may easily conclude that all swans are white. This shows how in everyday life human's nature is inductive.
 
-We are entering a slightly dangerous field now: with induction we can struggle to make a statement certain, but we will never be completely sure that is absolutely true; we are limited by the possible falsification laying a single specific instance or observation.
+This not only happens in everyday life, but in science, too: the normal number of chromosomes, the laws of gravitation, come from singular observations later generalized.
 
-We are forced to bet on the assumption that the past and the present will be similar to the future. We assume that the present data is sufficient to understand the future
+We are entering a slightly dangerous field, since with induction we can struggle to make a statement certain, but we will never be completely sure about its absolute truth; we are limited by the possible falsification laying a single specific instance or observation.
 
-How justified are this assumptions? How risky are they?
+We are forced to bet on the assumption that the past and the present will be similar to the future. We assume that the present data is sufficient to understand the future.
+
+At the same time, we are brought to base our assumptions on a wide enough set of observations and instances, but how wide is wide enough?
+
+How justified are this assumptions? How risky and how well granted are they?
 
 From a logical point of view:   
 In an induction, starting from a true premise may lead us to a false conclusion: there is no *logical* contradiction in stating that all swans are white up to now and successively affirming that not all swans are white.

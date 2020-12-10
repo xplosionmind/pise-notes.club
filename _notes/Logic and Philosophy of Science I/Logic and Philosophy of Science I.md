@@ -16,7 +16,7 @@ redirect_from:
 
 1. [[Aristotelian logic]]
 1. [[Francis Bacon]]
-1. [[David Hume]] ([[2020-11-12]])
+1. [[David Hume]]
 1. [[Logical Positivism]]
 1. [[Peter Frederick Strawson]]
 1. [[David Hume]]
