@@ -104,153 +104,136 @@ Thus, there's an arbitrary tie between cause and effect, and only experience can
 ## Deductive vs Inductive reasoning
 
 Statement 1:
+
+<q>Either it is raining (p) or it is snowing (q)</q>  
+<q>It isn't snowing</q> (!q)   
+\-\-\-\-\-\-\-\-\-\-\-\-
+<q>It is raining</q> (p)
+
+which corresponds to: 
 (p &vee; q) &and; !q &rarr; p
+
+---
 
 Statement 2:   
 <q>there is a flash of light</q> (event A)
-\-\-\-
+\-\-\-\-\-\-\-\-\-\-\-\-
 <q>There will be a clap of thunder</q> (event B)
 
 As it's evident, statement 1 is logical, where the second one is not.   
 So, we may reformulate S2 in such a way it may be logically interpreted:
 
-<q>There is a flash of light</q> &and; <q>if there is a flash of light, there will be a clap of thunder</q>
-\-\-\-
+<q>There is a flash of light</q>
+<q><u>if there is a flash of light, there will be a clap of thunder</u></q>
+\-\-\-\-\-\-\-\-\-\-\-\-
 <q>There will be a clap of thunder</q>
 
-Let's try to create a contradiction by denying the conclusions.
+The added premise is not known itself apriori, but it comes from experience.
 
-How can we logically infer that just because past A-events have been followed by B-events, future A-events will be followed by B-events?
+How can we logically infer that just because past A-events have been followed by B-events, future A-events will be followed by B-events?   
+How do we logically justify that what we've experienced up to now will repeat in the same way in the future?
 
-### Adding a premise to statement II
- 
-### The problem of induction
+### Structure of inductive argument
 
-from 11:48
+How do I go from the first to the second statement?
 
-The connection from an event to a conclusion isn't direct nor immediate. A **medium** (an additional premise) it's needed and Hume is quite skeptical about this medium and Hume points out several times that such a medium can't be rationally justified.
+The connection from an event to a conclusion isn't direct nor immediate. A **medium**, an additional premise, is needed. Hume is quite skeptical about this medium and he points out several times that such a medium can't be rationally justified, it passes his comprehension.
 
-The premise (+++ FROM SLIDES) has to be that the future is 
+Of course we do know what this medium is, but it has to be logically justifiable.
 
-### The Principle of Induction
+The premise has to be that <u>the future will be conformable to the past</u>; that the laws of nature that held in the past, will hold in the future.
 
-Or ***Principle of the uniformity of nature***
+## The Principle of the *uniformity of nature*
 
-+++ FROM SLIDES
+> the same pattern of relations between kinds of events —the same laws of nature— will hold in the future as have held in the past
 
-This, according to Hume, can't be safely accepted.
+By adding this medium, this inference from experience becomes logically acceptable.
 
-By using the premise we'll introduce a “vicious circularity” because we're taking for granted the exact type of reasoning the validity of which we're trying to understand.
+This, according to Hume, can't be safely accepted (logically).
 
-> +++ FROM SLIDES
+A solution would be to focus on the matters of fact, nevertheless we'd be introducing a “vicious circularity” because we're taking for granted the exact type of reasoning the validity of which we're trying to understand. All inductive inferences are valid only because the premise `c` holds
 
-So it becomes a question-begging argument
+> all our experimental conclusions proceed upon the supposition that the future will be conformable to the past. To endeavour, therefore, the proof of this last supposition by probable arguments \[…\] must be evidently <u>going in a circle</u> and taking that for granted, which is the very point in question.
 
-??? isn't it the same thing as the demonstration of Aristothelean first principles?
+<p class="cite">Hume, <cite>An Enquiry concerning Human Understanding</cite>, Sect. IV, Part II, 30</p>
 
-### Deductive vs Inductive circularity
+> It is impossible, therefore, that any arguments from experience can prove this resemblance of the past to the future; since <u>all these arguments are founded on the supposition of that resemblance</u>.
 
-#### Deductive circularity
+<p class="cite">Hume, <cite>An Enquiry concerning Human Understanding</cite>, Sect. IV, Part II, 32</p>
 
-The simplest version of this is an argument which uses its conclusion as its premise.
+This becomes a question-begging argument
 
-+++
+??? isn't it the same thing as the demonstration of Aristotelian first principles?
 
-#### Inductive circularity
+## Inductive circularity
 
 `c` is the missing link, and we need to make it explicit, yet it's itself an inductive inference: it says exactly the same thing.
 
-Circularity is vicious here because we're <q cite="">using induction to justify induction</q>**.
+Circularity is vicious here because we're <q cite="An enquiry concerning human understanding">using induction to justify induction</q>. Any experimental demonstration actually requires that the future has to resemble to the past.
+
+> if there is a suspicion that the course of nature may change, and the past may not be a rule for the future, then <u>all experience becomes useless</u>, and can give no rise to any argument or inference.
+
+<p class="cite">Hume, <cite>An Enquiry concerning Human Understanding</cite>, Sect. IV, Part II, 32</p>
 
 <br>
 <br>
+
+## The appeal to custom
 
 Why do we keep using inductive reasoning?
 
-To Hume, there's no logical reason; the psychological explanation is the only reasonable one we can give.
+To Hume, there's no logical reason; the <u>psychological explanation</u> is the only reasonable one we can give.
 
-The appeal to custom:
+> For wherever the repetition of any particular act or operation produces a propensity to renew the same act or operation, <u>without being impelled by any reasoning</u> or process of the understanding, we always say, that this propensity is the effect of custom.
 
-> +++ FROM SLIDES
+> Custom is the great guide of human life. It is the principle alone which renders our experience useful to us, and makes us expect, for the future, a similar train of events with those which have appeared in the past. Without the influence of custom, \[…\] we should never know how to adjust means to ends \[…\]. There would be an end at once to all action \[…\]
 
-> +++ FROM SLIDES
+<p class="cite">Hume, <cite>An Enquiry concerning Human Understanding</cite>, Sect. V, Part I, 38</p>
 
 “Natural instinct”
 
-If we can't set goals, expectations for our future, what would give us some sort of confidence about the purpose of the future?
+If we can't set goals, expectations for our future, what would give us some sort of confidence about our purpose in the future?
 
-> +++ FROM SLIDES
+<br>
+<br>
 
-### Conclusion
+## Conclusion
 
 - Inductive reasoning can't be logically justified
 - Inductive reasoning is instinctual, thus inevitable
 - Inductive reasoning is at the basis of our beliefs about the future
 - Inductive reasoning informs both scientific inquiry and purposive action
-- Inductive reasoning indispensable +++
+- Inductive reasoning is <u>indispensable</u> both scientific inquiry and purposive action
 
 <br>
 <br>
 
-## Questions
+## Further questions
 
 ### 1
 
-+++ FROM SLIDES
+If induction can't be logically justified —with no necessary reasons to support it— is induction not rational, or even irrational?
 
-We'd start questioning several beliefs based on inductions:
-- memories
-- the durability of objects
-- etc +++
+If we use an irrational way of thinking, then it would mean we are irrational. We are questioning the very foundation of the way we interpret the world.   
+This is a radical skepticism which intuitively appears as quite implausible
+
+We'd start questioning several beliefs based on inductions, such as memories and the durability of objects and most of all science itself
 
 ### 2
 
-
-+++ link with Russel
-
-<br>
-<br>
-
-## Bertrand Russel
-
-Via induction we can account for the **probability** of the conclusion, never certainty.
-
-> +++ FROM SLIDES
-
-Belief in the uniformity of nature -> probable reason
-
-An asymptotic approach to certainty through probability.
+If an inductive inference still makes a certain conclusion look at least ‘<u>reasonable</u>’, can reasonableness be at all justified?
 
 <br>
-<br>
 
-It's habitual to form expectations in this inductive way, but can this habit be justified rationally? Is it reasonable anyway?
+## Replies
 
-<br>
-<br>
-
-## Pragmatic Justification
-
-By [Hans Reichenbach](+++)
-
-Man makes a bet by adopting inductive reasoning: surely not asserting, but not even believing.
-
-### “To posit”
-
-> +++ FROM SLIDES
-
-Induction is the best bet 
-
-> The path +++ FROM SLIDES
-
-“**feel**”
-
-Is this a satisfactory solution? If yes, how is the success of science explainable up to now?
-
-+++ link to
+- [[Logical Positivism]]
+- [[Bertrand Russel]]
+- [[Alfred Jules Ayer]]
+- [[Peter Frederick Strawson]]
 
 <br>
 
 ---
 
-Next topic: [[Logical Positivism]]
+Next topic: [[Bertrand Russel]]

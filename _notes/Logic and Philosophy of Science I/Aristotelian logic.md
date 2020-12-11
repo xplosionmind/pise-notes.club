@@ -1,4 +1,8 @@
 ---
+date: 2020-11-05
+updated: 2020-11-06
+aliases: ["Aristotle"]
+image: "https://static01.nyt.com/images/2016/05/27/world/27ARISTOTLE/27ARISTOTLE-superJumbo.jpg"
 ---
 <p class="date">5<sup>th</sup> November 2020</p>
 

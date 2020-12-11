@@ -1,11 +1,14 @@
 ---
-title: "Logic and Philosophy of Science I"
 redirect_from:
   - /logic
   - /phil-of-science
   - /philosophy-of-science
   - /logic-and-philosophy-of-science
 ---
+Notes from [Logic and Philosophy of Science I](https://www.unive.it/data/insegnamento/332321 "Logic and Philosophy of Science I course syllabus")
+
+<br>
+
 ## Course introduction
 
 [[Introduction to Logic and Philosophy of Science I]]
@@ -17,29 +20,25 @@ redirect_from:
 1. [[Aristotelian logic]]
 1. [[Francis Bacon]]
 1. [[David Hume]]
-1. [[Logical Positivism]]
+1. [[Bertrand Russel]]
+2. [[Pragmatic Justification]] (Hans Reichenbach)
+3. [[Logical Positivism]]
+	- [[Alfred Jules Ayer]]
 1. [[Peter Frederick Strawson]]
-1. [[David Hume]]
-1. [[Karl Popper]]
-1. [[Post-Popperian interpretations]]
-
-<br>
+2. [[Karl Popper]]
+3. [[Post-Popperian interpretations]]
 
 ## The scientific explanation
 
 - [[Introduction to Scientific explanation]]
 
-<br>
-
 ## Natural kinds
 
 - A premise on [[Modal Logic]]
 - [[Natural kinds]]
-
-<br>
-
 ## Social kinds
 
+<br>
 <br>
 
 ## Exam

@@ -44,7 +44,7 @@
 <div id="graph-wrapper">
   <script>
     const MINIMAL_NODE_SIZE = 8;
-    const MAX_NODE_SIZE = 12;
+    const MAX_NODE_SIZE = 18;
     const ACTIVE_RADIUS_FACTOR = 1.5;
     const STROKE = 1;
     const FONT_SIZE = 16;
@@ -104,7 +104,7 @@
 
       link.attr("stroke-width", (link_d) => {
         if (link_d.source.id === d.id || link_d.target.id === d.id) {
-          return STROKE * 4;
+          return STROKE * 2;
         }
         return STROKE;
       });

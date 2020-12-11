@@ -7,6 +7,8 @@ redirect_from:
   - /intro-ph
   - /intro-phil
 ---
+Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/insegnamento/332312 "Introduction to Philosophy course syllabus"), divided by topic.
+
 1. [[What is Philosophy|What is Philosophy?]]
 2. [[Fields of Philosophy]]
 3. [[Knowledge and epistemology]]
