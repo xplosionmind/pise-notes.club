@@ -19,6 +19,7 @@ Start browsing around by entering a course; each course is sub-divided in sectio
 - [[Contemporary History]]
 - [[Introduction to Philosophy]]
 - [[Logic and Philosophy of Science I]]
+- [[Mathematics for Social Sciences]]
 
 <br>
 

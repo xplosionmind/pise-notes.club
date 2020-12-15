@@ -105,13 +105,15 @@ Thus, there's an arbitrary tie between cause and effect, and only experience can
 
 Statement 1:
 
-<q>Either it is raining (p) or it is snowing (q)</q>  
-<q>It isn't snowing</q> (!q)   
+<q>Either it is raining ($p$) or it is snowing ($q$)</q>  
+<q>It isn't snowing</q> ($!q$)   
 \-\-\-\-\-\-\-\-\-\-\-\-
-<q>It is raining</q> (p)
+<q>It is raining</q> ($p$)
 
-which corresponds to: 
-(p &vee; q) &and; !q &rarr; p
+which corresponds to:
+$$
+(p \vee q) \wedge !q \rightarrow p
+$$
 
 ---
 

@@ -1,6 +1,6 @@
 title:               PISE notes
 include:             ['_pages']
-exclude:             ['_includes/notes_graph.json', '_notes/templates/', '_notes/obsidian.css', '_notes/.obsidian/', 'to-publish/']
+exclude:             ['_includes/notes_graph.json', '_notes/templates/', '_notes/obsidian.css', '_notes/.obsidian/', 'to-publish/', 'copyrighted-content/']
 baseurl:             /
 url:                 "https://pise-notes.tk"
 description: >-

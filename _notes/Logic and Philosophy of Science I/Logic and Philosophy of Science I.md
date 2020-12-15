@@ -7,6 +7,10 @@ redirect_from:
 ---
 Notes from [Logic and Philosophy of Science I](https://www.unive.it/data/insegnamento/332321 "Logic and Philosophy of Science I course syllabus")
 
+Everyone of the topics below is summarized in the [[Supersummary of Logic and Philosophy of Science I|course's Supersummary]].
+{:.box}
+
+<br>
 <br>
 
 ## Course introduction
@@ -27,15 +31,29 @@ Notes from [Logic and Philosophy of Science I](https://www.unive.it/data/insegna
 1. [[Peter Frederick Strawson]]
 2. [[Karl Popper]]
 3. [[Post-Popperian interpretations]]
+	1. [[Logical objections to Popper]]
+	2. [[Historical objections to Popper]]
+		1. [[Imre Lakatos]]
+		2. [[Thomas Kuhn]]
+	3. Methodological objections to Popper
+		1. [[Paul Feyerabend]]
+
+<br>
 
 ## The scientific explanation
 
-- [[Introduction to Scientific explanation]]
+1. [[Introduction to Scientific explanation]] +++
+2. [[Carl Hempel]] (The Deductive-nomological model)
+3. [[Nancy Cartwright]]
+4. [[Truth of scientific laws]]
+
+<br>
 
 ## Natural kinds
 
 - A premise on [[Modal Logic]]
 - [[Natural kinds]]
+
 ## Social kinds
 
 <br>

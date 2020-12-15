@@ -9,4 +9,5 @@ Please refer to the [homepage](https://pise-notes.tk) for more details
 
 ## License
 
-Source code is available under the [MIT license](LICENSE.md); content has CC0 license.
+Source code is available under the [MIT license](LICENSE.md);   
+content has [Creative Commons Attibution ShareAlike license](https://creativecommons.org/licenses/by-sa/4.0/).

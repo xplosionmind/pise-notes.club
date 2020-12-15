@@ -1,30 +1,30 @@
 ---
 author: lili
 ---
-Lecture 2: At the Roots of Globalization
+Lecture 2: At the Roots of Globalisation
 
 European colonialism, 1450-1750
 
 LEARNING OBJECTIVES:
 
-[Reasons behind Europe's expansionistic drive]{.ul}
+Reasons behind Europe's expansionistic drive
 
-[The conquer of the Americas and the making of an "Atlantic world"]{.ul}
+The conquer of the Americas and the making of an "Atlantic world"
 
-[Europeans in Asia: a half-successful mission]{.ul}
+Europeans in Asia: a half-successful mission
 
-[An early-modern world economy]{.ul}
+An early-modern world economy
 
 Part 1:
 
 Reasons behind Europe's expansionistic drive
 
-[A NEW GLOBAL SYSTEM]{.ul}
+A NEW GLOBAL SYSTEM
 
 From the 16th to the 19th century, a new geopolitical system came into
 power; it was a global, spacial hierarchy atop which sat Europe.
 
-[WHY EUROPE?]{.ul}
+WHY EUROPE?
 
 One key point is the food production capacity in Europe's moderate
 climate, where a fairly good immunity system came to be
@@ -52,7 +52,7 @@ conquering the Americas)
 The Renaissance and the birth of the sciences furthered the ideological
 aspect of Europe's expansionistic views
 
-[BUT EUROPE WASN'T ALONE IN THE SEAFARING 'COMPETITION'...]{.ul}
+BUT EUROPE WASN'T ALONE IN THE SEAFARING 'COMPETITION'...
 
 Traders from the Red Sea and along the eastern African coast, plus the
 Indian Ocean, China and many other countries, took part in this
@@ -60,10 +60,10 @@ seafaring 'competition'
 
 CHINA: the most economically/technologically advanced area of the world
 
-[1600-1500]{.ul}: Chinese seafaring to the Indian Ocean and the Arabic
+1600-1500: Chinese seafaring to the Indian Ocean and the Arabic
 peninsula
 
-[1405-1433]{.ul}: Chinese admiral Zheng He led seven transoceanic
+1405-1433: Chinese admiral Zheng He led seven transoceanic
 expeditions to India, Arabic and Eastern Africa
 
 China economically limited itself to its immediate surroundings for
@@ -75,7 +75,7 @@ Part 2:
 
 The conquer of the Americas and the making of an "Atlantic world"
 
-[A COMPLETELY NEW ENVIRONMENT ON BOTH RIMS]{.ul}
+A COMPLETELY NEW ENVIRONMENT ON BOTH RIMS
 
 Europeans first conquered the East and Atlantic islands, where they
 introduced systems of exploitation, such as plantation economy, which
@@ -101,15 +101,15 @@ level:
 As we can see, this exchange was not equal at all. Regarding
 colonialism, three types were present in the Americas:
 
-1)  [PLANTATION COLONIES]{.ul} in the Caribbean area, the Eastern
+1)  PLANTATION COLONIES in the Caribbean area, the Eastern
     lowlands and Brazil (already introduced in the Eastern Atlantic
     islands by Iberian powers and European merchant societies linked to
     the aforementioned, such as Tuscany and Southern Italy)
 
-2)  [MIXED RACE COLONIES]{.ul} in Mexican and Peruvian highlands
+2)  MIXED RACE COLONIES in Mexican and Peruvian highlands
     (minority of Spanish settlers, "mixed" marriage, mestizos)
 
-3)  [SETTLER COLONIES]{.ul} in Northern French and British colonies (80%
+3)  SETTLER COLONIES in Northern French and British colonies (80%
     majority of European origin because the original population was
     widely exterminate, killed through slave work or by diseases
     imported by the Europeans)
@@ -120,7 +120,7 @@ Part 3:
 
 Europeans in Asia: a half-successful mission
 
-[PORTUGUESE EXPANSION AND COMPETITION]{.ul}
+PORTUGUESE EXPANSION AND COMPETITION
 
 Through expansion, Europe wanted to find 'shortcuts'/other routes to
 commodities imported from Asia so as to not have to pay more for Asian
@@ -131,7 +131,7 @@ such as through the Suez Cana, Aleppo or Tripoli.
 
 The Portuguese, for these same reasons, explored the western coast of
 Africa. Vasco de Gama sailed around Africa for the first time in
-[1498]{.ul}, establishing a sea route to India and penetrating the horn
+1498, establishing a sea route to India and penetrating the horn
 of Africa and the Ethiopian highlands to compete with the sea powers of
 the Ottoman Empire, sparking various sea battles in the Indian Ocean.
 Slowly, the Portuguese, the Dutch, the British and the Spaniards
@@ -141,7 +141,7 @@ This mission was only 'half-successful' because the situation in Asia
 was very different from the Americas. There were major empires with
 bigger territorial control, thus impeding Europe's expansion and
 conquest. Success was seen only after the Industrial Revolution
-([1760-1820]{.ul}), when Europe successfully penetrated (partially)
+(1760-1820), when Europe successfully penetrated (partially)
 Indonesia, the Philippines and South East China, but Europe could never
 really occupy China or Japan (at a certain point in the 19th century, it
 remained the only country not occupied by Europeans). Even India was
@@ -166,7 +166,7 @@ Part 4:
 
 An early-modern World Economy
 
-[GLOBAL EXCHANGE OF GOODS AND PEOPLE]{.ul}
+GLOBAL EXCHANGE OF GOODS AND PEOPLE
 
 We can summarise the effects of Western colonial expansion as the
 creation of an early-modern world economy. The global exchange of goods
@@ -177,7 +177,7 @@ potato and corn). Worldwide financial and trade circuits were mostly
 under Western European control, and thanks to the printing press, a mass
 dissemination of information deluged the world.
 
-[ITS EFFECTS ON EUROPE]{.ul}
+ITS EFFECTS ON EUROPE
 
 Spain and Portugal lived through a period of trade wealth, concentrating
 on sea trade and mercantile activity, but many areas, such as Catalonia
@@ -198,19 +198,19 @@ Lecture 3: The Concept of 'Europe'
 
 LEARNING OBJECTIVES:
 
-[Is Europe a 'continent'?]{.ul}
+Is Europe a 'continent'?
 
-[Ancient 'Europe' and Modern 'Europe']{.ul}
+Ancient 'Europe' and Modern 'Europe'
 
-[Christianitas and 'Christian Europe']{.ul}
+Christianitas and 'Christian Europe'
 
-[Enlightenment and the philosophies of history]{.ul}
+Enlightenment and the philosophies of history
 
 Part 1:
 
 Is Europe a 'continent'?
 
-[EUROPE IS NOT A CONTINENT, AND HERE'S WHY]{.ul}
+EUROPE IS NOT A CONTINENT, AND HERE'S WHY
 
 Many scholars of geography believe that the geographical subdivision of
 the planet will always engage with political and geopolitical projects.
@@ -241,7 +241,7 @@ between continents, the lack of natural divisions and the presence of
 isthmuses, they are still divided. It is clear that Europe as a material
 concept is not a geographical concept.
 
-Europe is [NOT]{.ul} a continent. This means that the objective reality
+Europe is NOT a continent. This means that the objective reality
 of Europe is something else: it's a system of division, an abstract
 concept made up of myriads of references, an ideology that caused
 divisions based on philosophical speculations about history. It is
@@ -254,7 +254,7 @@ Part 2:
 
 Ancient 'Europe' and Modern 'Europe'
 
-[EUROPE: MYTH AND REALITY]{.ul}
+EUROPE: MYTH AND REALITY
 
 All history is contemporary history. The term 'Europe' comes from
 Ancient Greece, where it had great political and mythological
@@ -300,7 +300,7 @@ Part 3:
 
 Christianitas and Christian Europe
 
-['EUROPE' AS A POLITICAL SPACE METAPHOR]{.ul}
+'EUROPE' AS A POLITICAL SPACE METAPHOR
 
 To the dominant theology of the following centuries (Christianity), the
 imaginary geographical centre of the world remained Jerusalem, partly
@@ -311,14 +311,14 @@ In the late Middle Ages, it was a vague geographical reference and was
 replaced by the recurrent use of 'Christianitas'. In later sources,
 Europe was described as Christianity's 'last refuge'. During the early
 Renaissance, the myth of Europe became more popular than it had been for
-a millennium, but at the time of the Crusades ([1095-1286]{.ul}) the
+a millennium, but at the time of the Crusades (1095-1286) the
 term 'European armies' were unheard of and substituted by 'Christian
 armies'. The people who came in to invade the 'Christian' lands were
 referred to the Franks; nobody spoke of Europeans.
 
 'Europe' as a concept was recovered by Humanists (powerful men in the
-Church, such as Nicholas of Kues and Pope Pius II) in the [15th
-century]{.ul}, when these individuals introduced the term 'Christian
+Church, such as Nicholas of Kues and Pope Pius II) in the 15th
+century, when these individuals introduced the term 'Christian
 Europe' (not seen before) and applied it to the past, such as when
 speaking about the Middle Ages (although in the Middle Ages this term
 was not known). Antique concepts (the opposition between West and
@@ -333,7 +333,7 @@ that we now consider Europe was not considered Europe at the time, and
 these ideologies mentioned before were nothing new; the Humanists merely
 took the Antique's concept of Europe and transposed it to modern times.
 
-[OLD MAPS OF THE WORLD]{.ul}
+OLD MAPS OF THE WORLD
 
 In early-modern geography, Europe extended to the Atlantic coast, while
 its borders to the North and to the East were not clear; it was
@@ -345,9 +345,9 @@ Medieval and Modern/Secularised Europe was radical and featured
 nonexistent Eastern borders due to political dispute until the 19th
 century, when a geographical consensus was reached and it coincided with
 the Ural mountains and rivers. Another consensus was reached in the
-[20th century]{.ul} regarding the decision of marking the border of
-Europe and Asia along the Caucasus Crest. Up until the [13th
-century]{.ul}, stylised mapping subordinated Europe geographically to
+20th century regarding the decision of marking the border of
+Europe and Asia along the Caucasus Crest. Up until the 13th
+century, stylised mapping subordinated Europe geographically to
 Asia because this guarded the Garden of Eden and was regarded as the
 landmark of the beginning and the end of history.
 
@@ -368,7 +368,7 @@ Jerusalem. The new, unprecedented aspect of modern Europe, as a
 consequence, was the translation of the typically Christian sense of
 history into a new space metaphor, a hallmark of Eurocentrism.
 
-[NEOLOGISM OF CIVILISATION]{.ul}
+NEOLOGISM OF CIVILISATION
 
 Therefore, the radical innovation that the Renaissance operated was the
 melting of Christianitas into 'Europe'. This made of the term a
@@ -390,7 +390,7 @@ philosophers and important figures of Europe competed to come up with
 the most authentic representation of Europe, the truest and
 interpretation of the purpose of history.
 
-[FROM THEOLOGY TO SECULAR THEOLOGY]{.ul}
+FROM THEOLOGY TO SECULAR THEOLOGY
 
 There are many parallels between these two classes of theology; while
 the promise of the heavens (represented as an ascent to the kingdom of
@@ -428,24 +428,24 @@ Lecture 4: European timeline, 1776-1914
 
 LEARNING OBJECTIVES:
 
-[Factors of European worldwide dominance]{.ul}
+Factors of European worldwide dominance
 
-[Critics of Eurocentrism]{.ul}
+Critics of Eurocentrism
 
-[Synthesis of European timeline events: the wave of revolutions in
-Europe]{.ul}
+Synthesis of European timeline events: the wave of revolutions in
+Europe
 
-[Synthesis of European timeline events: new nations States in
-Europe]{.ul}
+Synthesis of European timeline events: new nations States in
+Europe
 
 Part 1:
 
 Factors of European worldwide dominance
 
-[THE DECISIVE CHANGE WAS CAUSED BY THE INDUSTRIAL REVOLUTION]{.ul}
+THE DECISIVE CHANGE WAS CAUSED BY THE INDUSTRIAL REVOLUTION
 
-The period between the [late 18th century]{.ul} and the [early 19th
-century]{.ul} was the climax of European power. The Industrial
+The period between the late 18th century and the early 19th
+century was the climax of European power. The Industrial
 Revolution played a big part of the latter by assuring Europe
 unprecedented dominance all over the world; some of the explanations for
 this are:
@@ -469,7 +469,7 @@ Part 2:
 
 Critics of Eurocentrism
 
-[CRITICAL OBJECTIONS AGAINST THE EUROPEAN-UNIQUENESS ARGUMENT]{.ul}
+CRITICAL OBJECTIONS AGAINST THE EUROPEAN-UNIQUENESS ARGUMENT
 
 There were many similarities between Europe and other areas on Earth;
 for example, around the 1750's, China, India, Japan and the Middle East
@@ -500,11 +500,11 @@ Synthesis of European Timeline Events:
 
 The wave of revolutions in Europe
 
-[THE CONGRESS OF VIENNA AND THE NEW WORLD]{.ul}
+THE CONGRESS OF VIENNA AND THE NEW WORLD
 
 After the French Revolution, Napoleon had tried to conquer continental
 Europe in order to reform and unite Europe under French guidance. He was
-defeated in [1814]{.ul} and then definitely [1815]{.ul} at Waterloo, and
+defeated in 1814 and then definitely 1815 at Waterloo, and
 the settlement of the various peace treaties (such as the Congress of
 Vienna) lasted one whole year. The political map of Europe was
 redefined; this peace plan was overseen by England, Russia, Prussia and
@@ -516,21 +516,21 @@ Germany and Italy, while peace was maintained for almost 40 years until
 the Crimean war in the 1850's, in which for the first time France,
 England and the Ottoman Empire fought against the Czarist Empire.
 
-[CONSTITUTIONAL INSURRECTIONS (1820-1825)]{.ul}
+CONSTITUTIONAL INSURRECTIONS (1820-1825)
 
 After the settlement of a conservative system with the Congress of
 Vienna, many liberal movements and protests bubbled to the surface. The
-first occurred in [1820]{.ul}, when soldiers (which were to be sent to
+first occurred in 1820, when soldiers (which were to be sent to
 South America to fight the protests and the independence movement in the
 colonies) revolted and forced the government to reinstate the former
 liberal constitution of Càdiz. This sparked liberal constitutional
 movements in Portugal and Southern Italy (where the figure of Guglielmo
 Pepe was prominent) and strengthened International solidarity between
 liberal movements. Furthermore, it provoked the Decembrist revolt in
-[1825]{.ul}.
+1825.
 
 The next wave of revolutionary upheavals started in France
-([1830-1831]{.ul}), where the dissatisfaction of the bourgeoisie caused
+(1830-1831), where the dissatisfaction of the bourgeoisie caused
 them to revolt against their particularly reactionary monarch, who had
 imposed restrictions on political participation. He stepped down and was
 substituted by another monarch who was more inclined to stick to some
@@ -551,17 +551,17 @@ it was represented in the Dutch state and successfully revolted for
 independence. This sparked smaller (unsuccessful) revolutions in Italian
 and German areas.
 
-[THE REVOLUTIONS OF 1848/1849]{.ul}
+THE REVOLUTIONS OF 1848/1849
 
-The most significant wave of revolutions occurred in [1848/1849]{.ul},
+The most significant wave of revolutions occurred in 1848/1849,
 and the only areas that were not involved were the Iberian peninsula,
 Northern Britain, the Scandinavian countries, the Tsarist Empire and the
-Ottoman Empire. The main claims regarded [constitutions, national
+Ottoman Empire. The main claims regarded constitutions, national
 unification and independence, and involved unfulfilled promises
-exacerbated by the Congress of Vienna]{.ul}.
+exacerbated by the Congress of Vienna.
 
-These were mostly successful, but there were also [fault lines between
-revolutionaries]{.ul}; this was a sign that the social, political and
+These were mostly successful, but there were also fault lines between
+revolutionaries; this was a sign that the social, political and
 economic landscape of Europe had changed a lot, and the main fault was
 between moderate liberals (who were for constitutional monarchy) and
 democrats/republicans/socialist forces, and between the bourgeoisie
@@ -587,9 +587,9 @@ Synthesis of European Timeline Events:
 
 New nation States in Europe (1832-1878)
 
-[THE BIRTH OF NEW NATION STATES]{.ul}
+THE BIRTH OF NEW NATION STATES
 
-The Greek movement ([1830's]{.ul}) took place in a period of strong
+The Greek movement (1830's) took place in a period of strong
 international solidarity and coincided with the upheavals in Spain and
 Russia. It was a strong cultural movement, and after it was ended
 successfully, there were two other movements that attracted intellectual
@@ -608,15 +608,15 @@ Lecture 5: The Concept of 'Industrial Revolution'
 
 LEARNING OBJECTIVES:
 
-[Subdivisions of the economy]{.ul}
+Subdivisions of the economy
 
-[Historical definitions of 'industry']{.ul}
+Historical definitions of 'industry'
 
-[Industry 'proper' and handicraft]{.ul}
+Industry 'proper' and handicraft
 
-[Structural change in a long-term perspective]{.ul}
+Structural change in a long-term perspective
 
-[Industrialisation: definition and geographical diffusion]{.ul}
+Industrialisation: definition and geographical diffusion
 
 Part 1:
 
@@ -624,25 +624,25 @@ Subdivisions of the economy
 
 The Industrial Revolution that triggered a process of industrialisation,
 which brought about structural change within our economy, such as the
-transformation of the various [economic sectors]{.ul}. These are,
+transformation of the various economic sectors. These are,
 respectively, :
 
 1)  PRIMARY SECTOR
 
-The processes of extraction of raw materials which regard [mining,
-electricity, agriculture]{.ul} (the most important sector),
-[fishin]{.ul}g and [hunting]{.ul}
+The processes of extraction of raw materials which regard mining,
+electricity, agriculture (the most important sector),
+fishing and hunting
 
 3)  SECONDARY SECTOR
 
-The transformation of raw materials into tangible goods; includes [heavy
-industry]{.ul} and [manufacturing industry]{.ul} (includes handicraft
+The transformation of raw materials into tangible goods; includes heavy
+industry and manufacturing industry (includes handicraft
 and follows a factorial system)
 
 4)  TERTIARY SECTOR
 
-This sector regards [the distribution of these tangible goods]{.ul} and
-[the production of intangible goods]{.ul}, that is:
+This sector regards the distribution of these tangible goods and
+the production of intangible goods, that is:
 
 ° trade
 
@@ -686,28 +686,35 @@ Historically, 'industry' was a rather generic word; in latin, it meant
 'being committed to/working on something'. Today, the word has differing
 denotations:
 
-1)  [Indicates the aggregate of manufacturing/the selection of
+1)  Indicates the aggregate of manufacturing/the selection of
     technically productive enterprises in a particular field (e.g.: 'the
-    automobile industry')]{.ul}
+    automobile industry')
 
-5)  [Indicates any general business activity or commercial enterprise
-    (e.g.: 'the Italian tourist industry')]{.ul}
 
-6)  [Indicates trade or manufacture in general (e.g.: 'the rise of
-    industry in Africa')]{.ul}
+
+
+5)  Indicates any general business activity or commercial enterprise
+    (e.g.: 'the Italian tourist industry')
+
+6)  Indicates trade or manufacture in general (e.g.: 'the rise of
+    industry in Africa')
 
 We are also confronted with different linguistic traditions as well:
 
-1)  [In English tradition, with the term 'industry', people meant the
+1)  In English tradition, with the term 'industry', people meant the
     mining industry and all activities pertaining to the Secondary
-    Sector]{.ul}
-7)  [In Italian tradition, on the other hand, 'industria' didn't only
-    regard mining and the Secondary Sector, but also many other
-    services]{.ul}
+    Sector
 
-8)  [Finally, in German tradition, 'industrie' referred to mining and
+
+
+
+7)  In Italian tradition, on the other hand, 'industria' didn't only
+    regard mining and the Secondary Sector, but also many other
+    services
+
+8)  Finally, in German tradition, 'industrie' referred to mining and
     the mechanised part of the Secondary Sector (handicraft was not
-    considered an industry)]{.ul}
+    considered an industry)
 
 The generic word 'industry' (that comes from latin) is conditioned by
 the fact that the first industrial activities of the revolution
@@ -743,11 +750,14 @@ on wage labour and capital investment and was pre-existent to industrial
 production methods. The only differences introduced by the Industrial
 Revolution were:
 
-1)  [A segmentation of the labour process that made labourers
-    interchangeable and expanded the labour market]{.ul}
+1)  A segmentation of the labour process that made labourers
+    interchangeable and expanded the labour market
 
-9)  [The allowance of scales of production that enumerated huge
-    investment with regards to production]{.ul}
+
+
+
+9)  The allowance of scales of production that enumerated huge
+    investment with regards to production
 
 In this way, industrialisation did not create capitalism, but it helped
 it become one of the key elements of modern industrial production. In
@@ -813,22 +823,22 @@ Lecture 6: The Industrial Revolution in Europe
 
 LEARNING OBJECTIVES:
 
-[The Characteristics of the Industrial Revolution in Great Britain]{.ul}
+The Characteristics of the Industrial Revolution in Great Britain
 
-[Belgium and Switzerland: a comparison]{.ul}
+Belgium and Switzerland: a comparison
 
-[French industrialisation in comparison with the British case]{.ul}
+French industrialisation in comparison with the British case
 
-[Railroads and universal banking: features of German
-industrialisation]{.ul}
+Railroads and universal banking: features of German
+industrialisation
 
-[Industrial regions in Italy, Spain, the Hapsburg and the Czarist
-Monarchies]{.ul}
+Industrial regions in Italy, Spain, the Hapsburg and the Czarist
+Monarchies
 
-[Industrialisation in the USA]{.ul}
+Industrialisation in the USA
 
-[Overview: Wealth, capitalism, urbanisation and demographic
-development]{.ul}
+Overview: Wealth, capitalism, urbanisation and demographic
+development
 
 Part 1:
 
@@ -837,35 +847,38 @@ The Characteristics of the Industrial Revolution in Great Britain
 The main factors of Britain's economic process/Industrialisation are
 very diverse:
 
-1)  [Colonialism]{.ul} (the colonies provided raw materials and changed
-    the mentality of the British nobility), [mercantile capitalism]{.ul}
-    and [overseas trade]{.ul}
+1)  Colonialism (the colonies provided raw materials and changed
+    the mentality of the British nobility), mercantile capitalism
+    and overseas trade
 
-10) [Corporate enterprise]{.ul} and [stock exchange]{.ul}
 
-11) [Agricultural improvement]{.ul}, [enclosures]{.ul} and [land
-    circulation]{.ul}
 
-12) [Political systems]{.ul} (a 'liberal climate' was present in Great
+
+10) Corporate enterprise and stock exchange
+
+11) Agricultural improvement, enclosures and land
+    circulation
+
+12) Political systems (a 'liberal climate' was present in Great
     Britain at that time, which was great for investment and
     market-oriented economic sectors and granted political participation
-    for the nobility and the upper class) and [mercantilism]{.ul} (very
+    for the nobility and the upper class) and mercantilism (very
     important for building up a mercantile fleet)
 
-13) [The mentality of the nobility]{.ul} (they became increasingly
+13) The mentality of the nobility (they became increasingly
     enterprise-oriented and adopted a capitalistic mentality)
 
-14) [The adoption of free trade policies during the 18th century]{.ul},
+14) The adoption of free trade policies during the 18th century,
     which was convenient for them because they were the main trading
     power
 
-15) [State institutions were also very important]{.ul} (the monarchy
+15) State institutions were also very important (the monarchy
     controlled the currency, which was homogeneous throughout the
     kingdom and created optimal circumstances for a stable monetary
     system; protectionist measures were also taken sometimes to boost
     Britain's own production, such as with the textile industry)
 
-16) [Monetary stability]{.ul} and [the banking system]{.ul} that spread
+16) Monetary stability and the banking system that spread
     from the city to the countryside (agriculture became market-oriented
     and the agricultural industry dwindled into enterprises that served
     external markets, such as trade, and investments were made towards
@@ -875,12 +888,12 @@ very diverse:
     think of investing their money is 'bourgeois' enterprises; the
     banking system delivered the capital for these investments)
 
-17) [Proto-industry]{.ul} and [technological innovation]{.ul}
+17) Proto-industry and technological innovation
 
-18) [Transport systems]{.ul} and [the development of
-    infrastructure]{.ul}
+18) Transport systems and the development of
+    infrastructure
 
-19) [Economic geography of Britain]{.ul} (very important because the
+19) Economic geography of Britain (very important because the
     layers of iron and minerals were close to the seaports, which made
     the cost of these raw materials quite low; this was a huge advantage
     compared to France, where coal was imported at a higher price due to
@@ -959,17 +972,20 @@ Industrialisation, and not France?
 Up to the French Revolution, the country seemed to have the best
 preconditions:
 
-1)  [Corporate entrepreneurship]{.ul} (in the glass, gas, chemicals, and
+1)  Corporate entrepreneurship (in the glass, gas, chemicals, and
     sugar industries)
 
-20) [More science-oriented innovations]{.ul}
 
-21) [Seemed fitter to lead the Second Industrial revolution thanks to
-    its corporate entrepreneurship]{.ul}
 
-22) [Had the best infrastructure and lands in Europe, while Britain was
+
+20) More science-oriented innovations
+
+21) Seemed fitter to lead the Second Industrial revolution thanks to
+    its corporate entrepreneurship
+
+22) Had the best infrastructure and lands in Europe, while Britain was
     quite poor because the State did not intervene in these
-    sectors]{.ul}
+    sectors
 
 It was due to the Napoleonic era that French industrial development came
 to a stand-still and came to lag behind Britain during the Industrial
@@ -977,33 +993,36 @@ Revolution, and the European market was so protected that technological
 innovation was practically null. Some comparative disadvantages
 (although greatly exaggerated by French scholars) are:
 
-1)  [Loss of colonies]{.ul}
+1)  Loss of colonies
 
-23) [Less export-oriented]{.ul}
 
-24) [The presence of familial capitalism in the textile and iron
-    industry]{.ul}
 
-25) [The nobility's conservative views]{.ul}
 
-26) [The emergence of a Peasantry middle-class ownership of land after
-    the Slow Revolution]{.ul} (does not favour population growth,
+23) Less export-oriented
+
+24) The presence of familial capitalism in the textile and iron
+    industry
+
+25) The nobility's conservative views
+
+26) The emergence of a Peasantry middle-class ownership of land after
+    the Slow Revolution (does not favour population growth,
     leading to slow demographic growth listed in point number 7)
 
-27) [Inability of French agricultural and industrial producers to meet
+27) Inability of French agricultural and industrial producers to meet
     the growing worldwide competition for markets after the fall of
-    Napoleon]{.ul} (although inventions like the Jacquard loom defy this
+    Napoleon (although inventions like the Jacquard loom defy this
     fact)
 
-28) [Slow demographic growth (people migrated to towns an industrial
-    demand diminished)]{.ul}
+28) Slow demographic growth (people migrated to towns an industrial
+    demand diminished)
 
-29) [Weaker banking system]{.ul} (Liòn was the only industrialised city
+29) Weaker banking system (Liòn was the only industrialised city
     and banks were only concentrated there; banks mostly invested in
     real estate and agriculture, which were main sources of instability
     that contributed to these banks' crash)
 
-30) [The economic geography of French territory]{.ul} (the location of
+30) The economic geography of French territory (the location of
     coal mines and iron mines diverged, and there were no rivers in
     between; especially before the creation of rail-roads, the
     integration between the two sectors could not occur)
@@ -1072,6 +1091,9 @@ Industrialisation before World War One:
     participated in the first wave of Industrialisation and, thanks to
     its widespread textile manufacturing, was fully industrialised by
     1900
+
+
+
 
 4)  In Italy, Piedmont and Lombardy had flourished as industrial regions
     during the first wave and were also fully industrialised by 1900;
@@ -1143,23 +1165,29 @@ Overview: Wealth, capitalism, urbanisation, and demographic development
 
 The leading industries during the Industrial Industry were:
 
-1)  [1760-1840: textiles, coal, iron, steam engine]{.ul}
+1)  1760-1840: textiles, coal, iron, steam engine
 
-7)  [1840-1880: railways, steamships]{.ul}
 
-8)  [1880-1920: chemicals, steel, electricity, internal combustion
-    motors, automobiles]{.ul}
+
+
+7)  1840-1880: railways, steamships
+
+8)  1880-1920: chemicals, steel, electricity, internal combustion
+    motors, automobiles
 
 The effects on wealth and economic growth were:
 
-1)  [An increase in productivity through mechanisation in the cotton
-    industry from 1750 to 1825]{.ul}
+1)  An increase in productivity through mechanisation in the cotton
+    industry from 1750 to 1825
 
-9)  [An increase in productivity in the iron industry in Great Britain
-    from 1790 to 1860]{.ul}
 
-10) [An increase in income per capita, especially in Great Britain,
-    France, Germany, Italy and the USA]{.ul}
+
+
+9)  An increase in productivity in the iron industry in Great Britain
+    from 1790 to 1860
+
+10) An increase in income per capita, especially in Great Britain,
+    France, Germany, Italy and the USA
 
 With regards to population growth, Europe swelled from 150 million to
 400 million inhabitants during the time frame between 1750 and 1900.
@@ -1172,25 +1200,25 @@ Lecture 7: The American Revolution of 1776
 
 LEARNING OBJECTIVES:
 
-[Puritan eschatology]{.ul}
+Puritan eschatology
 
-[The conflict between the British crown and its American colonies]{.ul}
+The conflict between the British crown and its American colonies
 
-[The Declaration of Independence of 1776 and the Constitution of
-1787]{.ul}
+The Declaration of Independence of 1776 and the Constitution of
+1787
 
-[Slavery before and after Independence]{.ul}
+Slavery before and after Independence
 
-[Westward expansion and native population]{.ul}
+Westward expansion and native population
 
-[Democratic representation and social structure]{.ul}
+Democratic representation and social structure
 
 Part 1:
 
 Puritan eschatology
 
-American colonies were only founded by its conquerers in the [17th
-century]{.ul}, and the political, cultural and religious beliefs that
+American colonies were only founded by its conquerers in the 17th
+century, and the political, cultural and religious beliefs that
 would be present there were brought in by settlers from Europe (in
 particular, Great Britain), a continent riddled with religious and
 political conflict.
@@ -1223,7 +1251,7 @@ Part 2:
 The conflict between the British crown and its American colonies
 
 The American Revolution can also be considered as one of the
-consequences of the [Seven Years' War]{.ul}, which extended over many
+consequences of the Seven Years' War, which extended over many
 continents and ended successfully for Great Britain.
 
 At the end of the war (1763), France cede all mainland North American
@@ -1269,20 +1297,20 @@ The Declaration of Independence of 1776 and the Constitution of 1787
 
 The commanding chief of the Continental Army was George Washington, and
 the first armed conflict of the Revolutionary War occurred in
-[1775]{.ul}. This led to the Continental Congress' emanation of the
-Declaration of Independence on the [4th of July, 1776]{.ul}; but the war
-took a twist when, in [1777]{.ul}, British and American loyalist (a
+1775. This led to the Continental Congress' emanation of the
+Declaration of Independence on the 4th of July, 1776; but the war
+took a twist when, in 1777, British and American loyalist (a
 number of other troops were also present, some of them on the side of
 the British, such as a lot of slaves that hoped for the abolition of
 slavery, while some sided with the settlers, especially the French
 troops, who wanted to take revenge for the horrors of the Seven Years'
 War; one of the French commanders was General la Fayette) forces
-surrendered at Saratoga on the [13th of October]{.ul}. On the [1st of
-March]{.ul}, [1781]{.ul}, the Articles of Confederation were ratified,
-and on the [18th of October]{.ul}, the British forces surrendered. Many
+surrendered at Saratoga on the 13th of October. On the 1st of
+March, 1781, the Articles of Confederation were ratified,
+and on the 18th of October, the British forces surrendered. Many
 other important events followed, such as the Peace Treaty of Paris in
-[1783]{.ul}, the adoption of the American Constitution in [1787]{.ul}
-and the vote for the Bill of Rights in [1791]{.ul}.
+1783, the adoption of the American Constitution in 1787
+and the vote for the Bill of Rights in 1791.
 
 -.-
 
@@ -1307,7 +1335,7 @@ kicking.
 
 Slavery was outlawed in most northern States after the end of the war,
 but this only freed children when these turned 25 years old, and racism
-still persisted (as we can see in a Massachusetts law of [1786]{.ul}
+still persisted (as we can see in a Massachusetts law of 1786
 that prohibited whites from marrying African Americans, Indians or
 people of mixed race).
 
@@ -1321,10 +1349,10 @@ which swelled to 58,000 in 1850.
 
 THE AFTERMATH OF THE CIVIL WAR
 
-After a four-year Civil War ([1861-1865]{.ul}) between the United States
+After a four-year Civil War (1861-1865) between the United States
 and 11 slave-holding Southern states, these all formed the Confederate
 States of America. Regarding slavery, things took a turn in 1865 with
-the 13th Amendment (passed by Congress on [January 31st, 1865]{.ul}),
+the 13th Amendment (passed by Congress on January 31st, 1865),
 which states:
 
 "Neither slavery nor involuntary servitude, except as a punishment for
@@ -1332,13 +1360,13 @@ crime whereof the party shall have been duly convicted, shall exist
 within the United States, or any place subject to their jurisdiction"
 
 What ensued was a mass incarceration of African-Americans in order to
-legally keep them as slaves. From [1875]{.ul} to [1965]{.ul}, State laws
+legally keep them as slaves. From 1875 to 1965, State laws
 and local regulations came into existence that enforced racial
 segregation (apartheid) in the USA, especially in the Southern States.
 Only under the pressure of the Civil Rights movement did the States
-start the process of overcoming Jim Crow in [1964]{.ul}, a racist
+start the process of overcoming Jim Crow in 1964, a racist
 caricatural character of African-Americans that has been present since
-the [1820s]{.ul}.
+the 1820s.
 
 -.-
 
@@ -1351,7 +1379,7 @@ United States first started expanding its territory with the Treaty of
 Paris, proceeding both Westward and Southward, conquering land through
 wars and peaceful treaties, such as with Mexico. On a diplomatic level,
 it was still in the logic of colonial territorial administration (such
-as with Mexico and Alaska, which was purchased in the [1860s]{.ul} by
+as with Mexico and Alaska, which was purchased in the 1860s by
 the USA from the Czarist Empire for 7.2 million dollars), but this was
 not the case with many native populations. On these lands lived a
 consistent number of native Americans who had deported to these areas by
@@ -1405,6 +1433,9 @@ The political system is the following:
 
 1)  The people elect members of Congress and the President
 
+
+
+
 15) Congress approves the Cabinet's (executive body) decisions and has
     the power of impeaching the President
 
@@ -1414,6 +1445,9 @@ The people who had a right to vote for the first American Congress were
 the following:
 
 1)  60-80% of white adult male citizens
+
+
+
 
 17) Many poor white, and most of the black, both free and enslaved, were
     excluded
@@ -1429,15 +1463,15 @@ Lecture 8: The French Revolution and the Napoleonic period, 1789-1814
 
 LEARNING OBJECTIVES:
 
-[Major turning points of the revolutionary process]{.ul}
+Major turning points of the revolutionary process
 
-[A new concept: "sovereignty of the people"]{.ul}
+A new concept: "sovereignty of the people"
 
-[The Nation as religion]{.ul}
+The Nation as religion
 
-[Peoples' sovereignty and the rule of law]{.ul}
+Peoples' sovereignty and the rule of law
 
-[France 1789-1814: a laboratory of different possibilities]{.ul}
+France 1789-1814: a laboratory of different possibilities
 
 Part 1:
 
@@ -1454,15 +1488,15 @@ into debt; for this reason, they introduced unsuccessful financial and
 monetary reforms, causing quarrels), and the following protests which
 emulated those of the American Revolution (which was viewed very
 positively in France). Elected representative bodies of the three
-Estates had not been called in since [1614]{.ul}, but the King called it
-in again in the spring of [1789]{.ul} to have the consent of the French
+Estates had not been called in since 1614, but the King called it
+in again in the spring of 1789 to have the consent of the French
 population regarding these taxes. The elections were held at the end of
 a process of broad political mobilisation, in which the bourgeoisie
 wanted political participation and the urban working classes wanted
 improvement and political participation. There were quite high tensions
 when the Third Estate (the common people), having negated that every
 deputy would have one vote, declared itself the National Assembly. After
-the storm of the Bastille ([July 14th]{.ul}), King Louis XVI recognised
+the storm of the Bastille (July 14th), King Louis XVI recognised
 its validity, and the Assembly adopted the Declaration of the Rights of
 Man and of the Citizens.
 
@@ -1470,18 +1504,18 @@ What followed was a suppression of religious orders (which created a
 popular, counter-revolutionary movement mobilised by the clergy and by
 some peasants) and the abolition of feudalism and the nobility, and
 political parties such as the Gironde, the Cordeliers and the Jacobins
-grew in power. In September of [1791]{.ul}, a Constitutional Monarchy
+grew in power. In September of 1791, a Constitutional Monarchy
 (which had already existed during the Revolution) was established thanks
 to the brand new Constitution. Foot riots ensued in Paris, followed by
 popular upheaval against the monarchy. Following some international
-developments, King Louis XVI was arrested and guillotined in [1793]{.ul}
+developments, King Louis XVI was arrested and guillotined in 1793
 when the most important outbreak of counter-rebellion sparked in the
 Vendèe. After this, the Committee of Public Safety was formed, and the
 most important figure was Robespierre. This was a radical acceleration
 of the Revolution, since he was a member of the Jacobins, a group which
 came to control the majority of the National Assembly and executed the
 majority of the Girondists to gain control. Under their control, the
-[1793]{.ul} Republican Constitution was ratified by a popular
+1793 Republican Constitution was ratified by a popular
 referendum, allowing universal male suffrage.
 
 At this very moment, riots were suspended because the Committee of
@@ -1494,13 +1528,13 @@ Revolution. Robespierre then executed himself.
 
 A moderate period of the Revolution began with more conservative and
 monarchist political views, meaning that the progressive Constitution of
-[1793]{.ul} was substituted by a Moderate-Liberal Constitution which
+1793 was substituted by a Moderate-Liberal Constitution which
 limited political participation to the nobility and introduced a new
 form of execution. In a certain way, it harkened back to the Girondists'
 views and urged expansionistic wars in Europe and Africa; Napoleon
 Bonaparte emerged, who proposed to 'civilise' these new territories. In
-[1798]{.ul}, he was defeated in Egypt and had to turn back to France in
-[1799]{.ul}. Nevertheless, he was seen as a hero and he took his
+1798, he was defeated in Egypt and had to turn back to France in
+1799. Nevertheless, he was seen as a hero and he took his
 popularity to organise the Coup d'Etat of 18 Brumaire, an event which
 marked the end of the Directory and the introduction of another
 Constitution (which foresaw the leadership of a restricted number of
@@ -1525,8 +1559,8 @@ In the early days of the Revolution, there was a great wave of sympathy
 for the Revolution outside of France, but there was also a strong
 reaction against it. Edmund Burke was an Irish statesman who served as a
 member of the British house of commons for over thirty years. In the
-[1770's]{.ul}, he had supported the American Revolution, yet durig the
-late [1780's]{.ul}, his position contrasted greatly with that of the
+1770's, he had supported the American Revolution, yet durig the
+late 1780's, his position contrasted greatly with that of the
 sympathisers of the French Revolution. His book, 'Reflections on the
 Revolution in France', became a European bestseller and was translated
 into several languages; it was the most influential text against the
@@ -1535,7 +1569,7 @@ equilibrium that had been destroyed and the responsibility of Europe
 with regards to this became major points in the Congress of Vienna. When
 writing his book, the execution of King Louis XVI was still beyond his
 imagination, and yet he was outraged by what he had already seen (such
-as the Women's March on Versailles in [1789]{.ul}, a movement which
+as the Women's March on Versailles in 1789, a movement which
 forced the King and Queen to wear the Phrygian cap, a symbol of the
 Revolution). Burke wondered what could hold a political society
 together, and he came to the conclusion that it was the recognition of
@@ -1546,7 +1580,7 @@ traditions.
 
 Part 2:
 
-A new concept: ["]{dir="rtl"}sovereignty of the people"
+A new concept: "]{dir="rtl"}sovereignty of the people"
 
 The Revolution brought about ideological innovations, such as the
 sovereignty of the people, which rearranged the political meaning of the
@@ -1556,7 +1590,7 @@ dominance in the hierarchy of soicety), the term 'people' referred to
 the individuals excluded from political decision and was a generic name
 for the amorphous mass of humans that had no say in the direction of the
 nation. This perspective was turned around during the Revolution, and in
-early [1789]{.ul}, Emmanuel Joseph Sieyès published the pamphlet 'What
+early 1789, Emmanuel Joseph Sieyès published the pamphlet 'What
 is the Third Estate', which would become a founding text of the
 Revolution and of the concept of the people's sovereignty in Europe. Not
 only did Sieyès' view of the 'people' correspond to the Third Estate,
@@ -1580,8 +1614,8 @@ The mythical foundation of the people's sovereignty was clearly a part
 of Revolutionary language: according to Robespierre, a sovereign
 individual is one who establishes its own new legitimacy of power
 derived from the eternal laws of reason, justice and nature. Robespierre
-also claimed that [the people were sacred through the sacred laws of
-nature]{.ul}, while the King wasn't, and thus that his authority was
+also claimed that the people were sacred through the sacred laws of
+nature, while the King wasn't, and thus that his authority was
 merely a farce. The allegories and the symbolism of the Revolution also
 confirmed the existence of this process of sacralisation, as concepts
 such as justice or nature or humanity were depicted as goddesses who
@@ -1590,17 +1624,17 @@ culminated in the Parliamentary decision that the Supreme Being existed
 and that its veneration should be a public affair.
 
 One of the most perceptive observers of the French Revolution was the
-early Romantic poet, Novalis; his [1799]{.ul} pamphlet, 'Christianity or
+early Romantic poet, Novalis; his 1799 pamphlet, 'Christianity or
 Europe', is not wrongly considered the founding manifesto of modern
 conservatism. Like Burke's essay, it is a concise critic of the
 Revolutionary project. Yet, the text also reveals significant passages
-of appreciation. Indeed, for Novalis, the French Revolution [marked the
-end of the political realisation of the Enlightenment]{.ul}. According
+of appreciation. Indeed, for Novalis, the French Revolution marked the
+end of the political realisation of the Enlightenment. According
 to Novalis, the philosophers of this period had disparaged morality and
 the love of art, purging poetry of nature and the human soul; from his
 point of view, the French Revolution sent a signal of regeneration
-because [these same Revolutionaries restored passion, religion and the
-concept of sacralised nature in a historically remarkable manner]{.ul}.
+because these same Revolutionaries restored passion, religion and the
+concept of sacralised nature in a historically remarkable manner.
 In this way, politics became a matter of mass communication from the end
 of the Revolution onwards. This poet anticipated the principles of
 political communication in the coming era of the peoples' sovereignty.
@@ -1609,15 +1643,15 @@ political communication in the coming era of the peoples' sovereignty.
 
 Part 4:
 
-Peoples[']{dir="rtl"} sovereignty and the rule of law
+Peoples']{dir="rtl"} sovereignty and the rule of law
 
 Enlightenment thinkers like Montesquieu, Kant and Plato were hostile to
 democracy, which they only deemed the first step towards tyranny and the
 complete opposite of the Republic. The early liberals came up in the
 moderate part of the Revolution and shared Montesquieu's and Kant's
-[skepticism of democracy]{.ul}, in which we can discern a concern for
+skepticism of democracy, in which we can discern a concern for
 social and economic power and a concern for the rule of law. All along
-the [19th century]{.ul}, most liberals fought against democracy,
+the 19th century, most liberals fought against democracy,
 because, by extending the right to vote for the lower classes, it would
 threaten the bourgeoisie's power. They saw the rule of a socialist
 majority as a threat to sacred property rights; at any rate, the concern
@@ -1635,9 +1669,9 @@ and unlimited sovereign power because it was a result of general will
 and national justice. The emergence of popular sovereignty and the
 Constitution divided them, subjecting political power to the control of
 counter-powers and caused the sovereign people to become more absolute
-and theoretical. [Integrating them more into political life would cause
+and theoretical. Integrating them more into political life would cause
 the foul smell of tyranny to spread, such as during the emergence of
-Napoleon and when he was crowned as Emperor.]{.ul}
+Napoleon and when he was crowned as Emperor.
 
 -.-
 
@@ -1646,39 +1680,39 @@ Part 5:
 France 1789-1814: a laboratory of different possibilities
 
 If we look back at the twenty-five years that separated the end of
-absolute monarchy in France ([1789]{.ul}) and its restoration in the
-Vienna Congress ([1814]{.ul}), we can see that this period in France and
+absolute monarchy in France (1789) and its restoration in the
+Vienna Congress (1814), we can see that this period in France and
 Europe constituted an extraordinary laboratory of different political
 and constitutional possibilities, which delineated the possibilities
 that would be seen in the following two-hundred years:
 
-Absolute monarch ([1789]{.ul})
+Absolute monarch (1789)
 
-Constitutional monarchy ([1789]{.ul})
+Constitutional monarchy (1789)
 
-Republican constitution of democratic character ([1793]{.ul})
+Republican constitution of democratic character (1793)
 
-Emergency regime of terror ([1793-94]{.ul})
+Emergency regime of terror (1793-94)
 
-Moderate elitist liberal rule ([1794-1799]{.ul})
+Moderate elitist liberal rule (1794-1799)
 
-Authoritarian populist rule ([1799-1804]{.ul})
+Authoritarian populist rule (1799-1804)
 
-Monarchic dictatorship ([1804-1814]{.ul})
+Monarchic dictatorship (1804-1814)
 
-Restored absolute monarchy ([1815]{.ul})
+Restored absolute monarchy (1815)
 
 Lecture 9: Liberalism, Socialism and Feminism
 
 LEARNING OBJECTIVES:
 
-['Liberty' before Liberalism]{.ul}
+'Liberty' before Liberalism
 
-[Liberalism as a political movement]{.ul}
+Liberalism as a political movement
 
-[The Emergence of a Socialist movement in the 19th century]{.ul}
+The Emergence of a Socialist movement in the 19th century
 
-[The Feminist movement and Women's Rights before World War One]{.ul}
+The Feminist movement and Women's Rights before World War One
 
 Part 1:
 
@@ -1699,11 +1733,11 @@ these thinkers had in mind weren't necessarily the same that
 19th-century liberals would speak about later on. John Pocock and
 Quentin Skinner argued that there wasn't just one meaning of liberty:
 
-[The contractarian tradition:]{.ul} concerned with maximising individual
+The contractarian tradition: concerned with maximising individual
 freedom and wealth under the condition of a political society
 (commonwealth)
 
-[The Roman republican tradition:]{.ul} reactivated by Macchiavelli and
+The Roman republican tradition: reactivated by Macchiavelli and
 others, and was concerned with the freedom of the political society
 (republic) as a whole depending on individual virtue
 
@@ -1718,40 +1752,40 @@ Part 2:
 Liberalism as a political movement
 
 Differently from the concept of 'liberty', 'liberal' still had no
-political meaning in the [18th century]{.ul} and referred to social and
+political meaning in the 18th century and referred to social and
 moral customs, as well as tolerant or loose moral habits. It became an
 adjective with a political connotation during the French Directorate
 (the moderate period of the French Revolution); it then became a
 fashionable word in the European establishment, especially regarding
 Napoleon and Czar Alexander I, who both referred to themselves as men
 with liberal principles. The liberal movement was born in the
-[1820's]{.ul}, and at the time it was strongly characterised by
+1820's, and at the time it was strongly characterised by
 international solidarity and freemasonry during the Restoration period,
 and its main areas of interest were Spain, Portugal, France, Italy and
 Greece.
 
-Only during the first half of the [19th century]{.ul} was this great
+Only during the first half of the 19th century was this great
 strand of ideas identified as 'liberalism', a standard reference to
 French and European moderate bourgeois political ideals, and often in
-favour to constitutional monarchy. After the [1848]{.ul} revolutions,
+favour to constitutional monarchy. After the 1848 revolutions,
 liberal groups and parties emerged under that name that had
 distinguished themselves from conservatives during the revolution on one
 hand, and democrats and republicans on the other. The most important
-philosopher of Liberalism was John Stuart Mill, who said that ["people
+philosopher of Liberalism was John Stuart Mill, who said that "people
 understand their own interests better and care for them more than the
-government does or is expected to"]{.ul}; this was said in a period when
+government does or is expected to"; this was said in a period when
 it became clearer that the government wouldn't be the night guardian
 that would only grant society, but also take over administration and
 control of infrastructures, a development that liberals didn't see as
 positive.
 
-Great changes came in the [1860's]{.ul}, when the former British Whig
+Great changes came in the 1860's, when the former British Whig
 Party (of Lockean traditions) changed their name into Liberal Party.
 With regards to Europe, the great time of Liberal parties ended in
-[1918]{.ul} with the transformation of constitutional monarchies, mass
+1918 with the transformation of constitutional monarchies, mass
 society and the mass extension of the right to vote. In the USA, on the
 other hand, the adjective 'liberal' had no great appeal until the
-[1930's]{.ul}, when it became identified with moderate State
+1930's, when it became identified with moderate State
 intervention and social politics, and a commitment in favour of civil
 rights.
 
@@ -1763,8 +1797,8 @@ The Emergence of a Socialist movement in the 19th century
 
 To understand why the question of socialism and communism will be an
 aspect that will persist in the following years, we also have to
-understand that the emergence of the concept of [private property on
-land]{.ul} (which was the main factor) in Europe was historically seen
+understand that the emergence of the concept of private property on
+land (which was the main factor) in Europe was historically seen
 as relatively new, and it was argued by the first thinkers of natural
 justice as a social contract with work, and that people who worked the
 land were quite right to refer to it as their exclusive property.
@@ -1787,28 +1821,28 @@ discussion and of efforts of change (e.g.: during the French Revolution
 with Babeuf).
 
 One of the most important thinkers of this age was Henri de Saint-Simon
-([1760-1825]{.ul}), who founded a more technocratic view ([he argued in
-favour of State-organised industrial production and distribution]{.ul})
+(1760-1825), who founded a more technocratic view (he argued in
+favour of State-organised industrial production and distribution)
 of industrial society, which was a very influential concept in the
 international technocratic tradition.
 
-During the [1848]{.ul} Revolution, there were efforts in France to erect
+During the 1848 Revolution, there were efforts in France to erect
 working houses to abolish unemployment and create reservoirs of
 socialism under the protection of the State. There were also thinkers
 who thought that in the middle of the social environment of the liberal
 societies, the best thing to do was to begin to form a community that
 would put into practise communist forms of living; an example of one of
-the supporters of this was Robert Owen ([1771-1858]{.ul}), who advocated
+the supporters of this was Robert Owen (1771-1858), who advocated
 the transformation of society into smaller local communities. He also
-vouched for [no child labour, schools, free healthcare and affordable
-food]{.ul} in a New Lanark village, and he also formed a tightly-knit
+vouched for no child labour, schools, free healthcare and affordable
+food in a New Lanark village, and he also formed a tightly-knit
 socialist community in New Harmony, Indiana, which followed ideals like
-[8-hour workdays and moneyless trade]{.ul}. His model was not emulated
+8-hour workdays and moneyless trade. His model was not emulated
 as he had thought it would be, however.
 
 Similarly, from within this set of liberal thinkers emerged the
-anarchists ('libertarian socialists'), who were a sort of [liberal left
-wing]{.ul} rather than of the socialist movement because they do not
+anarchists ('libertarian socialists'), who were a sort of liberal left
+wing rather than of the socialist movement because they do not
 wish to give the State a key role in society. They were prominent in
 many European countries in the mid-19th century, such as Switzerland,
 Spain and Russia. These various strands of thought were called 'utopian
@@ -1820,7 +1854,7 @@ history in a philosophical manner. Instead, they proposed an analysis
 contradictions introduced by capitalism in a way that was in line with a
 scientific philosophy of history. Thanks to this, with the advancement
 of industrialisation, (electorally) strong Socialist trade unions and
-political parties emerged in Europe. After the [1900's]{.ul}, their
+political parties emerged in Europe. After the 1900's, their
 revolutionary purposes were gradually marginalised in favour of
 reformist claims for a gradual improvement in the framework of
 capitalist society.
@@ -1829,24 +1863,24 @@ capitalist society.
 
 Part 4:
 
-The Feminist movement and Women[']{dir="rtl"}s Rights before World War
+The Feminist movement and Women']{dir="rtl"}s Rights before World War
 One
 
 Although Women's suffrage in several countries was only reached in the
-[1890's]{.ul} and the [1920's]{.ul}, the Feminist movement started long
+1890's and the 1920's, the Feminist movement started long
 before:
 
-Mary Astell ([A Serious Proposal to the Ladies + Some Reflections upon
-Marriage]{.ul}) = "If all Men are born free, how is it that all Women
+Mary Astell (A Serious Proposal to the Ladies + Some Reflections upon
+Marriage) = "If all Men are born free, how is it that all Women
 are born Slaves?"
 
-Olympe de Gouges ([Declaration of the Rights of Women and the Female
-Citizen]{.ul}) = exposed the failures of the French Revolution in the
+Olympe de Gouges (Declaration of the Rights of Women and the Female
+Citizen) = exposed the failures of the French Revolution in the
 recognition of sexual equality; afterwards, in the 1790, Nicolas de
 Condorcet and Etta Palm d'Aelders unsuccessfully called on the National
 Assembly to extend civil and political rights to women
 
-Mary Wollstonecraft [(A Vindication of the Rights of Women]{.ul}) = one
+Mary Wollstonecraft (A Vindication of the Rights of Women) = one
 of the earliest works of feminist philosophy, claims women's right for
 education in order for them to take their role in society, as they are
 essential to the nation
@@ -1854,19 +1888,19 @@ essential to the nation
 Clara Zetkin = Marxist theorist and activist for women's rights;
 organised the first International Women's Day
 
-Harriet Taylor Mill ([the Enfranchisement of Women]{.ul})
+Harriet Taylor Mill (the Enfranchisement of Women)
 
 Lecture 10: The concept of 'nation' and Nationalism
 
 LEARNING OBJECTIVES:
 
-[The ideas of Nation: Essentialism vs Constructivism]{.ul}
+The ideas of Nation: Essentialism vs Constructivism
 
-[The phases of Nation-Building]{.ul}
+The phases of Nation-Building
 
-[The Nation as an Imagined Community]{.ul}
+The Nation as an Imagined Community
 
-[Pedagogy and the invention of tradition]{.ul}
+Pedagogy and the invention of tradition
 
 Part 1:
 
@@ -1879,8 +1913,8 @@ each with its own distinct culture and deserving political independence
 --- is sometimes regarded as a natural and ancient organisation of human
 society. "
 
-This has been the mainstream view of 'nation' all throughout the [19th
-century]{.ul} and most part of [20th century]{.ul}, and in most the
+This has been the mainstream view of 'nation' all throughout the 19th
+century and most part of 20th century, and in most the
 cases it is the most widespread interpretation of national history and
 the concept of being a nation.
 
@@ -1890,11 +1924,11 @@ dynasties that had hidden it for centuries in order to achieve national
 unity before national consciousness could begin to spread. To become
 conscious of the existence of nations is the first step to reach rebirth
 and reemergence, or, in Italian, 'risorgimento'. History that
-reestablishes the idea of nation is also called [Essentialism]{.ul}.
+reestablishes the idea of nation is also called Essentialism.
 Federico Chabod was an Italian historian, and it was in his book, 'The
-Idea of a Nation\' ([1961]{.ul}) that he makes several references to
+Idea of a Nation\' (1961) that he makes several references to
 Rousseau, who underlined that at the centre of political society there
-are wilful acts. This is called [Constructivism]{.ul}, and it claims
+are wilful acts. This is called Constructivism, and it claims
 that a political community will not come into existence without wilful
 acts that come from a place of determination, since a nation must be
 constructed with a wilful act as the number of communities that would
@@ -1903,7 +1937,7 @@ second thought that not many scholars necessarily share. In fact, there
 were many intellectual confrontations between these two schools of
 scholars.
 
-From the [1980s]{.ul} onwards, the Constructivist interpretation of
+From the 1980s onwards, the Constructivist interpretation of
 nations was put forward by scholars who didn't have patriotic
 interpretations of nations, more critical regarding the vary idea of the
 nation, which did not necessarily stick with the distinction with
@@ -2019,6 +2053,9 @@ Miroslav Hroch: Social preconditions of national revival in Europe
     (formulation that is a bit essentialism and constructivist , not so
     much ethnic , social condition within marxist world)
 
+
+
+
 -   Three key moments of nation-building: (1) creation of a "memory of a
     common past"; (2) social communication across linguistic and
     cultural borders (3) spread of the idea of equality.\
@@ -2072,6 +2109,9 @@ Reflections on the Origin and Spread of Nationalism (1983):
     a nation is both imagined and imaginary, since no single person
     belonging to it in his life will know all the others belonging to
     the same nation, as it would be in a de facto community
+
+
+
 
 -   communities (national, tribal etc.) should not be distinguished
     according to objective criteria, but only in the way in which they
@@ -2206,23 +2246,23 @@ Lecture 11: Social changes in Europe, 1800-1914
 
 LEARNING OBJECTIVES:
 
-[An Overview of Social Changes up until World War One]{.ul}
+An Overview of Social Changes up until World War One
 
-[Transformations of Bourgeoisie and the 'Liberal Idea']{.ul}
+Transformations of Bourgeoisie and the 'Liberal Idea'
 
-[Transformation of the working class and the 'socialist idea']{.ul}
+Transformation of the working class and the 'socialist idea'
 
-[The 'residual' sectors of society: the Nobility and Peasants]{.ul}
+The 'residual' sectors of society: the Nobility and Peasants
 
 Part 1:
 
 An Overview of Social Changes up until World War One
 
-The 19th century was characterised by [changes in class structure and in
-their names]{.ul}. With a rise in productivity from the times of the
+The 19th century was characterised by changes in class structure and in
+their names. With a rise in productivity from the times of the
 neolithic revolution, it was possible to construct a triangular social
-hierarchy in which there were [less rich people than people in the
-working class]{.ul}:
+hierarchy in which there were less rich people than people in the
+working class:
 
 Highest orders
 
@@ -2240,8 +2280,8 @@ Seventh class
 
 Army and navy
 
-This new hierarchy divided people according to [their role within the
-productive system]{.ul}. Marx's division of classes, considered by many
+This new hierarchy divided people according to their role within the
+productive system. Marx's division of classes, considered by many
 thinkers of the 19th century, was the following:
 
 Capitalists, or bourgeoisie (own the means of production and purchase
@@ -2264,8 +2304,8 @@ entrepreneurs that possess the land and a certain amount of wealth.
 Next we have the petit bourgeoisie, who are the equivalent of the old
 society are small and middle-class agricultural land owners.\
 And finally we have the rest, and what in British classification of
-early [19th century]{.ul} are called work mechanics and paupers are here
-put together at the end of [19th century]{.ul} in a category called the
+early 19th century are called work mechanics and paupers are here
+put together at the end of 19th century in a category called the
 proletariat which also has a traditional part: the workers and men of
 agriculture.
 
@@ -2307,53 +2347,53 @@ So what is a class for itself for its members?\
 According to socialist Thompson's essay, in order to know how the
 working class saw itself or how it was seen by the rest of society, we
 must also look at how the members of that class fought to become one. In
-the years between [1780]{.ul} and [1832]{.ul}, most English
+the years between 1780 and 1832, most English
 working-class people came to feel an sense of identity and a certain
 animosity towards men of other classes whose interests are different
 from (and usually opposed to) theirs. Thompson focuses much on what
 early thinkers called class consciousness and how they shaped what we
 can call the English working class. Although Karl Marx himself did not
-[articulate](https://www.merriam-webster.com/dictionary/articulate) a
+articulate](https://www.merriam-webster.com/dictionary/articulate) a
 theory of class
-[consciousness](https://www.merriam-webster.com/dictionary/consciousness),
+consciousness](https://www.merriam-webster.com/dictionary/consciousness),
 he intimated the concept in his characterisation of the working class.
 According to Marx, workers first become conscious of sharing common
-grievances against capitalists (thus forming a class ["]{dir="rtl"}in
+grievances against capitalists (thus forming a class "]{dir="rtl"}in
 itself") and eventually develop an awareness of themselves as forming a
 social class opposed to the bourgeoisie (thus becoming a class
-["]{dir="rtl"}for itself"), the proletariat. Class consciousness is a
+"]{dir="rtl"}for itself"), the proletariat. Class consciousness is a
 historical phenomenon, born out of
-[collective](https://www.merriam-webster.com/dictionary/collective)
+collective](https://www.merriam-webster.com/dictionary/collective)
 struggle. In this sense, Marx did not approach class consciousness as a
 matter of pure ideality. Rejecting any separation of theory and
-practice, he used the term ["]{dir="rtl"}conscious human practices" to
+practice, he used the term "]{dir="rtl"}conscious human practices" to
 emphasise the conjunction of subjectivity and objectivity in history. At
 the end, according to Heywood's post-linguistic approach to reveal the
-history of the working class, [the bourgeoise identified themselves as
+history of the working class, the bourgeoise identified themselves as
 the embodiment of a new liberal ideology, the working class as the
 embodiment of the socialist ideology and the other classes as the
-conservative]{.ul}.
+conservative.
 
 -.-
 
 Part 2:
 
-Transformations of Bourgeoisie and the [']{dir="rtl"}Liberal
-Idea[']{dir="rtl"}
+Transformations of Bourgeoisie and the ']{dir="rtl"}Liberal
+Idea']{dir="rtl"}
 
 In Petri's view, the most interesting part of Heywood's analysis is that
-of the [transformations of the bourgeoisie]{.ul} and the 'liberal
+of the transformations of the bourgeoisie and the 'liberal
 utopia'; he starts with describing the bourgeoisie condition as
 reflected by this liberal utopia. The latter expected that society would
-develop increasingly towards a context of [free producers who need an
+develop increasingly towards a context of free producers who need an
 exchange of goods on the free market in an optimal allocation of the
-overall resources of society]{.ul}. At the same time, they would confine
+overall resources of society. At the same time, they would confine
 the State's function to the 'night guard functions' of securing the rule
 of the law, the security of property rights and of public security, but
 otherwise abstain from the organisation of their lives because that
 would be self-organised by civil society through the so-called public
 sphere of organisation, debate, and exchange of opinions, and there was
-a growing number of [associations for leisure time]{.ul} or literally
+a growing number of associations for leisure time or literally
 any purpose which testified the growing tendency of social
 self-organisation of the public sphere (typical of the ideals and the
 reality of this early bourgeoisie development). Another 'sacred cow' of
@@ -2364,25 +2404,25 @@ less relegated to the private sphere; they might have acquired a role of
 command within the household, but they were excluded in this liberal
 utopia's public sphere.
 
-Heywood then chooses to analyse the second half of the [19th
-century]{.ul} and looks at how these expectations were or were not met,
+Heywood then chooses to analyse the second half of the 19th
+century and looks at how these expectations were or were not met,
 how these expectations of a liberal utopia then proved to be inadequate
 with regards to the various changes in society and what discrepancies
 this produced in other ideologies. First of all, contrary to the
-expectations of the first half of the 19th century, [there was no
-conversion of society towards the middling strata of producers]{.ul},
-but, on the contrary, it became evident that there was a [growing sense
-of social polarisation]{.ul}. In the broad landscape of enterprises, it
+expectations of the first half of the 19th century, there was no
+conversion of society towards the middling strata of producers,
+but, on the contrary, it became evident that there was a growing sense
+of social polarisation. In the broad landscape of enterprises, it
 became clear that there was a concentration process in the making that
-[hampered free competition]{.ul} thanks to an oligopolistic and
+hampered free competition thanks to an oligopolistic and
 monopolistic market structure (born with the creation of trusts and
 cartels). Important producers of raw materials and commodities (such as
 coal and steel) would agree on a price for the market which all the
 buyers and consumers were obliged to pay; this was the complete opposite
 of a free market.
 
-The next phenomenon we should look at is [how the class consciousness of
-the bourgeoisie changed]{.ul}. Many of these 'new rich' people (who
+The next phenomenon we should look at is how the class consciousness of
+the bourgeoisie changed. Many of these 'new rich' people (who
 became such through the development of their industrial enterprises)
 developed aristocratic ideas and social models where this was possible;
 they applied to become nobles through various contrasts because they saw
@@ -2393,11 +2433,11 @@ regarding themselves. On the other end of the bourgeoisie spectrum,
 burrowed deep within the oligopolistic shape of the market, chock-full
 with trusts, big banks and cartels, we can find the economic existence
 of small shopkeepers who could not easily compete with the competition
-of the industries and producers, so they developed a sort of [animosity
-towards these upper-bourgeoisie classes]{.ul} (whom they suspected to be
+of the industries and producers, so they developed a sort of animosity
+towards these upper-bourgeoisie classes (whom they suspected to be
 a conspiring group of jews) and hoped that the regulating hand of the
-State would intervene (due to this, they developed [State-oriented,
-nationalist and corporatist sympathies]{.ul}). New forms of menagerie
+State would intervene (due to this, they developed State-oriented,
+nationalist and corporatist sympathies). New forms of menagerie
 capitalism within enterprises gave birth to new types of bourgeoisie
 people and professions such as employers, engineers, managers of firms,
 etc., who were not quite characterised by markets, but by hierarchies,
@@ -2409,62 +2449,62 @@ workforce was formed through public schooling and increased the number
 of bourgeoisie professions that directly depended on the State as well
 as their expectations (which depended on political dynamics and
 expectations of the State to protect their interests). It is in this way
-that [the liberal idyll collapsed]{.ul}.
+that the liberal idyll collapsed.
 
 -.-
 
 Part 3:
 
-Transformation of the working class and the [']{dir="rtl"}socialist
-idea[']{dir="rtl"}
+Transformation of the working class and the ']{dir="rtl"}socialist
+idea']{dir="rtl"}
 
 Heywood, in this next section, replicates the same epidemiological
 scheme and speaks of the first worker's movement in the first half of
-the [19th century]{.ul} (which Marx would then call Utopian Socialism)
+the 19th century (which Marx would then call Utopian Socialism)
 organised in correlation with the Petit Bourgeoisie, a republican and
 democratic wing organised in cooperative movements that preached
-[political participation and justice]{.ul}. Some utopian thinkers
+political participation and justice. Some utopian thinkers
 include Owen, Fourier and Weitling, and their organisations were very
-often religious and regarded subjects such as [healthcare and political
-justice]{.ul}; there were also statist socialist experiments in the
-[1848 Revolution]{.ul} in France (where this socialist view had its
+often religious and regarded subjects such as healthcare and political
+justice; there were also statist socialist experiments in the
+1848 Revolution in France (where this socialist view had its
 roots in Saint-Simon's works), which concluded with the term 'social
 rights' being included in the country's Constitution, and this certainly
-transcended the bourgeois horizon of [political and social
-organisation]{.ul}, guaranteeing the absence of unemployment and poverty
+transcended the bourgeois horizon of political and social
+organisation, guaranteeing the absence of unemployment and poverty
 (workhouses were also erected).
 
 Heywood declares the Revolution of 1848 a 'watershed moment' that then
 gave rise to new and unprecedented forms of working class-oriented
 socialist organisations which became visible beyond the left-wing and
-republican forces of bourgeois origin and became autonomous [with their
-own socialist ideologies]{.ul}; these then became particularly
+republican forces of bourgeois origin and became autonomous with their
+own socialist ideologies; these then became particularly
 influenced by Marxist theories and erected this theoretical edifice of
 scientific socialism.
 
-Then, in the [second half of the 19th century]{.ul}, these merged with
-[practical experience]{.ul}, so that the programs of socialist parties
+Then, in the second half of the 19th century, these merged with
+practical experience, so that the programs of socialist parties
 and trade unions could be seen as a product of both practical experience
 and dialogue with theoretical elaboration (e.g.: reforms for democratic
 participation of the working class operated on both grounds). Heywood
 also pointed out, however, that the 'real' workers weren't really
-involved in this dialogue, as [the objective interests of the working
+involved in this dialogue, as the objective interests of the working
 class were more important than the subjective self-consideration of
-workers]{.ul}; this was a qualitative difference that was both an
+workers; this was a qualitative difference that was both an
 element of political strength and one of division between the individual
 and local consciousness of the average worker, who would certainly fight
 for higher wages and reforms, but nevertheless, would stay in an open
 field of ideological competitions. For example, what was not fully
-reflected in these theories was that [industrialisation brought about
-hierarchisation in the working class]{.ul}; the theory said that their
+reflected in these theories was that industrialisation brought about
+hierarchisation in the working class; the theory said that their
 interests were common (they were all workers who needed to sell their
 work force), but that meant little compared to the daily abuse and
 exploitation of each singular worker during the production process. The
 reality of the working class was not homogeneous, and everyone
-experienced the system differently. On an ideological level, [the
-working class]{.ul} (especially when mass organisations and nationalists
-came into power in the second half of the 19th century) [was not
-impermeable]{.ul}; proof of this was the First World War. Until then,
+experienced the system differently. On an ideological level, the
+working class (especially when mass organisations and nationalists
+came into power in the second half of the 19th century) was not
+impermeable; proof of this was the First World War. Until then,
 the political orientation of the socialist parties had been strongly
 anti-war and internationalist, but many workers were still captured by
 the enthusiasm of patriotic and national mobilisation when the war broke
@@ -2474,14 +2514,14 @@ out.
 
 Part 4:
 
-The [']{dir="rtl"}residual[']{dir="rtl"} sectors of society: the
+The ']{dir="rtl"}residual']{dir="rtl"} sectors of society: the
 Nobility and Peasants
 
 The last part of Heywood's analysis is dedicated to Conservatism and the
 upper strata, the so-called 'high society' that had been around since
 the Ancien Règime and the feudal social order of earlier times. They
-were made up of the [high clergy, the nobility and the
-aristocrats]{.ul}, who conserved a major role in society and politics
+were made up of the high clergy, the nobility and the
+aristocrats, who conserved a major role in society and politics
 (e.g.: in the constitutional model of Great Britain), but were also
 great land owners in many European countries (all for constitutional
 reasons; the nobility has a permanent role in the state apparatus,
@@ -2498,24 +2538,24 @@ Lecture 12: World timeline, 1750-1914; Western Domination
 
 LEARNING OBJECTIVES:
 
-[Napoleon in Egypt]{.ul}
+Napoleon in Egypt
 
-[Technological innovations and transport systems]{.ul}
+Technological innovations and transport systems
 
-[Imperialism and the Industrial Age]{.ul}
+Imperialism and the Industrial Age
 
-[Western Expansion in Asia]{.ul}
+Western Expansion in Asia
 
 Part 1:
 
 Napoleon in Egypt
 
-The first example of European expansionism in the late [18th/19th
-century]{.ul} was Napoleon Bonaparte's expedition in Egypt;
+The first example of European expansionism in the late 18th/19th
+century was Napoleon Bonaparte's expedition in Egypt;
 symbolically, it represented a number of different elements that were
 behind the reason for this project.
 
-On July 1st, [1798]{.ul}, Napoleon landed in Egypt with 400 ships,
+On July 1st, 1798, Napoleon landed in Egypt with 400 ships,
 54,000 men (including 150 scientists, engineers and scholars whose
 responsibility was to learn about Egyptian culture and the history of
 the territory). Upon arrival, the French installed a large library and
@@ -2536,11 +2576,11 @@ indispensable in describing the colonisation of Egypt, as even they
 referred to the conquering methods used as 'massacres'.
 
 The French Republic, under Napoleon, had two strategic goals in the
-Mediterranean: to [control it]{.ul} and to [create a French corridor to
-the Red Sea and the Indian Ocean]{.ul} in order to create a disadvantage
+Mediterranean: to control it and to create a French corridor to
+the Red Sea and the Indian Ocean in order to create a disadvantage
 for the Ottoman Empire and Great Britain. In diplomatic terms, this
 meant the betrayal of the alliance between France and the Ottoman Empire
-that can be traced back to the [16th century]{.ul}. Since he was aware
+that can be traced back to the 16th century. Since he was aware
 of this, Napoleon tried to present his expedition to the Egyptians as
 something that was done in the name of the Sultan against the Mamluks
 (who desired independence), hoping that the Sultan wouldn't consider his
@@ -2551,9 +2591,9 @@ initial hostility.
 Napoleon's expansionistic, economic and imperialistic ambitions are
 easily reducible to certain motives, but, as we say today, "the West
 does not go to war only for oil". The West presented itself to other
-nations as [a beacon of freedom, humanity and civilisation that operates
+nations as a beacon of freedom, humanity and civilisation that operates
 on a sincere self-referential belief that had both a philosophical and a
-theological background]{.ul}: on the one hand, it built on some
+theological background: on the one hand, it built on some
 anti-Catholic traditions that dated back years, and on the other, the
 anti-trinitarian visions of the Enlightenment and the Supreme Being
 (voted by the National Assembly) make the assertion that the French were
@@ -2583,6 +2623,9 @@ Revolution) that allowed expeditions to travel far and wide:
 
 1)  Military means (breech-loading rifles, machine guns)
 
+
+
+
 21) Circulation of people and goods (lowering of transport coast,
     transoceanic steamship routes)
 
@@ -2595,8 +2638,8 @@ Part 3:
 
 Imperialism and the Industrial Age
 
-Western expansion continued in the same pattern as [16th-century]{.ul}
-European Imperialism and [15th-century]{.ul} European Colonialism; but
+Western expansion continued in the same pattern as 16th-century
+European Imperialism and 15th-century European Colonialism; but
 this new phase of Western expansion differed in many ways from the
 earlier one. Now the primary focus was on Africa, the Middle East, Asia
 and Pacific societies rather than on the Americas, and the main
@@ -2615,6 +2658,9 @@ We can summarise the motives behind this expansion as:
     Raw materials
 
     Internal social 'pacification'
+
+
+
 
 23) GEOPOLITICAL MOTIVES
 
@@ -2638,34 +2684,34 @@ Part 4:
 
 Western Expansion in Asia
 
-Colonial expansion in the [19th century]{.ul} can be described as
+Colonial expansion in the 19th century can be described as
 Western, and not just as European, because the United States took a big
 part in it as well. The nation had already had colonial ambitions in the
-early [19th century]{.ul} in Africa, creating the colony of Liberia (a
+early 19th century in Africa, creating the colony of Liberia (a
 name which was given because it was a land that was believed to host
 emancipated African-American slaves who were sent back to their
 homeland) and expanding in the Pacific towards Hawaii and other islands,
-landing the Black Ships on the coast of Japan in [1854]{.ul} and forcing
+landing the Black Ships on the coast of Japan in 1854 and forcing
 the nation to open its borders to Western trade. This triggered many
-changes in Japan, like the end of Shogun-rule ([1867]{.ul}) and the
+changes in Japan, like the end of Shogun-rule (1867) and the
 beginning of the Meiji-Restoration as well as Japanese
 industrialisation.
 
 In Asia, anti-colonial movements were quick to surge (especially in
-India and in the Philippines) in the [mid-19th century]{.ul}; the
+India and in the Philippines) in the mid-19th century; the
 Philippines succeeded in temporarily freeing itself of colonial rule
-with its Declaration of Independence in [1898]{.ul}, but the island were
+with its Declaration of Independence in 1898, but the island were
 ceded to the United States by Spain.
 
 A great transformation occurred concurrently In Indonesia, where the
 trade ports on the spice islands, which had been controlled by the Dutch
-since the [17th century]{.ul}, were swept aside; the Netherlands had
+since the 17th century, were swept aside; the Netherlands had
 proclaimed Indonesia to not only be a mere colony, but a nationalised
 colony known as the Dutch East Indies.
 
 Similarly, in India the East India Company had immense control of the
-territory, but had to face rebellion in the [mid-19th century]{.ul}. By
-[1858]{.ul}, Great Britain had eradicated the Company and transformed
+territory, but had to face rebellion in the mid-19th century. By
+1858, Great Britain had eradicated the Company and transformed
 the country into a colonial government (AKA, a colony).
 
 Finally we have China, a populous Empire where Western forces tried to
@@ -2673,32 +2719,32 @@ interfere in various ways, such as the British, who took the first
 opportunity to influence the country's population in the first Opium
 War. Great Britain wanted to force the country into accepting copious
 flows of opium in the name of free trade, which created worrying social
-dilemmas in China. The First Opium War ([1839-1842]{.ul}) ended with the
+dilemmas in China. The First Opium War (1839-1842) ended with the
 Nanking agreement, which was in favour of the UK. This led to the spark
-of the Second Opium War ([1856-1860]{.ul}), in which the anti-foreign
+of the Second Opium War (1856-1860), in which the anti-foreign
 Boxer Uprising (the Yihetuan movement) was a key factor. The Opium issue
-came to an end at the end of the Qing Dynasty in [1911]{.ul}.
+came to an end at the end of the Qing Dynasty in 1911.
 
 Lecture 13: Global Changes; Colonialism and Imperialism
 
 LEARNING OBJECTIVES:
 
-[British takeover of India]{.ul}
+British takeover of India
 
-[The British-Chinese Wars of 1835-41 and 1856-60]{.ul}
+The British-Chinese Wars of 1835-41 and 1856-60
 
-[Scramble for Africa, 1875-1924]{.ul}
+Scramble for Africa, 1875-1924
 
-[American Expansion]{.ul}
+American Expansion
 
-[Russian Expansion]{.ul}
+Russian Expansion
 
 Part 1:
 
 British takeover of India
 
-In India, the power of the Mughal Empire waned in the [18th
-century]{.ul} due to political tensions between the Muslim Emperor and
+In India, the power of the Mughal Empire waned in the 18th
+century due to political tensions between the Muslim Emperor and
 his Hindu subjects, as well as the sparks of violence generated by
 regional rivalries. Some wealthy Indian traders, resenting the demands
 of Mughal authorities, helped finance the military forces of the British
@@ -2706,24 +2752,24 @@ East India Company, and a remarkable number of Indian men joined
 European-led armies, attracted by the security and opportunity for
 enrichment they offered. So the power of the East India Company grew
 large enough in the territory to marginalise other European competitors,
-and this Company took control of the subcontinent until the [mid-19th
-century]{.ul}.
+and this Company took control of the subcontinent until the mid-19th
+century.
 
-The Indian Rebellion of [1857/8]{.ul} began with a [cultural clash]{.ul}
+The Indian Rebellion of 1857/8 began with a cultural clash
 in the military when Indian troops refused to use cartridges greased
 with animal fat; the Hindus feared that the fat came from holy cows,
 while the Muslims feared it came from filthy pigs, so this led to a
 rebellion that spread to all regions of Northern and Central India and
 became a generalised uprising against British-style reform and Company;
 a cruel and violent repression of the mutiny followed, and this period
-ended with the [dissolution of the East India Company]{.ul}. The
+ended with the dissolution of the East India Company. The
 administration was taken over directly by the British government, which
 proclaimed the Unitary State of India, which was then transformed into
 vice-royal territory (a colony). At the same time, Great Britain
 introduced a British-style parliamentary system, an element that would
 later favour them in the organisation of political movements for Indian
 independence (these led to the formation of the Indian National Congress
-and similar organisations in [1885]{.ul}).
+and similar organisations in 1885).
 
 -.-
 
@@ -2750,25 +2796,25 @@ agreement that decreed the creation of coastal colonies and the right of
 British traders to operate under extraterritorial conditions (not
 subject to Chinese jurisdiction). It was the later foreign prime
 minister and first president of the British liberal party Henry John
-Palmerston, who was one of the most important politicians in the [19th
-century]{.ul}, that made the following comment regarding the British
+Palmerston, who was one of the most important politicians in the 19th
+century, that made the following comment regarding the British
 victory over China:
 
 "There is no doubt that this event, which will form an epoch in the
 progress of the civilisation of the human races, must be attended with
 the most important advantages of the commercial interests of England."
 
-[It is here that we see for the first time that drugs]{.ul} (regarded in
+It is here that we see for the first time that drugs (regarded in
 the same manner as oil and armaments), the third most important
-commodity within trade, [enter the stage of geopolitics as an instrument
-of Western power]{.ul}.
+commodity within trade, enter the stage of geopolitics as an instrument
+of Western power.
 
 In China, the Nanking agreement and everything it implied facilitated
 the birth of social tensions which articulated themselves more openly in
 the form of protests and uprisings, causing the beginning of a period of
 political and societal upheaval that culminated in humiliation and the
 Second Opium War (which ended with the Siege of Beijing by the British
-and a wide range of European powers). All this ended in [1911]{.ul} with
+and a wide range of European powers). All this ended in 1911 with
 the breakdown of the Chinese empire and the end of the Qing Dynasty.
 
 -.-
@@ -2777,22 +2823,22 @@ Part 3:
 
 Scramble for Africa, 1875-1924
 
-Since the colonial period had begun in the [15th century]{.ul}, European
+Since the colonial period had begun in the 15th century, European
 interest in Africa had mainly been limited to trade posts, but for a
 number of reasons, there had never been an interest of conquering the
 territory (except for the South African area, where Cape Town was
 devising a settler-colonial project that was extending towards the
 North).
 
-In [1870]{.ul}, only 10% of Africa was under European control, but by
-[1914]{.ul}, it had increased to 90% of the continent thanks to the
+In 1870, only 10% of Africa was under European control, but by
+1914, it had increased to 90% of the continent thanks to the
 increased need for raw materials brought around by the Industrial
 Revolution; only Ethiopia (Abyssinia) was still independent, as newfound
 African colonies had become the main source of raw materials for the
 European economic and industrial elites.
 
 To avoid a war among European powers, the Berlin Conference of
-[1884]{.ul} decided to regulate European colonisation and trade in
+1884 decided to regulate European colonisation and trade in
 Africa (without African citizens themselves having any say in the
 matter) and was the starting point of the Conquest of Africa. There were
 almost no military conflicts between European colonising powers in this
@@ -2820,23 +2866,23 @@ changes of an expanding people."
 The effort of pushing American progress beyond their frontiers had
 developed Southward and Westward, as the doctrine of President James
 Monroe claimed that the States were the supervisors of Latin America and
-territories that spread Eastward. In [1822]{.ul}, the American
+territories that spread Eastward. In 1822, the American
 Colonisation Society created Liberia in Africa. Ironically, these
 efforts were sold under the trademark of anti-colonialism, particularly
 in the Caribbean, with which the States had traditionally very tight
 connections. In Cuba, the citizens fought several wars to free
-themselves from Spanish colonial control ([1868, 1879-1880,
-1895-1898]{.ul}); at the end of the last war ([1895-1898]{.ul}), the
+themselves from Spanish colonial control (1868, 1879-1880,
+1895-1898); at the end of the last war (1895-1898), the
 Cubans were on the brink of winning independence, but the USA intervened
 and its Newspapers ran wild headlines like "Spanish Cannibalism",
 "Inhuman torture" and "Amazon Warriors Fight for Rebels" that radically
-[dehumanised the Spaniards]{.ul}. The Americans came to the help of the
+dehumanised the Spaniards. The Americans came to the help of the
 anti-colonial rebels, sending the USS Maine warship to Havana Bay on
-[February 15th of 1898]{.ul}; a huge explosion of unknown origin wrecked
+February 15th of 1898; a huge explosion of unknown origin wrecked
 the ship and killed 266 American sailors. This was an excuse to declare
 war on Spain and enter the war under an anti-colonial pretext (when in
 reality, the USA only wanted to occupy Cuba and other Spanish colonies).
-In [1902]{.ul}, Cuba obtained a form of independence whose conditions
+In 1902, Cuba obtained a form of independence whose conditions
 privileged American presence in Cuba (these regulations were only
 removed under the presidency of Roosevelt, when Cuba became a de facto
 American protectorate).
@@ -2845,13 +2891,13 @@ However, American progress decided that the West was its preferred
 frontier, so it spread to California and the Pacific Ocean, conquering
 Hawaii, opening Japan to the benefits of Western trade and looking for
 other Spanish colonies; it found the Philippines. Here, all throughout
-the late [19th century]{.ul}, several rebellions against the Spanish
-monarchy developed in [1896]{.ul} under the oppositions' leader, Emilio
+the late 19th century, several rebellions against the Spanish
+monarchy developed in 1896 under the oppositions' leader, Emilio
 Aguinaldo. The Filipino movement would then proclaim independence on
-[June 12th, 1898]{.ul}, but soon a contrast was born between the
+June 12th, 1898, but soon a contrast was born between the
 American troops and Filipinos, who then engaged in the prosecution of a
 war of Independence against occupying American forces. This second war
-lasted until [1902]{.ul} and ended with American victory, resulting in
+lasted until 1902 and ended with American victory, resulting in
 the death of over 4,200 Americans and over 20,000 Filipino combatants
 and 20,000 Filipino civilians (who died due to violence, famine and
 disease).
@@ -2869,21 +2915,21 @@ Part 5:
 
 Russian Expansion
 
-The Tsarist Empire had been expanding towards Siberia since the [17th
-century]{.ul} and continued 'till the [19th century]{.ul}, spreading
+The Tsarist Empire had been expanding towards Siberia since the 17th
+century and continued 'till the 19th century, spreading
 eastward towards Japan and China and southward towards South Asia (which
 created many conflicts with the British Empire, which had the opposite
 ambition in Asia).
 
 However, in East Asia a previously unheard-of adversary emerged: Japan.
 This nation exhibited increasing military and economic strength, and the
-Russian-Japanese war ([1904-1905]{.ul}) broke out over rival imperial
+Russian-Japanese war (1904-1905) broke out over rival imperial
 ambitions in Manchuria and Korea. The Russian defeat was a major blow to
 the Tsarist regime and its expansionistic ambitions; nevertheless,
 looking at the development of Russia towards the east, we can see many
-parallels with American expansion towards the West ([regarding
+parallels with American expansion towards the West (regarding
 overcoming frontiers, bringing civilisation and progress and
-enlightening 'the natives']{.ul}), but there were also many differences,
+enlightening 'the natives'), but there were also many differences,
 namely that Russia had the traditional approach of an Empire towards
 conquest (like Great Britain) and tried to integrate these populations
 in order to create a multicultural and multi-religious Empire.
@@ -2892,15 +2938,15 @@ Lecture 14: Global Changes; the effects of Colonialism and Imperialism
 
 LEARNING OBJECTIVES:
 
-[The effects of Colonial Imperialism in India]{.ul}
+The effects of Colonial Imperialism in India
 
-[The effects of Colonial Imperialism in Africa]{.ul}
+The effects of Colonial Imperialism in Africa
 
-[Migration and racism]{.ul}
+Migration and racism
 
-[The effects of Western influence on China]{.ul}
+The effects of Western influence on China
 
-[The effects of Western influence on Japan]{.ul}
+The effects of Western influence on Japan
 
 Part 1:
 
@@ -2913,7 +2959,7 @@ would unite its people also by creating alternative means of
 communication (lingua franca, etc.).
 
 If we look at the development of India's share in world manufacturing,
-it was at 25.0% in [1750]{.ul}, and had shot up to 1.4% by [1913]{.ul};
+it was at 25.0% in 1750, and had shot up to 1.4% by 1913;
 we can say that it was raised thanks the huge dimension of the Indian
 population. However, the production of cotton textiles was greatly
 reduced; initially, Great Britain had introduced protectionist laws
@@ -2924,7 +2970,7 @@ even on the English market, thus creating a sort of dependency on
 England, the 'mother country'.
 
 This 'mother' was not always so generous and well-meaning. During the
-second half of the [1870s]{.ul}, there was a great famine in India, six
+second half of the 1870s, there was a great famine in India, six
 to ten million people died of hunger. The food prices soared, so flour
 was expensive, and the Indian population asked for a regulation of food
 prices. This proposal was instantly rejected by the Famine Commission
@@ -2941,7 +2987,7 @@ The effects of Colonial Imperialism in Africa
 
 Unfortunately, hunger crises were a normal occurrence in agricultural
 societies; the last major hunger crisis in Europe was caused by a series
-of bad harvest in [1846/7]{.ul}. Hunger crises happened cyclically in
+of bad harvest in 1846/7. Hunger crises happened cyclically in
 densely populated areas where there was no availability of uncultivated
 land to expand the usable area during times of great difficulty, and in
 Africa, there were certainly many hunger crises. Nevertheless, these
@@ -2975,7 +3021,7 @@ Part 3:
 
 Migration and racism
 
-In the late [19th century]{.ul}, there were huge migration flows from
+In the late 19th century, there were huge migration flows from
 Europe to North or South America; if 15 million Europeans left from
 Europe, at the same time, 38 million Chinese and Indians migrated for
 the same reasons, mostly to Southeast Asia, where they built local
@@ -2984,7 +3030,7 @@ Indians also migrated to South Africa. African slavery had produced
 European racism as a legitimisation of slavery because they were
 'beasts' or inferior to the 'white man', and was a tool to soften the
 moral threat that slavery posed. But when it was gradually abolished in
-the [19th century]{.ul}, racism was reinforced by society to maintain
+the 19th century, racism was reinforced by society to maintain
 the subjugation of the African population. Now that slaves were free
 men, racism soared higher than ever.
 
@@ -2994,27 +3040,27 @@ Part 4:
 
 The effects of Western influence on China
 
-In the late [19th century]{.ul}, the Chinese Empire suffered defeat
+In the late 19th century, the Chinese Empire suffered defeat
 against the West and Japan and was riddled by anti-foreign Boxer
 uprisings and internal conflicts. This social and political unrest
 brought about the end of the Qing dynasty and the institution of
-imperial China in [1911]{.ul}; just like with India, the development of
-Chinese share in world manufacturing was at 33.0% in [1750]{.ul}, and
-this remarkable share was reduced to 3.6% in [1913]{.ul}. How did this
+imperial China in 1911; just like with India, the development of
+Chinese share in world manufacturing was at 33.0% in 1750, and
+this remarkable share was reduced to 3.6% in 1913. How did this
 happen?
 
 The mechanisms were similar to what happened in India as far as the
 general circumstances were concerned, such as the growing productivity
 gap between Europe and China thanks to the Industrial Revolution; not
-even in the later [19th century]{.ul} there was no significant
+even in the later 19th century there was no significant
 structural change in China, remaining a rural society. A sense of loss
 pervaded Chinese society at the end of the Qing dynasty and a refusal of
 Western influence, and this translated in a return to the desire of
 reaffirming Confucian principles and in an opposition to the imitation
 of Western techniques. The conservative forces prevailed in China, and
 this, similarly to India, did not accelerate the industrial recovery of
-China as one may have expected in the second half of the [19th
-century]{.ul}, whereas this was the case in Japan.
+China as one may have expected in the second half of the 19th
+century, whereas this was the case in Japan.
 
 -.-
 
@@ -3026,7 +3072,7 @@ Japan was an Empire where the main executive power was not assumed by
 the Emperor, but rather by the Shogun (the highest military leader),
 whose authority was so strong that its office became hereditary. After
 the first opening of Japan, however, dissatisfaction with the
-Shogunate[']{dir="rtl"}s politics bloomed among some elites, driven by
+Shogunate']{dir="rtl"}s politics bloomed among some elites, driven by
 nobles and the pro-Emperor Samurai. These elites were confused as to how
 to react to Western influence: should they rebuke Western culture
 completely, or apply certain reforms to industrialise the nation and
@@ -3047,6 +3093,9 @@ which were:
 
 1)  The First Sino-Japanese War (1894-1895)
 
+
+
+
 31) Victory in the Russo-Japanese War (1904-1905)
 
 32) Control of Taiwan, Korea and the southern half of Sakhalin
@@ -3055,14 +3104,14 @@ Lecture 16: Theories of Imperialism
 
 LEARNING OBJECTIVES:
 
-[["]{dir="rtl"}Progress or Exploitation?" Debates on Western
-Imperialism]{.ul}
+"]{dir="rtl"}Progress or Exploitation?" Debates on Western
+Imperialism
 
-[Hobson: Earth hunger and the scramble for export markers]{.ul}
+Hobson: Earth hunger and the scramble for export markers
 
-[Lenin: Structural features of the highest stages of capitalism]{.ul}
+Lenin: Structural features of the highest stages of capitalism
 
-[Amadori Virgilij: Craving for a world-wide moral empire]{.ul}
+Amadori Virgilij: Craving for a world-wide moral empire
 
 Part 1:
 
@@ -3093,10 +3142,10 @@ later, poisonous gases) that could be used in war; an example of ones of
 these chemists is Alfred Nobel, who invented Dynamite. With innovation
 in production technology, industrial countries were also able to
 manufacture imported firearms and greater amounts of munition. By the
-[1880s]{.ul}, the machine gun had become an effective battlefield
+1880s, the machine gun had become an effective battlefield
 weapon, which gave European armies an advantage over their opponents
 (like over the Zulu in Southern Africa during the Anglo-Zulu war in
-[1879]{.ul}).
+1879).
 
 -.-
 
@@ -3104,16 +3153,16 @@ Part 2:
 
 Hobson: Earth hunger and the scramble for export markers
 
-In the [1900s]{.ul}, John Hobson proposed the first comprehensive,
+In the 1900s, John Hobson proposed the first comprehensive,
 systematic and analytical study of imperialism, which was a phenomenon
 he had witnessed for a number of years during the scramble for Africa or
 the wars in the Philippines. He wondered what drove these
 industrialised, wealthy countries to wage war against poorer,
 'third-world' countries and to dominate them.
 
-According to Hobson, the main drive behind this development was [the
+According to Hobson, the main drive behind this development was the
 concentration of wealth in the richer, industrialised nations of the
-world]{.ul}. Industrial development had created a small class of
+world. Industrial development had created a small class of
 industrialists and bankers who grew wealthier by the day; the number of
 enterprises shrunk, and so production facilities adapted to this new
 situation and produced a huge amount of consumer goods. Unfortunately,
@@ -3140,6 +3189,9 @@ situation:
 
 1)  Abandon the legislation that had been unfriendly to trade union
     powers for decades
+
+
+
 
 33) Introduce a minimum wage law
 
@@ -3186,7 +3238,7 @@ explanation of imperialism?
 
 Firstly, these monopolistic enterprises stemming from the merging of big
 banks and industries take on a dimension that leads to the
-[over-accumulation of capital]{.ul}. This means that a certain level of
+over-accumulation of capital. This means that a certain level of
 capital accumulation stays in the single bank or industrial enterprise
 and within this monopolistic form as a whole, which makes it impossible
 to remunerate the investment of a reasonable profit trade on the
@@ -3196,7 +3248,7 @@ profits that the whole market is not able to anymore. This is different
 if compared with Hobson, who had concentrated on the production of goods
 and the necessity to find export markets for these goods. Lenin argued
 that the main interest in question is not the export of commodities, but
-rather [to place direct investment in less developed countries]{.ul}.
+rather to place direct investment in less developed countries.
 
 Secondly, Lenin writes:
 
@@ -3217,7 +3269,7 @@ colonial control over Africa, Indo-China, etc.. It may be interesting to
 see how Lenin describes the tendencies of what we today would call
 globalisation.
 
-In his book published in [1902]{.ul}, Hobson also remarked on the
+In his book published in 1902, Hobson also remarked on the
 endeavour of the well-meaning philanthropist, which we may consider the
 equivalent to the relief and assistance organisations of our time. These
 epically motivated reformists and missionaries devotedly followed the
@@ -3249,31 +3301,31 @@ which is why one should criticise 'the absolute inadequacy of all
 definitions that explain the phenomenon as a result of political and
 economic tendencies'. Entities are good intentions in itself, and that,
 for Amadori, is the core problem of imperialism. The economic definition
-of imperialism is not wrong, but it fails to explain that [it can unfold
+of imperialism is not wrong, but it fails to explain that it can unfold
 only thanks to a belief system and a sentiment that are both deeply
-entrenched in the psyche of popular mass sentiment]{.ul}. According to
+entrenched in the psyche of popular mass sentiment. According to
 Amadori, imperialists believe to act in the name and interest of
-civilisation --- that is, in the name of history. [Imperialism is a
+civilisation --- that is, in the name of history. Imperialism is a
 general feeling of the people and the collective concept of
-domination.]{.ul}
+domination.
 
 Lecture 17: World Timeline (1914-2003)
 
 LEARNING OBJECTIVES:
 
-[On the timeline: major events, 1914-2003]{.ul}
+On the timeline: major events, 1914-2003
 
-[On the timeline: Independence of India, Indonesia and African
-countries, 1947-1989]{.ul}
+On the timeline: Independence of India, Indonesia and African
+countries, 1947-1989
 
-[On the timeline: the Vietnam war, 1965-1974]{.ul}
+On the timeline: the Vietnam war, 1965-1974
 
-[On the timeline: the Iranian Revolution of 1979]{.ul}
+On the timeline: the Iranian Revolution of 1979
 
 Part 1:
 
 On the timeline: major events,
-1914-2003![](media/image1.png){width="6.6929757217847765in"
+1914-2003!](media/image1.png){width="6.6929757217847765in"
 height="4.80796697287839in"}
 
 -.-
@@ -3281,18 +3333,18 @@ height="4.80796697287839in"}
 Part 2:
 
 On the timeline: Independence of India, Indonesia and African countries,
-1947-1989![](media/image2.png){width="5.770699912510936in"
-height="3.9404779090113737in"}![](media/image3.png){width="5.956992563429571in"
+1947-1989!](media/image2.png){width="5.770699912510936in"
+height="3.9404779090113737in"}!](media/image3.png){width="5.956992563429571in"
 height="4.521572615923009in"}
 
-![](media/image4.png){width="5.882584208223972in"
+!](media/image4.png){width="5.882584208223972in"
 height="4.5040004374453195in"}
 
 Part 3:
 
 On the timeline: the Vietnam war, 1965-1974
 
-![](media/image5.png){width="6.6929757217847765in"
+!](media/image5.png){width="6.6929757217847765in"
 height="4.735702099737533in"}
 
 -.-
@@ -3301,7 +3353,7 @@ Part 4:
 
 On the timeline: the Iranian Revolution of 1979
 
-![](media/image6.png){width="6.6929757217847765in"
+!](media/image6.png){width="6.6929757217847765in"
 height="4.7524770341207345in"}
 
 During World War II, Iran was assigned an important strategic role by
@@ -3315,21 +3367,21 @@ Lecture 18: World War One
 
 LEARNING OBJECTIVES:
 
-[A gradual escalation of 'regional' conflicts among great powers]{.ul}
+A gradual escalation of 'regional' conflicts among great powers
 
-[The 'Entente' and the 'Central Powers']{.ul}
+The 'Entente' and the 'Central Powers'
 
-[Technology, mechanisation, industry, labour force mobilisation]{.ul}
+Technology, mechanisation, industry, labour force mobilisation
 
-[A new global power rises, while empires break down]{.ul}
+A new global power rises, while empires break down
 
 Part 1:
 
-A gradual escalation of [']{dir="rtl"}regional[']{dir="rtl"} conflicts
+A gradual escalation of ']{dir="rtl"}regional']{dir="rtl"} conflicts
 among great powers
 
-In [2014,]{.ul} historian Christopher Black published 'The Sleepwalkers'
-about how Europe went to war in [1914]{.ul}; according to the book, none
+In 2014, historian Christopher Black published 'The Sleepwalkers'
+about how Europe went to war in 1914; according to the book, none
 of the great powers actually wanted to end the war, and that, like
 sleepwalkers, the European governments woke up in the reality of a
 terrible war that no one had actually wanted. The fact is that, for
@@ -3345,23 +3397,23 @@ Balkans where they fought for dominance and often had conflicts of
 interest, especially when an Austria-friendly king was substituted by a
 Russia-friendly one.
 
-Formal Austrian annexation of the Bosnian protectorate in [1908]{.ul}
+Formal Austrian annexation of the Bosnian protectorate in 1908
 sharpened the tensions between Serbia and Austria; but this was just one
 part of the story. Another was the series of social and political
 mutinies in the Ottoman Empire, which led to the Young Turk Revolution
-in [1908]{.ul} and a break-away tendency in the Middle East. Great
+in 1908 and a break-away tendency in the Middle East. Great
 powers in neighbouring countries observed the 'ill man on the Bosphoros'
 like vultures in the sky, hoping to take the part of the dying Empire's
 body that they desired.
 
-In [1897]{.ul}, Greece and Turkey fought over Crete. In [1911]{.ul},
+In 1897, Greece and Turkey fought over Crete. In 1911,
 Italy waged colonial wars against Libya, Greece and the Ottoman Empire.
 The further weakening of the Ottoman Empire encouraged Serbia,
 Montenegro, Bulgaria and Greece to go into battle in the First Balkan
-War in [1912]{.ul}, and the Ottoman Empire was expunged from many
+War in 1912, and the Ottoman Empire was expunged from many
 European territories.
 
-One year later, during the Second Balkan War ([1913]{.ul}), Serbia and
+One year later, during the Second Balkan War (1913), Serbia and
 Greece confronted Bulgaria, which wanted to annex Macedonia, and a year
 later, Bulgaria would ally itself with Austria, Germany and the Turkish
 arch enemy against Serbia in the occupation and violence against the
@@ -3380,10 +3432,10 @@ satisfied in Morocco, someone must have decided in Rome that it was high
 time to take action before it was too late. Morocco had been a Sultanate
 that had successfully stayed independent in the early modern period
 (notwithstanding Spain and Portugal's attacks), but at the beginning of
-the [20th century]{.ul}, France tried to upgrade its role as a colonial
-world power. Going against the Maastricht convention of [1880]{.ul}, it
+the 20th century, France tried to upgrade its role as a colonial
+world power. Going against the Maastricht convention of 1880, it
 decided to conquer Morocco, but France's plan was foiled by Germany, who
-was allied with the Moroccan Sultanate. In [1911]{.ul}, France declared
+was allied with the Moroccan Sultanate. In 1911, France declared
 direction of a Moroccan protectorate, and Germany opposed and sailed its
 boats off the Moroccan coast. But then Berlin green lighted French
 conquest of Morocco if it would cede a piece of French Congo and grant
@@ -3391,8 +3443,8 @@ free access to the Moroccan market. The typical Germany steadfastness
 was reaffirmed in this way: business was business. The Moroccan
 resistance was broken with great brutality.
 
-The most important fault line, however, remains the [industrial rise of
-Germany]{.ul} and its rivalry with Britain. Germany built up a huge
+The most important fault line, however, remains the industrial rise of
+Germany and its rivalry with Britain. Germany built up a huge
 modern navy with the openly declared purpose of challenging the maritime
 superpower of the time, Great Britain, which took this boasting quite
 seriously. The Reich had a strength also as a continental power, one
@@ -3406,12 +3458,12 @@ sinner' must be revised: no one was innocent. In early 1914, the game
 was ripe to turn into war at any moment.
 
 The trigger, however, was Gavrilo Princip and the death of Archduke
-Franz Ferdinand on [June 28th, 1914]{.ul} in Sarajevo. It was the
+Franz Ferdinand on June 28th, 1914 in Sarajevo. It was the
 perfect pretext. Still, it wouldn't have been an adequate excuse had the
 previous tensions not been apparent to Europe before, as the killing of
 archdukes and important figures was quite widespread at the time: in
-[1898]{.ul}, Empress Elizabeth of Austria was shot, and so was, in
-[1900]{.ul}, Umberto I of Italy, and so on. The Empress of Austria had
+1898, Empress Elizabeth of Austria was shot, and so was, in
+1900, Umberto I of Italy, and so on. The Empress of Austria had
 been murdered by an Italian, but still Austria hadn't declared war on
 Italy. Gavrilo Princip wasn't even a Serbian subject, but rather a
 subject to Vienna itself. There could have been diplomatic solutions if
@@ -3421,15 +3473,15 @@ Austria gave Serbia one month to declare itself responsible; it agreed
 on everything settled by Austria but one detail, and so Austria declared
 war on Serbia. Germany declared war on Russia and France and violated
 the neutrality of Belgium in order to provoke France so that Great
-Britain had a good reason to intervene. In the fall of [1914]{.ul}, the
+Britain had a good reason to intervene. In the fall of 1914, the
 major European powers found themselves in the midst of a great war.
 
 -.-
 
 Part 2:
 
-The [']{dir="rtl"}Entente[']{dir="rtl"} and the [']{dir="rtl"}Central
-Powers[']{dir="rtl"}
+The ']{dir="rtl"}Entente']{dir="rtl"} and the ']{dir="rtl"}Central
+Powers']{dir="rtl"}
 
 Standing between the lines that formed in World War One were the Central
 Powers: Germany, the Austro-Hungarian Empire, Bulgaria and the Ottoman
@@ -3456,7 +3508,7 @@ German soldiers had gone into war with patriotic enthusiasm, but they
 soon became aware of the fact that they were mere tools in the hands of
 high commanders who had no intention of getting their own hands dirty.
 
-In [1915]{.ul}, when signs of fraternisation between French and German
+In 1915, when signs of fraternisation between French and German
 soldiers became apparent, the headquarters of both sides repressed this
 phenomenon with harsh punishments and increased the exposure of soldiers
 to hate propaganda.
@@ -3472,22 +3524,22 @@ just like the west.
 
 In the east, Austrian and German troops managed to conquer great part of
 what today is known as Poland, Ukraine, Lithuania and other Baltic
-countries. In [1917]{.ul}, the conflict entered Finland in the form of a
+countries. In 1917, the conflict entered Finland in the form of a
 civil war.
 
 In Russia, the situation was very diverse. The partial collapse of
 Russian defence and economic problems laid the groundworks for the 1917
-Revolution. The Bolsheviks came into power in the fall of [1917]{.ul},
+Revolution. The Bolsheviks came into power in the fall of 1917,
 right after the centrist revolutionaries' government refused to stop the
 war, which the Russian population didn't see the point of continuing. It
 was then that the Bolshevist government established the Brest-Litovsk
 armistice with Germany and Austria.
 
 USA had delivered a large amount of armaments and munition to France and
-Great Britain during every war. When it entered the war in [1917]{.ul},
+Great Britain during every war. When it entered the war in 1917,
 the immobile fronts in the south-west began to move.
 
-In [1918]{.ul}, the Central Powers were defeated, and the nations that
+In 1918, the Central Powers were defeated, and the nations that
 had been involved slowly came to terms with the human costs of the war:
 around 8 million soldiers had been killed, as well as a large number of
 civilians. Countries like Germany and Russia would suffer greater losses
@@ -3504,17 +3556,20 @@ Industrial production had come to a stall during the years characterised
 by colonial warfare, but in the period right before the start of World
 War I, new means of transport, pieces of artillery, torpedoes,
 submarines, air force bombardment, chemical weapons, tanks, automobiles
-and rifles were introduced in the late [1800s]{.ul}; these were decisive
+and rifles were introduced in the late 1800s; these were decisive
 factors in many historical events that would occur later on (such was
 the strategic importance of railways in Russia's victories over France).
 Industry had a great impact on the industry and rearmament, but many of
-the modern armaments that were first produced in the [1890s]{.ul} only
+the modern armaments that were first produced in the 1890s only
 came into full use during World War I.
 
 But this new technology also had unprecedented social consequences:
 
 1)  The lack of men in industrial production led to them becoming
     soldiers and perishing in the war
+
+
+
 
 25) A new feeling of 'belonging' was born, leading to a novel
     nationalisation of the masses
@@ -3541,8 +3596,8 @@ it was not in the common people's interest to be at war with each other
 when they saw that common soldiers were being treated as slaved and sent
 to a more or less certain death instead of the officials and top
 commanders that ordered them to. This realisation was what caused the
-birth of the [revolution against the bourgeoisie in Russia, the November
-Revolution in Germany and the civil war in Finland]{.ul}.
+birth of the revolution against the bourgeoisie in Russia, the November
+Revolution in Germany and the civil war in Finland.
 
 With the men at the front, fields and factories were filled by women to
 replace the husbands, brothers and fathers that had worked there prior
@@ -3550,8 +3605,8 @@ to the war. After this development, many countries introduced female
 suffrage at the end of World War I.
 
 Furthermore, World War I was a turning point also because it inaugurated
-a new area of warfare: it was perhaps the last war in which [more
-soldiers died than civilians]{.ul}. It was in modern wars that civilians
+a new area of warfare: it was perhaps the last war in which more
+soldiers died than civilians. It was in modern wars that civilians
 were targeted by mass bombings, terrorising, deportations,
 exterminations, massacres and mass rapes. Today, being a member of the
 armed forces is (statistically) the most secure position.
@@ -3562,12 +3617,12 @@ Part 4:
 
 A new global power rises, while empires break down
 
-The USA was the most important power by the end of the [19th
-century]{.ul}; however, in the realm of international commerce, finance
+The USA was the most important power by the end of the 19th
+century; however, in the realm of international commerce, finance
 and monetary policies, this fact was not fully perceived and visible.
 The State were more inward-looking and depended less on foreign trade.
 Its banking system was more vulnerable to cycles, and the Federal
-Reserve Fund was only created after [1914]{.ul}. Since a central bank
+Reserve Fund was only created after 1914. Since a central bank
 didn't exist, the dollar's full economic strength was not visible to
 non-experts on international markets. All this changed in World War I,
 when American became a world power and gave birth to the 'American
@@ -3585,20 +3640,20 @@ landscape in Eastern Europe, the Balkans and the Middle East. New nation
 states were created and established: Estonia, Lithuania, Latvia, Poland,
 Czechoslovakia, Yugoslavia, Albania, Austria and Hungary. Italy, on the
 other hand, obtained Trento and Bolzano, but not Trieste and Fiume, and
-thus [the results of the war did not satisfy the population's
-nationalist appetite]{.ul}. The same occurred in Romania, Hungary and
+thus the results of the war did not satisfy the population's
+nationalist appetite. The same occurred in Romania, Hungary and
 Germany, who felt that they had been treated unjustly; they developed a
-craving for revenge, and [the stage seemed to be set for another
-war]{.ul}.
+craving for revenge, and the stage seemed to be set for another
+war.
 
 The extremely important consequences of the war were also experienced in
 the Middle East. The former Ottoman Empire's provinces were divided
-according to the borders that [the British and the French
-representatives]{.ul} had made in [1960]{.ul} according to both parties'
+according to the borders that the British and the French
+representatives had made in 1960 according to both parties'
 imperial interests. After the war, England and France would erect
 protectorates in these colonies except in Mesopotamia, which became an
 formally independent nation state (then substantially independent after
-World War II). In [1970]{.ul}, the British foreign secretary Delfoure
+World War II). In 1970, the British foreign secretary Delfoure
 stated that Britain would support the establishment of a national home
 for jewish people in Palestine.
 
@@ -3607,13 +3662,13 @@ of the interwar period
 
 LEARNING OBJECTIVES:
 
-[The Peace Treaties and the Debt Cycle]{.ul}
+The Peace Treaties and the Debt Cycle
 
-[The financial crisis of 1929]{.ul}
+The financial crisis of 1929
 
-[The Great Depression of the 1930s]{.ul}
+The Great Depression of the 1930s
 
-[Authoritarian and dictatorial regimes in the 1920s and 1930s]{.ul}
+Authoritarian and dictatorial regimes in the 1920s and 1930s
 
 Part 1:
 
@@ -3641,49 +3696,49 @@ Lecture 20: World War II and the Shoah
 
 LEARNING OBJECTIVES:
 
-[World War II: origins, alliances, overview]{.ul}
+World War II: origins, alliances, overview
 
-[Chronology and major turning points, 1939-1945]{.ul}
+Chronology and major turning points, 1939-1945
 
-[Germany's anti-Jewish extermination policy, 1943-1944]{.ul}
+Germany's anti-Jewish extermination policy, 1943-1944
 
-[The results of the war]{.ul}
+The results of the war
 
 Part 1:
 
 World War II: origins, alliances, overview
 
-World War II lasted from September 1st, [1939]{.ul}, to September 2nd,
-[1945]{.ul}; its main battlefields were located in Europe, the Pacific
+World War II lasted from September 1st, 1939, to September 2nd,
+1945; its main battlefields were located in Europe, the Pacific
 and Atlantic Oceans, Southeast and Southern Asia, China, the Middle
 East, North Africa and the Mediterranean. Its carnage was unprecedented.
 Over 60 million soldiers and civilians lost their lives, of which more
 than one third were Soviet citizens. On average, 20,000 people were
 killed every day, and this made it the most destructive war in human
 history; 9 million Germans, 4 million Chinese and 3 million Japanese
-lost their lives. The war developed in steps, but from [1942]{.ul}
-onwards, the primary combatants were the Axis powers ([Nazi Germany,
+lost their lives. The war developed in steps, but from 1942
+onwards, the primary combatants were the Axis powers (Nazi Germany,
 Fascist Italy and Imperial Japan; they signed agreements concerning
 mutual assistance, but never made a comprehensive plan of action due to
-difficulty regarding communication, while the Allied powers did]{.ul})
-and the Allied powers ([Great Britain and its Commonwealth nations, the
-Soviet Union and the United States]{.ul}).
+difficulty regarding communication, while the Allied powers did)
+and the Allied powers (Great Britain and its Commonwealth nations, the
+Soviet Union and the United States).
 
-There is one other important date besides September 1st, [1939]{.ul}
+There is one other important date besides September 1st, 1939
 (when Germany invaded Poland and England and France declared war on
-Hitler's Nazi state): [July 7th, 1937]{.ul}, when the Chinese-Japanese
+Hitler's Nazi state): July 7th, 1937, when the Chinese-Japanese
 war began. This war, when viewed separately from World War II, becomes
-an integral part of it and would come to a parallel end in [1945]{.ul}
+an integral part of it and would come to a parallel end in 1945
 with the liberation of China and the end of World War II. Imperial Japan
 sought to drive its industrial development ahead; after the victories
-over the Chinese and Russian Empires in the mid [1890s]{.ul} and its
+over the Chinese and Russian Empires in the mid 1890s and its
 victories with the Entente in World War I, it was very confident in its
 own force and had to find more raw materials and workforce to keep
 itself at the same level of productivity. In order to do so, Japan had
 to work in competition with Western colonial and imperial powers in the
 Pacific. This is why it supported anti-colonial movements in Southern
 Asia and colonial conquest with the annexation of islands in the Chinese
-sea (plus the invasion of Manchuria). In [July 1937]{.ul}, a full-scale
+sea (plus the invasion of Manchuria). In July 1937, a full-scale
 war sparked between China and Japan.
 
 In the meantime, Italy tried to put the Mar Nostrum policy into place
@@ -3691,14 +3746,14 @@ and become the dominant Mediterranean power by basing its strategy on
 that of the Ancient Roman Empire; in North Africa and the Balkans, the
 politics of fascist Italy followed in the steps of late liberal Italy. A
 breaking point with Western powers was the invasion of Ethiopia in
-[1935]{.ul}/1936; up to that moment, the relationship between these
+1935/1936; up to that moment, the relationship between these
 countries and Italy had been quite good, but then Italy established a
 partnership with Nazi Germany and exited the League of Nations as a
 response to the sanctions imposed upon the country. Italy had also
 opened questions with Nazi Germany over South Tyrol, Austria and the
 Balkans, but these questions were more or less settled. They became
-allies in the Spanish civil war. In [1939]{.ul}, Italy occupied Albania,
-which was its launchpad in its failed [1940]{.ul} attempt of conquering
+allies in the Spanish civil war. In 1939, Italy occupied Albania,
+which was its launchpad in its failed 1940 attempt of conquering
 Greece; this unsuccessful occupation was the reason why Germany felt
 obliged to come to Italy's assistance in occupying the Balkans (a front
 which Germany had not considered before).
@@ -3706,18 +3761,18 @@ which Germany had not considered before).
 In Germany, Adolf Hitler capitalised on the economic decline of the
 country and the deep resentment towards the League of Nations (due to
 the Treaty of Versailles) that boiled within its foundations. Hitler
-began establishing the airforce in [1935]{.ul}, which was a violation of
-the 1919 Treaty, then proceeded with organising the army in [1936]{.ul}.
+began establishing the airforce in 1935, which was a violation of
+the 1919 Treaty, then proceeded with organising the army in 1936.
 From the start, the Nazi movement had declared that Germany needed
 'living space', which was almost a direct declaration of war against its
 Eastern neighbours, because the 'living space', according to the Nazis,
-was in Eastern Europe. In [1938]{.ul}, at the Munich Conference, Great
+was in Eastern Europe. In 1938, at the Munich Conference, Great
 Britain and France agreed to the division of Czechoslovakia (against the
 will of the country's population). German-speaking areas would be
 annexed by Germany, while Polish-speaking areas would be annexed by
 Poland, and that contributed to keeping peace in Europe (that was their
 theory). But this only stimulated Germany's appetite for revenge. In
-[1938]{.ul}, Austria's pro-fascist government was replaced by a pro-Nazi
+1938, Austria's pro-fascist government was replaced by a pro-Nazi
 government with the consent of the majority of Austrians.
 
 Stalin's Soviet Union had argued against the Munich Agreements and had
@@ -3730,37 +3785,37 @@ an anti-Hitler union with Britain and France, but these attempts had
 always been rejected, as Poland met them with a firm opposition (because
 it was against any sort of agreement with the USSR).
 
-In [1939]{.ul}, the USSR was the only country that so far had not signed
+In 1939, the USSR was the only country that so far had not signed
 any agreement with Nazi Germany so far. It was largely isolated, and it
-was for that reason that in [August 1949]{.ul} that Soviet foreign
+was for that reason that in August 1949 that Soviet foreign
 minister signed a non-aggression pact with German foreign minister
-Ribbentrop called the Molotov Plan ([a system originally created in 1947
+Ribbentrop called the Molotov Plan (a system originally created in 1947
 in order to provide aid to rebuild the countries in Eastern Europe that
 were politically and economically aligned to the Soviet Union; it was an
 agreement made after the USSR refused to participate in President
 Truman's Marshall Plan, which was a pledge of economic assistance for
-all European countries willing to participate]{.ul}). There was also a
+all European countries willing to participate). There was also a
 secret part of the agreement: de facto, the USSR would reassume the
 position of the Tsarist Empire in its later years regarding its
 relations with Lithuania, Ukraine, Belarus and so on. But it is clear
 that this agreement was just a way for Germany to avoid Russia
-interfering in its plans. The [1st of September]{.ul}, [1939]{.ul}, the
+interfering in its plans. The 1st of September, 1939, the
 German invasion of Poland began; his was five years after the Polish
 government had sought good relations with the country with treaties and
-agreements that dated back to [1935]{.ul}.
+agreements that dated back to 1935.
 
 The 'sleepwalking' theory in World War I was not present in World War
-II, as it was apparent that [the aggressive expansionist drive between
+II, as it was apparent that the aggressive expansionist drive between
 the Axis' foreign policy was what ultimately caused the greatest was in
-human history]{.ul}. Still, we can speak of the law of 'unintended
+human history. Still, we can speak of the law of 'unintended
 consequences' in both wars; the USA's entrance in the war was actually
 triggered by the Axis' own moves, and so on. Logistics, economic and
 military potential became a bias on the battlefield with regard to
-quality of armaments, as [the Axis' lack of raw materials near the end
+quality of armaments, as the Axis' lack of raw materials near the end
 of the war made it quite clear that it could never win the war, and the
 main reason why Germany's allies had joined the Axis was because the
 nation's Blitzkrieg's had assured it a seemingly infinite source of raw
-materials]{.ul}. Another reason why the Axis lost was because it had
+materials. Another reason why the Axis lost was because it had
 made the grave mistake of attacking Russia, a decision which resulted in
 the same devastating consequences as it had for Napoleon.
 
@@ -3769,41 +3824,41 @@ the same devastating consequences as it had for Napoleon.
 Part 2:
 
 Chronology and major turning points,
-1939-1945![](media/image7.png){width="5.680617891513561in"
+1939-1945!](media/image7.png){width="5.680617891513561in"
 height="4.005647419072616in"}
 
-After the Nazi invasion of Poland in [1939]{.ul}, Britain and France
-declared war on Germany. But in [1940]{.ul}, the German Blitzkrieg
+After the Nazi invasion of Poland in 1939, Britain and France
+declared war on Germany. But in 1940, the German Blitzkrieg
 overwhelmed Belgium, Holland and France; in the meantime, Britain was
 under siege of heavy German bombings. Churchill decided to resist at any
 cost, although lots of Brits tried to negotiate with Germans. At the
 end, Germany's attempt to invade Great Britain failed, foiling Hitler's
 plans.
 
-In [1941]{.ul}, Germany invaded the Soviet Union. Allied troops
-confronted Italian and German troops in North Africa. At the [end of
-1941]{.ul}, Japan attacked Pearl Harbour, and this was the moment in
-which [the US]{.ul} (sovereign of Pearl Harbour) [entered the war]{.ul}.
+In 1941, Germany invaded the Soviet Union. Allied troops
+confronted Italian and German troops in North Africa. At the end of
+1941, Japan attacked Pearl Harbour, and this was the moment in
+which the US (sovereign of Pearl Harbour) entered the war.
 
-Three major turning points occurred in [1942]{.ul}: the German-Italian
+Three major turning points occurred in 1942: the German-Italian
 defeat in El Alamein and the German surrender at Stalingrad. This year
 was also marked by the various sea battles (Battle of the Coral Sea,
 Battle of the Java Sea, etc.) between Japan and the US.
 
-Starting from [1943]{.ul}, the Axis powers were on the retreat. When the
+Starting from 1943, the Axis powers were on the retreat. When the
 Allied troops invaded lands pertaining to Italy (Sicily and Southern
 Italy), the nation surrendered. Germany occupied Northern Italy and
 installed a 'puppet regime' under Mussolini. At the same time, British
 and Indian forces defeated Japan in Southern Asia. The Red Army was
 marching Westward.
 
-In [1944]{.ul}, while the Red Army pushed towards the West, Western
+In 1944, while the Red Army pushed towards the West, Western
 forces landed in Normandy and liberated Paris. Nazi Germany was cornered
 from all sides.
 
-In [1945]{.ul}, the Red Army reached Poland and started entering Germany
+In 1945, the Red Army reached Poland and started entering Germany
 from the East while Allied troops started conquering Western Germany. On
-[April 30th]{.ul}, Hitler committed suicide and Germany surrendered.
+April 30th, Hitler committed suicide and Germany surrendered.
 
 In Asia, the war continued even though Japan was practically defeated,
 but the nation resisted occupation. The USSR offered the face that
@@ -3815,7 +3870,7 @@ II came to a definite end.
 
 Part 3:
 
-Germany[']{dir="rtl"}s anti-Jewish extermination policy, 1943-1944
+Germany']{dir="rtl"}s anti-Jewish extermination policy, 1943-1944
 
 The genocide perpetrated against the Jewish population was a key feature
 of World War II. After the Nazis came to power, there was a continuous
@@ -3825,7 +3880,7 @@ under German influence, but especially to Eastern Europe, home to
 millions of jews. Pogroms took place in Poland and the Balkans, and
 special mobile killing squads of SS soldiers began to mass-murder the
 jewish population in the Soviet Union after the invasion of there USSR.
-From summer to the end of [1941]{.ul}, German forces murdered around
+From summer to the end of 1941, German forces murdered around
 1,400,000 people (most of them being jews). The jewish population was
 deported from various European countries and concentrated in ghettos in
 Eastern European countries.
@@ -3857,28 +3912,28 @@ Despite winning the war, Britain lost much of its Empire. The
 developments in the colonies were already pointing at this final
 outcome, and Britain was ready to accept that; however, it still saw
 itself as a main world power, a position defended until the
-[1950s]{.ul}. The structurally weakened British Empire began to
+1950s. The structurally weakened British Empire began to
 scramble. The War led to the revival of US economy, and half of the
 industrial world economy was American from that moment on. The USSR had
 taken the brunt of the war and had been weakened by the consequences of
 the war (differently from the US), but it emerged as a major winner. The
 US and the USSR rose to become the world's two superpowers and entered
-the Cold War, which dominated world politics until [1990]{.ul}. Europe
+the Cold War, which dominated world politics until 1990. Europe
 was divided between US and USSR alliances along the lines of the
-[1945]{.ul} Yalta agreement between Stalin and the West. The end of the
+1945 Yalta agreement between Stalin and the West. The end of the
 Soviet Union later on completely changed European geopolitics.
 
 Lecture 21: The affirmation of Communism and the USA-USSR confrontation
 
 LEARNING OBJECTIVES:
 
-[The Russian Revolution of 1917 and the Chinese Revolution of 1949]{.ul}
+The Russian Revolution of 1917 and the Chinese Revolution of 1949
 
-[Industrialisation and repression under Communist regimes]{.ul}
+Industrialisation and repression under Communist regimes
 
-[Cold War in an 'American century']{.ul}
+Cold War in an 'American century'
 
-[Cultural empire and anti-Americanism]{.ul}
+Cultural empire and anti-Americanism
 
 Part 1:
 
@@ -3894,7 +3949,7 @@ Industrialisation and repression under Communist regimes
 
 Part 3:
 
-Cold War in an [']{dir="rtl"}American century[']{dir="rtl"}
+Cold War in an ']{dir="rtl"}American century']{dir="rtl"}
 
 -.-
 
@@ -3906,13 +3961,13 @@ Lecture 22: "Third World", political Islam, decline of Soviet communism
 
 LEARNING OBJECTIVES:
 
-[The Nonalignment movement]{.ul}
+The Nonalignment movement
 
-[The idea of a "Third War"]{.ul}
+The idea of a "Third War"
 
-[The rise of political Islam]{.ul}
+The rise of political Islam
 
-[The Communist collapse]{.ul}
+The Communist collapse
 
 Part 1:
 
@@ -3926,21 +3981,21 @@ emancipation into motion, which would have been favoured by a number of
 cumulative factors and converging forces.
 
 The group of newly independent countries and those still struggling to
-obtain it became an arena for the [competing models of
-internationalisation]{.ul}. However, many of these countries did not
+obtain it became an arena for the competing models of
+internationalisation. However, many of these countries did not
 accept those competing visions passively, but tried to promote their own
 national agendas. The new nations were undertaking a path to create
 their own network through their association on the international stage.
-The first of these struggles was aimed at [avoiding colonies from ending
-up under colonial control of the US or the USSR]{.ul}.
+The first of these struggles was aimed at avoiding colonies from ending
+up under colonial control of the US or the USSR.
 
 A significant demonstration of these nations' desire for autonomy and
 their capacity of self-organisation was represented by the Bandung
-conference of [1955]{.ul}, held in Indonesia. A conference had already
-been held in Colombo (Ceylon) in [1954]{.ul}, and on that occasion,
+conference of 1955, held in Indonesia. A conference had already
+been held in Colombo (Ceylon) in 1954, and on that occasion,
 India, Pakistan, Burma (today, Myanmar), Indonesia and Ceylon showed
 their position against colonialism and the nuclear arms race and were
-instead in favour of [peace and détente]{.ul}. The following year in
+instead in favour of peace and détente. The following year in
 April in Bandung (Indonesia), 29 states (for the most part, neutral)
 opposed to both colonialism and neocolonialism not only by European
 powers, but also by the US and the USSR. Of the 29 nations that were
@@ -3951,22 +4006,22 @@ had certainly had great importance, but it was not yet the founding
 moment of the Nonalignment movement.
 
 Some countries accused China of leaning on the USSR's support and
-displaying [expansionistic behaviour]{.ul} in Asia; for the most part,
+displaying expansionistic behaviour in Asia; for the most part,
 these countries condemned pactomania, that is, the pressure to join one
 pact or another to decide on nuclear disarmament. In the end of the
 conference, a declaration of the Ten Principles of Bandung were issued,
-which focused on themes such as [economic and cultural cooperation,
-human rights, national self-determination and International peace]{.ul}.
+which focused on themes such as economic and cultural cooperation,
+human rights, national self-determination and International peace.
 
-The Nonalignment movement was only born in [1961]{.ul}, and the term
+The Nonalignment movement was only born in 1961, and the term
 referred to the participants of the NAM conference of that same year,
 held in Belgrade, Yugoslavia; the objectives of the Nonalignment
-movement remained [the lessening of military tensions and the proposal
+movement remained the lessening of military tensions and the proposal
 of alternatives to escape the blackmail of compromises imposed by the
-Cold War's protagonists]{.ul}. The events occurring in the background of
-this conference were [French nuclear tests in the Sahara, the
+Cold War's protagonists. The events occurring in the background of
+this conference were French nuclear tests in the Sahara, the
 unsuccessful invasion of Cuba by the US, the construction of the Berlin
-Wall and the flickering tension between China and USSR/India]{.ul}.
+Wall and the flickering tension between China and USSR/India.
 Differently form Bandung, this conference saw the presence of Cuba, by
 which the alliance extended to Latin America (previously too dependent
 on Western powers). The hosting country was Yugoslavia, which would
@@ -3978,7 +4033,7 @@ Eastern bloc.
 
 Part 2:
 
-The idea of a ["]{dir="rtl"}Third World"
+The idea of a "]{dir="rtl"}Third World"
 
 The idea of a Third World was as powerful as a fact, articulated by
 politicians, researchers, intellectuals and journalists in developing
@@ -3996,7 +4051,7 @@ developed countries needed to 'civilise' them or help them develop. It
 wasn't an innate element, but rather colonial rule that had caused the
 backwardness and poverty present in these nations, and this divided the
 world into imperialists and nations who were exploited by them and were
-known as the [progressive, revolutionary South]{.ul}.
+known as the progressive, revolutionary South.
 
 In the UN, countries pressed for more rapid decolonisation so that they
 could all focus on any issue other than the Cold War (which dominated
@@ -4005,8 +4060,8 @@ nations made the UN swell into an organisation dominated by African and
 Asian states, which gave the Third World countries an ample stage to
 develop their ideas. In recent years, however, we can see that many of
 these countries are blackmailed by stronger ones to behave in a certain
-way to favour a specific political agenda. But in the [1960's]{.ul} and
-[70's]{.ul}, the Third World managed to become a court of world opinion
+way to favour a specific political agenda. But in the 1960's and
+70's, the Third World managed to become a court of world opinion
 that fought for what the majority of the world's countries strived for
 (however, major capitalists countries such as the Soviet Union and China
 still held most of the power).
@@ -4015,7 +4070,7 @@ The Nonalignment movement remained half-completed due to the various
 conflicts and also because of the internals struggles between political
 and social models that tended to favour capitalistic models rather than
 Third World ones. Some countries were under suspicion of leaning towards
-one or the other bloc; indeed, between [1960]{.ul} and [1980]{.ul},
+one or the other bloc; indeed, between 1960 and 1980,
 Indonesia and China moved from pro-Soviet to pro-American positions. On
 the other hand, this Third-World position expressed itself in many Arab
 countries which spoke of Arab socialism and leaned on the Soviet Union
@@ -4023,23 +4078,23 @@ for economic and political cooperation (internally, however, they
 harboured anti-communist sentiments).
 
 Generally, countries fought for decolonisation, but depended on
-[military aid from the USSR]{.ul}, while countries with financial
-problems depended on [Western aid]{.ul}. From an economic point of view,
-in the [1970's]{.ul}, OPEC (which had been founded to aid Third-World
+military aid from the USSR, while countries with financial
+problems depended on Western aid. From an economic point of view,
+in the 1970's, OPEC (which had been founded to aid Third-World
 countries that exported petroleum) had had great success by reaching a
-four-fold increase in oil prices so that [wealth, financial resources
-and capital]{.ul} would flow from First World to Third World countries,
+four-fold increase in oil prices so that wealth, financial resources
+and capital would flow from First World to Third World countries,
 but many of these capitals flew back to New York and other Third World
 countries had to pay higher energy bills, along with increasingly
 expensive raw materials; what followed was an ever-worsening debt
-problem that lasted from [1970]{.ul} to [1995]{.ul} caused by this
+problem that lasted from 1970 to 1995 caused by this
 radical interference in internal policies with market-oriented reforms.
-Still, after [1990]{.ul}, when some of these debt problems were settled
-through debt cancellations in the early [2000's]{.ul} thanks to the
+Still, after 1990, when some of these debt problems were settled
+through debt cancellations in the early 2000's thanks to the
 International Monetary Fund, which saw that the Third World would go
 into detriment of prices weren't attenuated. But there was another
 aspect: in Latin America and Southeast Asia, there was a growing wealth
-in manufacturing countries after [1990]{.ul}, leading to the increase in
+in manufacturing countries after 1990, leading to the increase in
 wealth within those countries thanks to the low cost of the labour force
 and the diminishing costs of transportation/information, which allowed
 these developments.
@@ -4059,10 +4114,10 @@ distinction created the concept of Political Islam. Still, to understand
 it, pre-modern history is important. The parabola of Islam and Islamic
 expansion (which lasted for around a thousand years) was an age of glory
 embedded in the timeline of human history --- it was a centre for
-cultural, artistic and spiritual development. In the [1600's]{.ul},
+cultural, artistic and spiritual development. In the 1600's,
 under the impact of colonialism and European expansion, Islam was
 marginalised and crushed under the weight of these phenomena. In the
-[20th century]{.ul}, Islam was further marginalised with the creation of
+20th century, Islam was further marginalised with the creation of
 Israel to the detriment of the Palestinian population.
 
 The political struggle of the Islamic community is necessary to heal all
@@ -4070,11 +4125,11 @@ these wounds caused by history; the basic narrative of political Islam
 is eschatological as well. It tells us of a golden age, then a decay in
 history that can, must and will be healed in the future. Political
 movements of Islamic inspiration can be found in the Indian subcontinent
-in the second half of the [19th century]{.ul} and in the form of
-political parties (especially in India) since the [20th century]{.ul}.
+in the second half of the 19th century and in the form of
+political parties (especially in India) since the 20th century.
 The Muslim Brotherhood, for example, is an important transitional Sunni
 Islamist organisation that was founded by Hassan al-Banna in Egypt in
-[1928]{.ul}; it would be influential in Syria, Jordan, Palestine and
+1928; it would be influential in Syria, Jordan, Palestine and
 other areas.
 
 After World War II, independence movements of secular nationalist
@@ -4084,7 +4139,7 @@ often representing the most important institution of the Republican
 state. One example of this is Gamal Abdel Nasser's Arab Socialism in
 Egypt, as well as efforts of modernisation and secularisation of the
 nation (all the while rejecting Marxism and communism from outside
-forces). Since the [1980's]{.ul}, secular and nationalist political
+forces). Since the 1980's, secular and nationalist political
 orientation ended a period of crisis. Corrupt governments failed to meet
 the economic expectations of the citizens, who faced a growing sense of
 social inequality and the rapidly worsening phenomenon of youth
@@ -4100,8 +4155,8 @@ The humiliation of muslim societies was attributed to a moral and
 religious decay. Western influence was also accused, because it promoted
 feminism and 'immoral lifestyles', as well as Communism because of its
 atheist worldview. Islam is divided among several sects/branches, and it
-is so politically as well. But what they all strived for was a [division
-between religion and politics]{.ul} and the creation of institutions
+is so politically as well. But what they all strived for was a division
+between religion and politics and the creation of institutions
 that conformed to the practises established by the Prophet Mohammed; in
 the social and private sphere, a religious and secular lifestyle should
 be substituted by one that conforms to Islam. This separation is
@@ -4113,7 +4168,7 @@ legitimacy on that religion. Many other countries today accept the
 Shariah, while many parties of Political Islam hold the majority and the
 government. In some cases (such as in Egypt and Algeria), these were
 overthrown by a military coupe. The history of political Islam in the
-[20th century]{.ul} has been a success story.
+20th century has been a success story.
 
 -.-
 
@@ -4121,45 +4176,45 @@ Part 4:
 
 The Communist collapse
 
-After [1979]{.ul}, the USA, under Reagan, stationed new types of cruise
+After 1979, the USA, under Reagan, stationed new types of cruise
 missiles in Europe and announced the militarisation of open space,
 triggering a new arm's race, which turned out to be a heavy economic
 burden for the USSR. The USSR established pro-Soviet Afghan governments
-by intervening militarily in Afghanistan ([1979-1989]{.ul}) while the
+by intervening militarily in Afghanistan (1979-1989) while the
 USA sustained local Islamic resistance leaders as well as foreign
 fighters of the Arab world that came to the nation's succour (like Osama
 Bin Laden); the arm's race in the Afghan war exhausted the resources of
 the Soviet economy.
 
-In [1985]{.ul}, Mikhail Gorbachev was nominated the general secretary of
+In 1985, Mikhail Gorbachev was nominated the general secretary of
 the Communist Party, which was the highest power position in the union.
-In [1986]{.ul}, he signed the Intermediate Range Nuclear Forces Treaty
+In 1986, he signed the Intermediate Range Nuclear Forces Treaty
 with the US, which partly ended the arm's race, then introduced
 transparency policies (Glasnost) and economic restructuring policies
 (Peristroyka), but these reform measures only piled up on the Union's
-economic hiccups. In [1986]{.ul}, the nuclear power plant in Chernobyl
+economic hiccups. In 1986, the nuclear power plant in Chernobyl
 exploded, blasting a metaphoric crater in the environment and in the
 USSR's credibility, as the information policy of the administration in
 the early phase of the accident was all but transparent. Food and
 clothing shortages, unbridled corruption and impoverishment in the years
-that followed all the way up to [1990]{.ul} created a deep moral crisis
+that followed all the way up to 1990 created a deep moral crisis
 that didn't spare the elites.
 
-In [1991]{.ul}, Gorbachev resigned and Boris Yeltsin took over. In the
-following year, [1991]{.ul}, the USSR was dissolved, and many Soviet
+In 1991, Gorbachev resigned and Boris Yeltsin took over. In the
+following year, 1991, the USSR was dissolved, and many Soviet
 republics gained independence. This process was also catalysed by what
-was happening in Poland; in [1978]{.ul}, a Polish bishop (Wojtyla) was
-elected Pope of the Roman Catholic Church, and in [1980]{.ul}, the
-Catholic union Solidarnosc was founded. In [1981(3]{.ul}, under general
+was happening in Poland; in 1978, a Polish bishop (Wojtyla) was
+elected Pope of the Roman Catholic Church, and in 1980, the
+Catholic union Solidarnosc was founded. In 1981(3, under general
 Jaruzelski, the authoritarian communist government of the Polish
 People\'s Republic drastically restricted everyday life by introducing
 martial law and a military junta in an attempt to throttle political
 opposition, in particular the Solidarity Movement (although martial law
-was lifted in [1983]{.ul}, many political prisoners were not released
-until a general amnesty in [1986]{.ul}). Under the impression of Soviet
-developments, in [1989]{.ul}, a round table between the Opposition
+was lifted in 1983, many political prisoners were not released
+until a general amnesty in 1986). Under the impression of Soviet
+developments, in 1989, a round table between the Opposition
 forces and the Communist government negotiated re-elections, in which,
-in [1990]{.ul}, the leader of the Solidarity Movement, Lech Walesa, was
+in 1990, the leader of the Solidarity Movement, Lech Walesa, was
 elected president.
 
 In most of the other European countries, the transition was non-violent;
@@ -4171,19 +4226,19 @@ of power. Some used their leading position in the industry during the
 period of privatisation to steal wealth from social property and grow to
 become the elite in this post-Communist era. In Romania, however, the
 fall of the Union gave way to a kind of revolution and secret-service
-coup against Ceaucescu. From [1990]{.ul} to [1991]{.ul}, former USS
+coup against Ceaucescu. From 1990 to 1991, former USS
 Republics obtained independence, such as Lithuania, Latvia, Estonia,
 Ukraine and Belorussia, while many more did the same in Yugoslavia
-between [1991]{.ul} and [1992]{.ul} (Croatia, Slovenia and Bosnia;
-Yugoslavia only disbanded in [2000]{.ul}).
+between 1991 and 1992 (Croatia, Slovenia and Bosnia;
+Yugoslavia only disbanded in 2000).
 
 In China, after the fall of the USSR, foreign policy started favouring
 America, which sought to play out China against the USSR. In
-[1978]{.ul}, Deng Xiaoping (the leader of China) jumpstarted an economic
-reform process that foresaw liberalisation processes. In [1989]{.ul}, at
+1978, Deng Xiaoping (the leader of China) jumpstarted an economic
+reform process that foresaw liberalisation processes. In 1989, at
 the high of the Soviet crisis, students revolted and demanded political
 reforms similar to those in the USSR. During the Tiananmen Square
-protests of [1989]{.ul}, protestors were massacred by the armed forces;
+protests of 1989, protestors were massacred by the armed forces;
 still, most Chinese people were focused on working hard to improve their
 economic position, something that the Chinese system not only
 facilitated, but offered. Under Jiang Zemin, the Communist party would
@@ -4196,13 +4251,13 @@ changes
 
 LEARNING OBJECTIVES:
 
-[The growth of the world population]{.ul}
+The growth of the world population
 
-[Progress and inequality]{.ul}
+Progress and inequality
 
-[Nationalism and democracy in the global process]{.ul}
+Nationalism and democracy in the global process
 
-[Cultural convergence an divergence]{.ul}
+Cultural convergence an divergence
 
 Part 1:
 
@@ -4230,13 +4285,13 @@ Lecture 24: Two waves of economic globalisation?
 
 LEARNING OBJECTIVES:
 
-[Periodising globalisation]{.ul}
+Periodising globalisation
 
-[Industrialisation, capital market and financial flows]{.ul}
+Industrialisation, capital market and financial flows
 
-[Trade, investment, migration and factor prices]{.ul}
+Trade, investment, migration and factor prices
 
-[Summing up similarities and differences]{.ul}
+Summing up similarities and differences
 
 Part 1:
 
