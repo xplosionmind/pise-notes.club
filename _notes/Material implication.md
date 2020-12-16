@@ -1,3 +1,6 @@
+---
+---
+
 All the meanings of the term *implication* can be conveyed to the statement “if, then”.\
 Implication is a relation that holds for statements that take a conditional form.\
 

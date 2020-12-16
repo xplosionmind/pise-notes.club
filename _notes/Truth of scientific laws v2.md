@@ -1,3 +1,6 @@
+---
+---
+
 ## Why scientific laws?
 
 Laws lie visavis real phenomena, but they can handle ideal phenomena
