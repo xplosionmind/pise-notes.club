@@ -172,7 +172,7 @@ Logic cannot guide us through this process of understanding.
 
 ---
 
-- next topic: [[David Hume]]
+- next topic: [[Hume in Logic and Philosophy of Science I]]
 - previous topic: [[Aristotelian logic]]
 
 [SEP]: https://plato.stanford.edu "Stanford Encyclopedia of Philosophy"

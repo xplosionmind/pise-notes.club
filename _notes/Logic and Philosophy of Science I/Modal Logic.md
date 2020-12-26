@@ -3,16 +3,13 @@ date: 2020-12-03
 ---
 <p class="date">3<sup>rd</sup> December 2020</p>
 
-Classical logic is a binary logic, it's based on truth or falsity.
-
+Classical logic is a binary logic, it's based on truth or falsity.\
 Nonetheless, not all propositional logic are binary.
 
-### Modal Logic
-
 It's based on necessity, probability, possibilities. Not all statements are binary, indeed. In a broader sense:
-- *epistemic*
-- *deontic*
-- *temporal*
+- *epistemic* sentences: they all start with “It is known that”. They have to do not with truth, but with what we know.
+- *deontic* statements: they all start with “It ought to be the case that”, “It should be the case that”. They have to do with norms.
+- *temporal* statements: at their premise, they have a temporal function, “It has been the case that”. The time factor here is what drives the reasoning.
 
 An example of this type of logic dates back to Leibniz, who presented the theory of possible worlds.
 
@@ -39,8 +36,8 @@ In the first case this works universally and specifically, in the second case we
 
 ## *De dicto* / *de re* modalities
 
-- dd: necessity of a property
-- dr: properties of the things of which the propositions assert something
+- *de dicto*: necessity of a property
+- *de re*: properties of the things of which the propositions assert something
 
 Whatever is true *de dicto* is not necessarily true *de re*.
 
@@ -64,4 +61,8 @@ Some essences can be related to the element contingently, and some others may co
 
 C.I. Lewis is considered to be the father of Modal Logic. He formulated this idea while he was studying material implication: he was in particular focused on its paradoxes.  He used Modal Logic to overcome material implication issues.
 
+<br>
+
 ---
+
+Back to: [[Natural kinds]]

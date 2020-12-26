@@ -22,9 +22,7 @@ Institutional facts behave in the same way: functions aren't intrinsic in the es
 
 An underlying logic that can be summarized in the simple formula
 
-$$
-x \counts \as y \in C 
-$$
+x counts as y in C 
 +++ learn Latex
 
 > +++S

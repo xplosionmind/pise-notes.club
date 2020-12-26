@@ -41,7 +41,7 @@ As deductive reasoning can't be logically questioned without involving a deducti
 
 > to call a particular belief reasonable or unreasonable is to apply inductive standards, just as to call a particular argument valid or invalid is to apply deductive standards.
 
-Following a deductive reasoning, inductive standards are invalid ([[David Hume|Hume]]). If every argument we produce is invalid to prove induction in general (and not a peculiar principle), we have no good reason for any of our inductive conclusions.
+Following a deductive reasoning, inductive standards are invalid ([[Hume in Logic and Philosophy of Science I|Hume]]). If every argument we produce is invalid to prove induction in general (and not a peculiar principle), we have no good reason for any of our inductive conclusions.
 
 Suppose we take a supremely general valid proposition, such that the generalization of every instance is implied by it. Any justification would be found, for the simple reason that as long as the former holds, all the entailed statements are valid. How many inductive observations are necessary to get to a deductive generalization of the instance? Such number would be arbitrary.
 

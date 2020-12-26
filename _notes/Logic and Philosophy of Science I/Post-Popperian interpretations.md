@@ -13,11 +13,12 @@ aliases: ["Criticisms to Popper's Philosophy of Science"]
 	- the involvement of induction in a deduction-based process
 - [[Historical objections to Popper|Historical objections]]:
 	- [[Imre Lakatos|Sophisticated falsificationism]] by [[Imre Lakatos]]
+	- [[Thomas Kuhn]]
+- Methodological objections
+	- [[Paul Feyerabend]]
+	
+<br>
 
-[[Historical objections to Popper]]
+---
 
-[[Thomas Kuhn]]
-
-+++ ## Methodological objections
-
-[[Paul Feyerabend]]
+Next topic: [[Introduction to Scientific explanation]]

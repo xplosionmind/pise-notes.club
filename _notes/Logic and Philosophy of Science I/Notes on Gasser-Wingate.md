@@ -47,5 +47,5 @@ his intention is instead to describe the kind of ***cognitive development*** nec
 
 <p class="cite">Aristotle, <cite>100a3-9</cite></p>
 
-A strong link to [[David Hume]]’s philosophy
+A strong link to [[Hume in Logic and Philosophy of Science I]]’s philosophy
 

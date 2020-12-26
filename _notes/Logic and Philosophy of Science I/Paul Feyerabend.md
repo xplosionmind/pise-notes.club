@@ -61,4 +61,4 @@ The very idea of “scientific method” changed radically: today there is no su
 
 ---
 
-Next topic: [[The scientific explanation]]
+Next topic: [[Introduction to Scientific explanation]]

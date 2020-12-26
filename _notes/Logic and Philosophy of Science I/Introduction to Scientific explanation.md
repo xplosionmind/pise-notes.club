@@ -3,6 +3,8 @@ date: 2020-11-26
 ---
 <p class="date">26<sup>th</sup> November 2020</p>
 
+[Scientific Explanation](https://plato.stanford.edu/entries/scientific-explanation/ "Scientific Explanation on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy
+
 How do scientific theories achieve the task of explaining science?\
 The explanatory power of scientific theory relies on the laws it's built upon.
 

@@ -29,7 +29,7 @@ How logic interacts with Philosophy of Sciences
 Three main debates in which logic has been central in defining
 
 - [[The Scientific method]]
-- [[The scientific explanation]]
+- [[Introduction to Scientific explanation]]
 - [[Natural kinds]] and [[Social kinds]]
 
 Following a method is what distinguishes science from any other activity. Criteria and rules agreed and proven by researchers make scientific conclusions both accountable and justified. It's not just a matter of faith.

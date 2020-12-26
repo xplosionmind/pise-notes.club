@@ -1,7 +1,16 @@
 ---
 ---
+Descartes's synopsis:
 
-# Second meditation
+> In the Second Meditation, the mind uses its own freedom and supposes the non-existence of all the things about whose existence it can have even the slightest doubt; and in so doing the mind notices that it is impossible that it should not itself exist during this time. This exercise is also of the greatest benefit, since it enables the mind to distinguish without difficulty what belongs to itself, i.e. to an intellectual nature from what belongs to the body. 
+
+---
+
+
+
+---
+
+<br>
 
 ## 1. Searching for an Archimedean point
 
@@ -11,14 +20,20 @@ The deceiving God, which is an argument against the existence of other entities,
 
 ### Elenchtic demonstration
 
-From the Greek _Elenchos_
+From the Greek *Elenchos*
 
 It's impossible to be deceived if not existing: the argument of the deceiving God, instead of questioning an individual existence, proof one's existence.
 
 > We can… demonstrate negatively even that this view is impossible, if our opponent will only say something; and if he says nothing, it is absurd to seek to give an account of our views to one who cannot give an account of anything, in so far as he cannot do so. For such a man, as such, is from the start no better than a vegetable…The starting-point for all such arguments is not the demand that our opponent shall say that something either is or is not (for this one might perhaps take to be a begging of the question), but that he shall say something which is significant both for himself and for another; for this is necessary, if he really is to say anything. For, if he means nothing, such a man will not be capable of reasoning, either with himself or with another. But if any one grants this, demonstration will be possible; for we shall already have something definite. … And again he who admits this has admitted that something is true apart from demonstration (so that not everything will be 'so and not so’)
 
-<p class="date">Aristotle, Metaphysics, bk 4, 4, 1006a 11-18</p>
+<p class="cite">Aristotle, <cite>Metaphysics</cite>, bk 4, 4, 1006a 11-18</p>
 
 <br>
 
 Only the subject can express this proposition. We now have a **model of knowledge**, we got a paradigm to clearly understand 
+
+<br>
+
+---
+
+[[Third Meditation]]

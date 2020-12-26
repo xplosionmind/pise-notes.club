@@ -1,4 +1,5 @@
 ---
+aliases: ["index"]
 redirect_from:
   - /logic
   - /phil-of-science
@@ -23,7 +24,7 @@ Everyone of the topics below is summarized in the [[Supersummary of Logic and Ph
 
 1. [[Aristotelian logic]]
 1. [[Francis Bacon]]
-1. [[David Hume]]
+1. [[Hume in Logic and Philosophy of Science I]]
 1. [[Bertrand Russel]]
 2. [[Pragmatic Justification]] (Hans Reichenbach)
 3. [[Logical Positivism]]
@@ -46,6 +47,7 @@ Everyone of the topics below is summarized in the [[Supersummary of Logic and Ph
 2. [[Carl Hempel]] (The Deductive-nomological model)
 3. [[Nancy Cartwright]]
 4. [[Truth of scientific laws]]
+1. [[Testing the hypotheses]]
 
 <br>
 

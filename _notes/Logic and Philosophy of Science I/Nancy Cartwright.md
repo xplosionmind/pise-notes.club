@@ -11,6 +11,11 @@ they could never be applied as-are in the real world: they describe highly ideal
 
 The nature we deal with with laws is idealized. Phenomena interpreted are not strictly real.
 
+Examples:\
+<q>all bodies fall with the same speed, *ceteris paribus*</q>\
+<q>provided the supply remains constant, the price of a product increases with growing demand, *ceteris paribus*</q>\
+<q>haemoglobin binds O2, *ceteris paribus*</q>
+
 <br>
 
 ---
