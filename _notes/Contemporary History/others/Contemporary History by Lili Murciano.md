@@ -1,58 +1,42 @@
 ---
 author: lili
 ---
-Lecture 2: At the Roots of Globalisation
+## Lecture 2: At the Roots of Globalisation
 
 European colonialism, 1450-1750
 
 LEARNING OBJECTIVES:
+1. Reasons behind Europe's expansionistic drive
+2. The conquer of the Americas and the making of an "Atlantic world"
+3. Europeans in Asia: a half-successful mission
+4. An early-modern world economy
 
-Reasons behind Europe's expansionistic drive
-
-The conquer of the Americas and the making of an "Atlantic world"
-
-Europeans in Asia: a half-successful mission
-
-An early-modern world economy
-
-Part 1:
+### Part 1:
 
 Reasons behind Europe's expansionistic drive
 
 A NEW GLOBAL SYSTEM
 
-From the 16th to the 19th century, a new geopolitical system came into
-power; it was a global, spacial hierarchy atop which sat Europe.
+From the 16th to the 19th century, a new geopolitical system came into power; it was a global, spacial hierarchy atop which sat Europe.
 
 WHY EUROPE?
 
-One key point is the food production capacity in Europe's moderate
-climate, where a fairly good immunity system came to be
+One key point is the food production capacity in Europe's moderate climate, where a fairly good immunity system came to be
 
-The competition between monarchies and the interconnectedness of the
-State system helped keep a certain equilibrium
+The competition between monarchies and the interconnectedness of the State system helped keep a certain equilibrium
 
-Europe's seafaring technology (such as the caravel) improved its
-capacity to navigate in the oceans
+Europe's seafaring technology (such as the caravel) improved its capacity to navigate in the oceans
 
-There was a limit in demographic and agricultural growth due to the
-exhaustion of land, and thus the continent's countries saw the need to
-expand
+There was a limit in demographic and agricultural growth due to the exhaustion of land, and thus the continent's countries saw the need to expand
 
-The birth of the merchant class actively sought out gold, which it found
-in the Americas and used to trade with Asia, bringing Europe to a
-position of economic power
+The birth of the merchant class actively sought out gold, which it found in the Americas and used to trade with Asia, bringing Europe to a position of economic power
 
-Christian religion and a sense of missionary commitment proved Europeans
-to be more devout and radical, so to speak; the concept of
-'civilisation', for example, led to Europeans expanding towards other
-countries to 'teach them' to be civilised (one of the reasons for
-conquering the Americas)
+Christian religion and a sense of missionary commitment proved Europeans to be more devout and radical, so to speak; the concept of 'civilisation', for example, led to Europeans expanding towards other
+countries to 'teach them' to be civilised (one of the reasons for conquering the Americas)
 
-The Renaissance and the birth of the sciences furthered the ideological
-aspect of Europe's expansionistic views
+The Renaissance and the birth of the sciences furthered the ideological aspect of Europe's expansionistic views
 
-BUT EUROPE WASN'T ALONE IN THE SEAFARING 'COMPETITION'...
+BUT EUROPE WASN'T ALONE IN THE SEAFARING 'COMPETITION'…
 
 Traders from the Red Sea and along the eastern African coast, plus the
 Indian Ocean, China and many other countries, took part in this
@@ -69,9 +53,9 @@ expeditions to India, Arabic and Eastern Africa
 China economically limited itself to its immediate surroundings for
 political and cultural reasons from the 16th century onwards
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The conquer of the Americas and the making of an "Atlantic world"
 
@@ -89,11 +73,10 @@ Aztecs, as well as efforts of forced Christianisation. But one of the
 main aims of European colonisers manifests itself on an economical
 level:
 
-1)  IMPORT from the Americas = tobacco, pumpkin, quinine, turkey, sweet
+1.  IMPORT from the Americas = tobacco, pumpkin, quinine, turkey, sweet
     potato, squash, avocado, pineapple, peppers, cassava, cacao bean,
     peanut, potato, tomato, corn, beans, vanilla
-
-2)  EXPORT form Europe = coffee bean, peach, pear, olive, citrus fruits,
+2.  EXPORT form Europe = coffee bean, peach, pear, olive, citrus fruits,
     banana, honeybee, sugar cane, grains, onion, livestock, turnip,
     grape, disease (smallpox, malaria, influenza, diphtheria, typhus,
     whooping, measles, cough)
@@ -101,22 +84,20 @@ level:
 As we can see, this exchange was not equal at all. Regarding
 colonialism, three types were present in the Americas:
 
-1)  PLANTATION COLONIES in the Caribbean area, the Eastern
+1.  PLANTATION COLONIES in the Caribbean area, the Eastern
     lowlands and Brazil (already introduced in the Eastern Atlantic
     islands by Iberian powers and European merchant societies linked to
     the aforementioned, such as Tuscany and Southern Italy)
-
-2)  MIXED RACE COLONIES in Mexican and Peruvian highlands
+2.  MIXED RACE COLONIES in Mexican and Peruvian highlands
     (minority of Spanish settlers, "mixed" marriage, mestizos)
-
-3)  SETTLER COLONIES in Northern French and British colonies (80%
+3.  SETTLER COLONIES in Northern French and British colonies (80%
     majority of European origin because the original population was
     widely exterminate, killed through slave work or by diseases
     imported by the Europeans)
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Europeans in Asia: a half-successful mission
 
@@ -160,9 +141,9 @@ changed, however, with the conquest of the Americas and the commencement
 of gold/silver-mining activities, which were used to buy
 spices/tea/goods in Asia and export them to Europe.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 An early-modern World Economy
 
@@ -194,19 +175,18 @@ This warranted the development of new economic systems, such as
 'latifondi'. These weren't a heritage of Medieval history, but were
 rather an effect of industrialisation and modernisation.
 
-Lecture 3: The Concept of 'Europe'
+<br>
+<br>
+
+## Lecture 3: The Concept of 'Europe'
 
 LEARNING OBJECTIVES:
+1. Is Europe a 'continent'?
+2. Ancient 'Europe' and Modern 'Europe'
+3. Christianitas and 'Christian Europe'
+4. Enlightenment and the philosophies of history
 
-Is Europe a 'continent'?
-
-Ancient 'Europe' and Modern 'Europe'
-
-Christianitas and 'Christian Europe'
-
-Enlightenment and the philosophies of history
-
-Part 1:
+### Part 1:
 
 Is Europe a 'continent'?
 
@@ -248,9 +228,9 @@ divisions based on philosophical speculations about history. It is
 history that makes geography, and not geography that makes history.
 Europe is a spacial metaphor of the meaning of history.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Ancient 'Europe' and Modern 'Europe'
 
@@ -294,9 +274,9 @@ This highlights one key difference between Ancient 'Europe' and Modern
 'Europe': the Europe of pre-antiquity was particularistic, but from the
 Renaissance onwards, it was universalistic.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Christianitas and Christian Europe
 
@@ -424,21 +404,20 @@ according to Europe, and of the classification of geographical areas
 into 'backwards' or 'progressive' through anthropological parameter;
 this concept legitimises European expansion and colonisation.
 
-Lecture 4: European timeline, 1776-1914
+<br>
+<br>
+
+## Lecture 4: European timeline, 1776-1914
 
 LEARNING OBJECTIVES:
-
-Factors of European worldwide dominance
-
-Critics of Eurocentrism
-
-Synthesis of European timeline events: the wave of revolutions in
+1. Factors of European worldwide dominance
+2. Critics of Eurocentrism
+3. Synthesis of European timeline events: the wave of revolutions in
+Europe
+4. Synthesis of European timeline events: new nations States in
 Europe
 
-Synthesis of European timeline events: new nations States in
-Europe
-
-Part 1:
+### Part 1:
 
 Factors of European worldwide dominance
 
@@ -463,9 +442,9 @@ The competition between the political entities in Europe brought about
 motivation for being better than their enemies, leading to benefits for
 everyone
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Critics of Eurocentrism
 
@@ -492,9 +471,9 @@ production. Exposure to these new patterns of production and marketing
 arguably assisted European businessmen in developing an industrial
 factory-based system that operated in a similar manner.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Synthesis of European Timeline Events:
 
@@ -579,9 +558,9 @@ The creation of more nation States in the coming decades was a
 consequence of the realisation that, although some revolts were quieted,
 they could never be quashed completely in the long run.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Synthesis of European Timeline Events:
 
@@ -604,21 +583,19 @@ national unification as these substituted a great number of small
 geopolitic equilibrium, while another great development was the retreat
 of the Ottoman Empire from the Balkans.
 
-Lecture 5: The Concept of 'Industrial Revolution'
+<br>
+<br>
+
+## Lecture 5: The Concept of 'Industrial Revolution'
 
 LEARNING OBJECTIVES:
+- Subdivisions of the economy
+- Historical definitions of 'industry'
+- Industry 'proper' and handicraft
+- Structural change in a long-term perspective
+- Industrialisation: definition and geographical diffusion
 
-Subdivisions of the economy
-
-Historical definitions of 'industry'
-
-Industry 'proper' and handicraft
-
-Structural change in a long-term perspective
-
-Industrialisation: definition and geographical diffusion
-
-Part 1:
+### Part 1:
 
 Subdivisions of the economy
 
@@ -627,34 +604,23 @@ which brought about structural change within our economy, such as the
 transformation of the various economic sectors. These are,
 respectively, :
 
-1)  PRIMARY SECTOR
-
+1.  PRIMARY SECTOR\
 The processes of extraction of raw materials which regard mining,
 electricity, agriculture (the most important sector),
 fishing and hunting
-
-3)  SECONDARY SECTOR
-
+3.  SECONDARY SECTOR\
 The transformation of raw materials into tangible goods; includes heavy
 industry and manufacturing industry (includes handicraft
 and follows a factorial system)
-
-4)  TERTIARY SECTOR
-
+4.  TERTIARY SECTOR\
 This sector regards the distribution of these tangible goods and
 the production of intangible goods, that is:
-
-° trade
-
-° transportation
-
-° information
-
-° financial services
-
-° social services
-
-° personal services
+	- trade
+	- transportation
+	- information
+	- financial services
+	- social services
+	- personal services
 
 These structures disgorged into production systems (such as, to name a
 few, feudalism, trading, and the specialisation of certain areas in
@@ -672,9 +638,9 @@ incredible manner (entropy), consuming our planet's energy reserves in a
 way that negatively impacted its ecosystems and would also affect us
 later on.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Historical definitions of 'Industry\'
 
@@ -686,33 +652,30 @@ Historically, 'industry' was a rather generic word; in latin, it meant
 'being committed to/working on something'. Today, the word has differing
 denotations:
 
-1)  Indicates the aggregate of manufacturing/the selection of
+1.  Indicates the aggregate of manufacturing/the selection of
     technically productive enterprises in a particular field (e.g.: 'the
     automobile industry')
 
 
-
-
-5)  Indicates any general business activity or commercial enterprise
+5.  Indicates any general business activity or commercial enterprise
     (e.g.: 'the Italian tourist industry')
-
-6)  Indicates trade or manufacture in general (e.g.: 'the rise of
+6.  Indicates trade or manufacture in general (e.g.: 'the rise of
     industry in Africa')
 
 We are also confronted with different linguistic traditions as well:
 
-1)  In English tradition, with the term 'industry', people meant the
+1. In English tradition, with the term 'industry', people meant the
     mining industry and all activities pertaining to the Secondary
     Sector
 
 
 
 
-7)  In Italian tradition, on the other hand, 'industria' didn't only
+7.  In Italian tradition, on the other hand, 'industria' didn't only
     regard mining and the Secondary Sector, but also many other
     services
 
-8)  Finally, in German tradition, 'industrie' referred to mining and
+8.  Finally, in German tradition, 'industrie' referred to mining and
     the mechanised part of the Secondary Sector (handicraft was not
     considered an industry)
 
@@ -723,9 +686,9 @@ organisations. One example is the cotton industry, which became the most
 important sector in the textile industry and was not regulated by any
 corporation.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Industry 'proper' and Handicraft
 
@@ -750,13 +713,13 @@ on wage labour and capital investment and was pre-existent to industrial
 production methods. The only differences introduced by the Industrial
 Revolution were:
 
-1)  A segmentation of the labour process that made labourers
+1. A segmentation of the labour process that made labourers
     interchangeable and expanded the labour market
 
 
 
 
-9)  The allowance of scales of production that enumerated huge
+9. The allowance of scales of production that enumerated huge
     investment with regards to production
 
 In this way, industrialisation did not create capitalism, but it helped
@@ -768,9 +731,9 @@ An economic, political, and social system in which property, business,
 and industry are privately owned and directed towards making the
 greatest possible profits for successful organisations and people.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Structural change in a long-term perspective
 
@@ -796,9 +759,9 @@ Industrial Revolution later veered towards an expansion of the services
 sector instead of the industrial sector, which is what Fourastiè had
 indicated with his aforementioned quote.
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 Industrialisation: definition and geographic diffusion
 
@@ -817,30 +780,27 @@ agricultural employment. These parameters are used to compare Nation
 States in order to analyse what might catalyse such changes and how one
 country/geographical area influences another.
 
-Lecture 6: The Industrial Revolution in Europe
+<br>
+<br>
+
+## Lecture 6: The Industrial Revolution in Europe
 
 1750-1914
 
 LEARNING OBJECTIVES:
-
-The Characteristics of the Industrial Revolution in Great Britain
-
-Belgium and Switzerland: a comparison
-
-French industrialisation in comparison with the British case
-
-Railroads and universal banking: features of German
-industrialisation
-
-Industrial regions in Italy, Spain, the Hapsburg and the Czarist
-Monarchies
-
-Industrialisation in the USA
+- The Characteristics of the Industrial Revolution in Great Britain
+- Belgium and Switzerland: a comparison
+- French industrialisation in comparison with the British case
+- Railroads and universal banking: features of German
+- industrialisation
+- Industrial regions in Italy, Spain, the Hapsburg and the Czarist
+- Monarchies
+- Industrialisation in the USA
 
 Overview: Wealth, capitalism, urbanisation and demographic
 development
 
-Part 1:
+### Part 1:
 
 The Characteristics of the Industrial Revolution in Great Britain
 
@@ -854,31 +814,27 @@ very diverse:
 
 
 
-10) Corporate enterprise and stock exchange
+10. Corporate enterprise and stock exchange
 
-11) Agricultural improvement, enclosures and land
+11. Agricultural improvement, enclosures and land
     circulation
 
-12) Political systems (a 'liberal climate' was present in Great
+12. Political systems (a 'liberal climate' was present in Great
     Britain at that time, which was great for investment and
     market-oriented economic sectors and granted political participation
     for the nobility and the upper class) and mercantilism (very
     important for building up a mercantile fleet)
-
-13) The mentality of the nobility (they became increasingly
+13. The mentality of the nobility (they became increasingly
     enterprise-oriented and adopted a capitalistic mentality)
-
-14) The adoption of free trade policies during the 18th century,
+14. The adoption of free trade policies during the 18th century,
     which was convenient for them because they were the main trading
     power
-
-15) State institutions were also very important (the monarchy
+15. State institutions were also very important (the monarchy
     controlled the currency, which was homogeneous throughout the
     kingdom and created optimal circumstances for a stable monetary
     system; protectionist measures were also taken sometimes to boost
     Britain's own production, such as with the textile industry)
-
-16) Monetary stability and the banking system that spread
+16. Monetary stability and the banking system that spread
     from the city to the countryside (agriculture became market-oriented
     and the agricultural industry dwindled into enterprises that served
     external markets, such as trade, and investments were made towards
@@ -887,22 +843,19 @@ very diverse:
     Britain from continental Europe, where the nobility didn't even
     think of investing their money is 'bourgeois' enterprises; the
     banking system delivered the capital for these investments)
-
-17) Proto-industry and technological innovation
-
-18) Transport systems and the development of
+17. Proto-industry and technological innovation
+18. Transport systems and the development of
     infrastructure
-
-19) Economic geography of Britain (very important because the
+19. Economic geography of Britain (very important because the
     layers of iron and minerals were close to the seaports, which made
     the cost of these raw materials quite low; this was a huge advantage
     compared to France, where coal was imported at a higher price due to
     a timber shortage; coal was originally a resource used only in
     emergency situations)
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Belgium and Switzerland: a comparison
 
@@ -956,9 +909,9 @@ ecosystems and grant jobs to small labourers in the countryside.
 This all together is proof that machine tools, and not the steam engine,
 are at the core of the Industrial Revolution.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 French industrialisation in comparison with the British case
 
@@ -972,18 +925,16 @@ Industrialisation, and not France?
 Up to the French Revolution, the country seemed to have the best
 preconditions:
 
-1)  Corporate entrepreneurship (in the glass, gas, chemicals, and
+1.  Corporate entrepreneurship (in the glass, gas, chemicals, and
     sugar industries)
 
 
 
 
-20) More science-oriented innovations
-
-21) Seemed fitter to lead the Second Industrial revolution thanks to
+20. More science-oriented innovations
+21. Seemed fitter to lead the Second Industrial revolution thanks to
     its corporate entrepreneurship
-
-22) Had the best infrastructure and lands in Europe, while Britain was
+22. Had the best infrastructure and lands in Europe, while Britain was
     quite poor because the State did not intervene in these
     sectors
 
@@ -993,36 +944,29 @@ Revolution, and the European market was so protected that technological
 innovation was practically null. Some comparative disadvantages
 (although greatly exaggerated by French scholars) are:
 
-1)  Loss of colonies
+1. Loss of colonies
 
 
 
 
-23) Less export-oriented
-
-24) The presence of familial capitalism in the textile and iron
+23. Less export-oriented
+24. The presence of familial capitalism in the textile and iron
     industry
-
-25) The nobility's conservative views
-
-26) The emergence of a Peasantry middle-class ownership of land after
+25. The nobility's conservative views
+26. The emergence of a Peasantry middle-class ownership of land after
     the Slow Revolution (does not favour population growth,
     leading to slow demographic growth listed in point number 7)
-
-27) Inability of French agricultural and industrial producers to meet
+27. Inability of French agricultural and industrial producers to meet
     the growing worldwide competition for markets after the fall of
     Napoleon (although inventions like the Jacquard loom defy this
     fact)
-
-28) Slow demographic growth (people migrated to towns an industrial
+28. Slow demographic growth (people migrated to towns an industrial
     demand diminished)
-
-29) Weaker banking system (Liòn was the only industrialised city
+29. Weaker banking system (Liòn was the only industrialised city
     and banks were only concentrated there; banks mostly invested in
     real estate and agriculture, which were main sources of instability
     that contributed to these banks' crash)
-
-30) The economic geography of French territory (the location of
+30. The economic geography of French territory (the location of
     coal mines and iron mines diverged, and there were no rivers in
     between; especially before the creation of rail-roads, the
     integration between the two sectors could not occur)
@@ -1030,9 +974,9 @@ innovation was practically null. Some comparative disadvantages
 The lack of heritage of innovation during the First Industrial
 Revolution consequently led to France's backwardness during the Second.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Railroads and universal banking: features of German industrialisation
 
@@ -1077,9 +1021,9 @@ entire territory, not limiting themselves to nobility. Banks became a
 sort of public institution that had great influence on new industrial
 projects (like steel works) and integrated finance and industry.
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 Industrial regions in Italy, Spain, the Hapsburg and the Czarist
 Monarchies
@@ -1087,7 +1031,7 @@ Monarchies
 The aforementioned countries weren't the only ones who hit their peak of
 Industrialisation before World War One:
 
-1)  In Spain (Catalonia), there was an old industrial region that
+1.  In Spain (Catalonia), there was an old industrial region that
     participated in the first wave of Industrialisation and, thanks to
     its widespread textile manufacturing, was fully industrialised by
     1900
@@ -1095,19 +1039,17 @@ Industrialisation before World War One:
 
 
 
-4)  In Italy, Piedmont and Lombardy had flourished as industrial regions
+4.  In Italy, Piedmont and Lombardy had flourished as industrial regions
     during the first wave and were also fully industrialised by 1900;
     meanwhile, Liguria industrialised as a maritime terminal of the
     industrial heartland, while major industrial sites opened in Veneto
     (wool), Tuscany (metallurgy, engineering) and a few other regions
-
-5)  The Hapsburg Empire, on the other hand, featured old industrial
+5.  The Hapsburg Empire, on the other hand, featured old industrial
     textile regions in Bohemia and central Austria (where an important
     metallurgical and engineering industry also bloomed), as well as
     Vorarlberg; two other important areas are Budapest (home of the
     electrotechnical industry) and Trieste (featured shipyards)
-
-6)  Finally, the Russian Empire only showed a great effort in
+6.  Finally, the Russian Empire only showed a great effort in
     industrialisation after 1880 in an explosion of state railroads, the
     birth of a national coal, iron and steel industry, and the creation
     of important industries in major urban areas such as Moscow, St.
@@ -1116,9 +1058,9 @@ Industrialisation before World War One:
     the Empire would boast 2 million factory workers, thus making it a
     strong industrial country, but not an industrialised one
 
--.-
+---
 
-Part 6:
+### Part 6:
 
 Industrialisation in the USA
 
@@ -1157,9 +1099,9 @@ China became poor countries, while only Japan was able to start its
 industrialisation process after the 1850's; India and China only started
 to recover after 1980.
 
--.-
+---
 
-Part 7:
+### Part 7:
 
 Overview: Wealth, capitalism, urbanisation, and demographic development
 
@@ -1196,24 +1138,20 @@ and 1891, while the principle of the market was extended to the whole of
 the economy; labour became a commodity and urbanisation and the market
 deeply transformed social structures and mentalities.
 
-Lecture 7: The American Revolution of 1776
+<br>
+<br>
+
+## Lecture 7: The American Revolution of 1776
 
 LEARNING OBJECTIVES:
+- Puritan eschatology
+- The conflict between the British crown and its American colonies
+- The Declaration of Independence of 1776 and the Constitution of 1787
+- Slavery before and after Independence
+- Westward expansion and native population
+- Democratic representation and social structure
 
-Puritan eschatology
-
-The conflict between the British crown and its American colonies
-
-The Declaration of Independence of 1776 and the Constitution of
-1787
-
-Slavery before and after Independence
-
-Westward expansion and native population
-
-Democratic representation and social structure
-
-Part 1:
+### Part 1:
 
 Puritan eschatology
 
@@ -1244,9 +1182,9 @@ theorist of classical republicanism named James Harrington, and it had
 more to do with the proposition of a free State and the virtue of its
 arm-bearing citizens.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The conflict between the British crown and its American colonies
 
@@ -1289,9 +1227,9 @@ was stripped of self-government and the colonies boycotted British
 goods. The Continental Congress decided to meet for the first time in
 1774.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The Declaration of Independence of 1776 and the Constitution of 1787
 
@@ -1312,9 +1250,9 @@ other important events followed, such as the Peace Treaty of Paris in
 1783, the adoption of the American Constitution in 1787
 and the vote for the Bill of Rights in 1791.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Slavery before and after Independence
 
@@ -1368,9 +1306,9 @@ start the process of overcoming Jim Crow in 1964, a racist
 caricatural character of African-Americans that has been present since
 the 1820s.
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 Westward expansion and Native Population
 
@@ -1394,9 +1332,9 @@ land, and thus had no right to the possession of said land; they were
 the 'illegal' dwellers that were then dehumanised by settlers. It was a
 systematic genocide.
 
--.-
+---
 
-Part 6:
+### Part 6:
 
 Democratic representation and social structure
 
@@ -1449,31 +1387,26 @@ the following:
 
 
 
-17) Many poor white, and most of the black, both free and enslaved, were
+17. Many poor white, and most of the black, both free and enslaved, were
     excluded
-
-18) Women were excluded
-
-19) Natives were excluded
-
-20) Nevertheless, the right to vote was much more 'general' than in most
+18. Women were excluded
+19. Natives were excluded
+20. Nevertheless, the right to vote was much more 'general' than in most
     European liberal systems of the 19th century
 
-Lecture 8: The French Revolution and the Napoleonic period, 1789-1814
+<br>
+<br>
+
+## Lecture 8: The French Revolution and the Napoleonic period, 1789-1814
 
 LEARNING OBJECTIVES:
+- Major turning points of the revolutionary process
+- A new concept: "sovereignty of the people"
+- The Nation as religion
+- Peoples' sovereignty and the rule of law
+- France 1789-1814: a laboratory of different possibilities
 
-Major turning points of the revolutionary process
-
-A new concept: "sovereignty of the people"
-
-The Nation as religion
-
-Peoples' sovereignty and the rule of law
-
-France 1789-1814: a laboratory of different possibilities
-
-Part 1:
+### Part 1:
 
 Major turning points of the revolutionary process
 
@@ -1576,9 +1509,9 @@ together, and he came to the conclusion that it was the recognition of
 the constituted authority of governors, good manners, religion and
 traditions.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 A new concept: "]{dir="rtl"}sovereignty of the people"
 
@@ -1604,9 +1537,9 @@ mythical legitimisation for the concept of sovereignty). In conclusion,
 those who dwelled on French soil for generations were the only genuine
 form representation of the nation.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The Nation as religion
 
@@ -1639,9 +1572,9 @@ In this way, politics became a matter of mass communication from the end
 of the Revolution onwards. This poet anticipated the principles of
 political communication in the coming era of the peoples' sovereignty.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Peoples']{dir="rtl"} sovereignty and the rule of law
 
@@ -1673,9 +1606,9 @@ and theoretical. Integrating them more into political life would cause
 the foul smell of tyranny to spread, such as during the emergence of
 Napoleon and when he was crowned as Emperor.
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 France 1789-1814: a laboratory of different possibilities
 
@@ -1702,19 +1635,18 @@ Monarchic dictatorship (1804-1814)
 
 Restored absolute monarchy (1815)
 
-Lecture 9: Liberalism, Socialism and Feminism
+<br>
+<br>
+
+## Lecture 9: Liberalism, Socialism and Feminism
 
 LEARNING OBJECTIVES:
+- 'Liberty' before Liberalism
+- Liberalism as a political movement
+- The Emergence of a Socialist movement in the 19th century
+- The Feminist movement and Women's Rights before World War One
 
-'Liberty' before Liberalism
-
-Liberalism as a political movement
-
-The Emergence of a Socialist movement in the 19th century
-
-The Feminist movement and Women's Rights before World War One
-
-Part 1:
+### Part 1:
 
 'Liberty' before Liberalism
 
@@ -1745,9 +1677,9 @@ Other main events in this period (such as the Dutch Republic, the
 English period of Civil War and Revolution and the American Revolution)
 also pertained to both strands of liberty.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Liberalism as a political movement
 
@@ -1789,9 +1721,9 @@ other hand, the adjective 'liberal' had no great appeal until the
 intervention and social politics, and a commitment in favour of civil
 rights.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The Emergence of a Socialist movement in the 19th century
 
@@ -1859,9 +1791,9 @@ revolutionary purposes were gradually marginalised in favour of
 reformist claims for a gradual improvement in the framework of
 capitalist society.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 The Feminist movement and Women']{dir="rtl"}s Rights before World War
 One
@@ -1890,19 +1822,18 @@ organised the first International Women's Day
 
 Harriet Taylor Mill (the Enfranchisement of Women)
 
-Lecture 10: The concept of 'nation' and Nationalism
+<br>
+<br>
+
+## Lecture 10: The concept of 'nation' and Nationalism
 
 LEARNING OBJECTIVES:
+- The ideas of Nation: Essentialism vs Constructivism
+- The phases of Nation-Building
+- The Nation as an Imagined Community
+- Pedagogy and the invention of tradition
 
-The ideas of Nation: Essentialism vs Constructivism
-
-The phases of Nation-Building
-
-The Nation as an Imagined Community
-
-Pedagogy and the invention of tradition
-
-Part 1:
+### Part 1:
 
 The ideas of Nation: Essentialism vs Constructivism
 
@@ -1966,9 +1897,9 @@ Ernest Renan Qu'est-ce qu'une Nation? (1882)
 
 Said Renan..
 
-A nation is nothing objectively given, but \...
+A nation is nothing objectively given, but \…
 
-\... a geographical entity that as a rule evolved from the
+\… a geographical entity that as a rule evolved from the
 transformation of pre-existing dynastic states; typically French late
 19th century, in the French case absolutely true French nations states
 come out as no nations states, but of monarchy , not in the sense of
@@ -1977,33 +1908,17 @@ state). True also for most of Western European nations states. There was
 Still present big empires in Europe which had not allowed yet many other
 nations states to be erected so this was an understanding reference
 
-\... a spiritual entity or principle based / or inheritance based on
-collective memory, and the feeling of belonging;
+… a spiritual entity or principle based / or inheritance based on collective memory, and the feeling of belonging;
 
-Nothing of these feelings or traditions must be necessarily there , some
-memories can also be forgotten, memories always selective. One major way
-of constructing the sense of A nation, very idea that the nation isn't
-always worst, construction of a narrative that gives me in my present
-the idea that I belong to a chain of traditions that was always there
-and would be also without me or anybody memorizing commemorating
-recollecting that history, it would be nevertheless objectively there.
-The essentialist approach in his view is already the outcome of a
-coherent historical..
+Nothing of these feelings or traditions must be necessarily there, some memories can also be forgotten, memories always selective. One major way of constructing the sense of A nation, very idea that the nation isn't always worst, construction of a narrative that gives me in my present the idea that I belong to a chain of traditions that was always there and would be also without me or anybody memorizing commemorating recollecting that history, it would be nevertheless objectively there. The essentialist approach in his view is already the outcome of a coherent historical..
 
-\.... a coherent historical narrative based on facts selected to make
-them converge, such as to represent the nation as necessary, logical and
-coherent outcome.
+… a coherent historical narrative based on facts selected to make them converge, such as to represent the nation as necessary, logical and coherent outcome.
 
-So Renan himself underlines this aspect that the essentialist version of
-the nation which around the world , is a constructive narrative. He
-politically said lets reinforce this narrative . Appreciated by the
-constructivist theories hundreds years later ,it is not a necessary
-outcome of history , its selective historical narrative, a construction
-.
+So Renan himself underlines this aspect that the essentialist version of the nation which around the world , is a constructive narrative. He politically said lets reinforce this narrative. Appreciated by the constructivist theories hundreds years later ,it is not a necessary outcome of history , its selective historical narrative, a construction.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The phases of Nation-Building
 
@@ -2086,9 +2001,9 @@ Czechoslovakia was a communist country, his constructivist position was
 too idealistic. After communism, the Czech republic and other states
 were rethinking and rediscovering national values, extremely patriotic.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The Nation as an Imagined Community
 
@@ -2140,9 +2055,9 @@ that we can cross is ideas , idea , how the narrative goes, and this we
 can compare one to the other and not make an essentialist judgements
 about artificial projects.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Pedagogy and the invention of tradition
 
@@ -2242,19 +2157,18 @@ come to power ??
 Nationalization of the mass. people far away from the state became part
 of the state organization.
 
-Lecture 11: Social changes in Europe, 1800-1914
+<br>
+<br>
+
+## Lecture 11: Social changes in Europe, 1800-1914
 
 LEARNING OBJECTIVES:
+- An Overview of Social Changes up until World War One
+- Transformations of Bourgeoisie and the 'Liberal Idea'
+- Transformation of the working class and the 'socialist idea'
+- The 'residual' sectors of society: the Nobility and Peasants
 
-An Overview of Social Changes up until World War One
-
-Transformations of Bourgeoisie and the 'Liberal Idea'
-
-Transformation of the working class and the 'socialist idea'
-
-The 'residual' sectors of society: the Nobility and Peasants
-
-Part 1:
+### Part 1:
 
 An Overview of Social Changes up until World War One
 
@@ -2374,9 +2288,9 @@ the embodiment of a new liberal ideology, the working class as the
 embodiment of the socialist ideology and the other classes as the
 conservative.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Transformations of Bourgeoisie and the ']{dir="rtl"}Liberal
 Idea']{dir="rtl"}
@@ -2451,9 +2365,9 @@ as their expectations (which depended on political dynamics and
 expectations of the State to protect their interests). It is in this way
 that the liberal idyll collapsed.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Transformation of the working class and the ']{dir="rtl"}socialist
 idea']{dir="rtl"}
@@ -2510,9 +2424,9 @@ anti-war and internationalist, but many workers were still captured by
 the enthusiasm of patriotic and national mobilisation when the war broke
 out.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 The ']{dir="rtl"}residual']{dir="rtl"} sectors of society: the
 Nobility and Peasants
@@ -2534,19 +2448,18 @@ little shopkeepers). This paternalistic old model favoured both the
 nobility and the poor, who were open to conservative ideas, fearing a
 competitive market.
 
-Lecture 12: World timeline, 1750-1914; Western Domination
+<br>
+<br>
+
+## Lecture 12: World timeline, 1750-1914; Western Domination
 
 LEARNING OBJECTIVES:
+- Napoleon in Egypt
+- Technological innovations and transport systems
+- Imperialism and the Industrial Age
+- Western Expansion in Asia
 
-Napoleon in Egypt
-
-Technological innovations and transport systems
-
-Imperialism and the Industrial Age
-
-Western Expansion in Asia
-
-Part 1:
+### Part 1:
 
 Napoleon in Egypt
 
@@ -2611,9 +2524,9 @@ history, and the result of their efforts would mark humanity for
 centuries to come. This secular vision of history will always be an
 ideological drive behind European expansionism.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Technological innovations and transport systems
 
@@ -2632,9 +2545,9 @@ Revolution) that allowed expeditions to travel far and wide:
 22) Steam ships, building of channels (Suez built by the french and
     Panama in the 20th century) and the transatlantic telegraph
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Imperialism and the Industrial Age
 
@@ -2678,9 +2591,9 @@ We can summarise the motives behind this expansion as:
 
     Education
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Western Expansion in Asia
 
@@ -2725,21 +2638,19 @@ of the Second Opium War (1856-1860), in which the anti-foreign
 Boxer Uprising (the Yihetuan movement) was a key factor. The Opium issue
 came to an end at the end of the Qing Dynasty in 1911.
 
-Lecture 13: Global Changes; Colonialism and Imperialism
+<br>
+<br>
+
+## Lecture 13: Global Changes; Colonialism and Imperialism
 
 LEARNING OBJECTIVES:
+- British takeover of India
+- The British-Chinese Wars of 1835-41 and 1856-60
+- Scramble for Africa, 1875-1924
+- American Expansion
+- Russian Expansion
 
-British takeover of India
-
-The British-Chinese Wars of 1835-41 and 1856-60
-
-Scramble for Africa, 1875-1924
-
-American Expansion
-
-Russian Expansion
-
-Part 1:
+### Part 1:
 
 British takeover of India
 
@@ -2771,9 +2682,9 @@ later favour them in the organisation of political movements for Indian
 independence (these led to the formation of the Indian National Congress
 and similar organisations in 1885).
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The British-Chinese Wars of 1835-41 and 1856-60
 
@@ -2817,9 +2728,9 @@ Second Opium War (which ended with the Siege of Beijing by the British
 and a wide range of European powers). All this ended in 1911 with
 the breakdown of the Chinese empire and the end of the Qing Dynasty.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Scramble for Africa, 1875-1924
 
@@ -2850,9 +2761,9 @@ the technological means to effectively oppose the colonisers' military
 conquest; small military units of European powers could control large
 areas of African land.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 American Expansion
 
@@ -2909,9 +2820,9 @@ Expansion into the Pacific brought Hawaii under American control, as
 well as Guam and the Philippines (strategically positioned close to
 China, Japan and the strait of Malaga).
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 Russian Expansion
 
@@ -2934,21 +2845,19 @@ namely that Russia had the traditional approach of an Empire towards
 conquest (like Great Britain) and tried to integrate these populations
 in order to create a multicultural and multi-religious Empire.
 
-Lecture 14: Global Changes; the effects of Colonialism and Imperialism
+<br>
+<br>
+
+## Lecture 14: Global Changes; the effects of Colonialism and Imperialism
 
 LEARNING OBJECTIVES:
+- The effects of Colonial Imperialism in India
+- The effects of Colonial Imperialism in Africa
+- Migration and racism
+- The effects of Western influence on China
+- The effects of Western influence on Japan
 
-The effects of Colonial Imperialism in India
-
-The effects of Colonial Imperialism in Africa
-
-Migration and racism
-
-The effects of Western influence on China
-
-The effects of Western influence on Japan
-
-Part 1:
+### Part 1:
 
 The effects of Colonial Imperialism in India
 
@@ -2979,9 +2888,9 @@ sacred as were those of 'free trade'; in addition, the British
 government believed that famine was a 'righteous punishment' for India's
 'overbreeding'.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The effects of Colonial Imperialism in Africa
 
@@ -3015,9 +2924,9 @@ conditioned to the rule that young men couldn't bring their families
 with them (especially in South Africa), so this also split families so
 that the social structure of African society was shattered completely.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Migration and racism
 
@@ -3034,9 +2943,9 @@ the 19th century, racism was reinforced by society to maintain
 the subjugation of the African population. Now that slaves were free
 men, racism soared higher than ever.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 The effects of Western influence on China
 
@@ -3062,9 +2971,9 @@ this, similarly to India, did not accelerate the industrial recovery of
 China as one may have expected in the second half of the 19th
 century, whereas this was the case in Japan.
 
--.-
+---
 
-Part 5:
+### Part 5:
 
 The effects of Western influence on Japan
 
@@ -3096,24 +3005,22 @@ which were:
 
 
 
-31) Victory in the Russo-Japanese War (1904-1905)
+31. Victory in the Russo-Japanese War (1904-1905)
+32. Control of Taiwan, Korea and the southern half of Sakhalin
 
-32) Control of Taiwan, Korea and the southern half of Sakhalin
+<br>
+<br>
 
-Lecture 16: Theories of Imperialism
+## Lecture 16: Theories of Imperialism
 
 LEARNING OBJECTIVES:
 
-"]{dir="rtl"}Progress or Exploitation?" Debates on Western
-Imperialism
+- “Progress or Exploitation?” Debates on Western Imperialism
+- Hobson: Earth hunger and the scramble for export markers
+- Lenin: Structural features of the highest stages of capitalism
+- Amadori Virgilij: Craving for a world-wide moral empire
 
-Hobson: Earth hunger and the scramble for export markers
-
-Lenin: Structural features of the highest stages of capitalism
-
-Amadori Virgilij: Craving for a world-wide moral empire
-
-Part 1:
+### Part 1:
 
 "Progress or Exploitation?" Debates on Western Imperialism
 
@@ -3147,9 +3054,9 @@ weapon, which gave European armies an advantage over their opponents
 (like over the Zulu in Southern Africa during the Anglo-Zulu war in
 1879).
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Hobson: Earth hunger and the scramble for export markers
 
@@ -3203,9 +3110,9 @@ the working class. It would also be crucial to adopt welfare measures
 a higher income level, the population would be able to reap the benefits
 of these overproduced consumer goods and balance the economy.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Lenin: Structural features of the highest stages of capitalism
 
@@ -3281,9 +3188,9 @@ their jobs. These philanthropists, according to Hobson:
 According to Hobson, the ingeniousness of these people has become an
 instrument that makes the apparatus of imperial power work smoothly.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Amadori Virgilij: Craving for a world-wide moral empire
 
@@ -3309,28 +3216,27 @@ civilisation --- that is, in the name of history. Imperialism is a
 general feeling of the people and the collective concept of
 domination.
 
-Lecture 17: World Timeline (1914-2003)
+<br>
+<br>
+
+## Lecture 17: World Timeline (1914-2003)
 
 LEARNING OBJECTIVES:
-
-On the timeline: major events, 1914-2003
-
-On the timeline: Independence of India, Indonesia and African
+1. On the timeline: major events, 1914-2003
+2. On the timeline: Independence of India, Indonesia and African
 countries, 1947-1989
+3. On the timeline: the Vietnam war, 1965-1974
+4. On the timeline: the Iranian Revolution of 1979
 
-On the timeline: the Vietnam war, 1965-1974
-
-On the timeline: the Iranian Revolution of 1979
-
-Part 1:
+### Part 1:
 
 On the timeline: major events,
 1914-2003!](media/image1.png){width="6.6929757217847765in"
 height="4.80796697287839in"}
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 On the timeline: Independence of India, Indonesia and African countries,
 1947-1989!](media/image2.png){width="5.770699912510936in"
@@ -3340,16 +3246,16 @@ height="4.521572615923009in"}
 !](media/image4.png){width="5.882584208223972in"
 height="4.5040004374453195in"}
 
-Part 3:
+### Part 3:
 
 On the timeline: the Vietnam war, 1965-1974
 
 !](media/image5.png){width="6.6929757217847765in"
 height="4.735702099737533in"}
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 On the timeline: the Iranian Revolution of 1979
 
@@ -3363,19 +3269,18 @@ took great interest in the country. After the anglo-soviet agreements in
 Pahlavi. After the war, soviet influence strengthened the position of
 the communist party.
 
-Lecture 18: World War One
+<br>
+<br>
+
+## Lecture 18: World War One
 
 LEARNING OBJECTIVES:
+1. A gradual escalation of 'regional' conflicts among great powers
+2. The 'Entente' and the 'Central Powers'
+3. Technology, mechanisation, industry, labour force mobilisation
+4. A new global power rises, while empires break down
 
-A gradual escalation of 'regional' conflicts among great powers
-
-The 'Entente' and the 'Central Powers'
-
-Technology, mechanisation, industry, labour force mobilisation
-
-A new global power rises, while empires break down
-
-Part 1:
+### Part 1:
 
 A gradual escalation of ']{dir="rtl"}regional']{dir="rtl"} conflicts
 among great powers
@@ -3476,9 +3381,9 @@ the neutrality of Belgium in order to provoke France so that Great
 Britain had a good reason to intervene. In the fall of 1914, the
 major European powers found themselves in the midst of a great war.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The ']{dir="rtl"}Entente']{dir="rtl"} and the ']{dir="rtl"}Central
 Powers']{dir="rtl"}
@@ -3546,9 +3451,9 @@ civilians. Countries like Germany and Russia would suffer greater losses
 in World War II, but for many others, this war would remain as the Great
 War in everyone's memory.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Technology, mechanisation, industry, labour force mobilisation
 
@@ -3611,9 +3516,9 @@ were targeted by mass bombings, terrorising, deportations,
 exterminations, massacres and mass rapes. Today, being a member of the
 armed forces is (statistically) the most secure position.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 A new global power rises, while empires break down
 
@@ -3657,54 +3562,51 @@ World War II). In 1970, the British foreign secretary Delfoure
 stated that Britain would support the establishment of a national home
 for jewish people in Palestine.
 
-Lecture 19: The Economic Crisis of 1929 and the right-wing dictatorships
-of the interwar period
+<br>
+<br>
+
+## Lecture 19: The Economic Crisis of 1929 and the right-wing dictatorships of the interwar period
 
 LEARNING OBJECTIVES:
+1. The Peace Treaties and the Debt Cycle
+2. The financial crisis of 1929
+3. The Great Depression of the 1930s
+4. Authoritarian and dictatorial regimes in the 1920s and 1930s
+
+### Part 1:
 
 The Peace Treaties and the Debt Cycle
 
-The financial crisis of 1929
+---
 
-The Great Depression of the 1930s
-
-Authoritarian and dictatorial regimes in the 1920s and 1930s
-
-Part 1:
-
-The Peace Treaties and the Debt Cycle
-
--.-
-
-Part 2:
+### Part 2:
 
 The financial crisis of 1929
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The Great Depression of the 1930s
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Authoritarian and dictatorial regimes in the 1920s and 1930s
 
-Lecture 20: World War II and the Shoah
+<br>
+<br>
+
+## Lecture 20: World War II and the Shoah
 
 LEARNING OBJECTIVES:
+1. World War II: origins, alliances, overview
+1. Chronology and major turning points, 1939-1945
+1. Germany's anti-Jewish extermination policy, 1943-1944
+1. The results of the war
 
-World War II: origins, alliances, overview
-
-Chronology and major turning points, 1939-1945
-
-Germany's anti-Jewish extermination policy, 1943-1944
-
-The results of the war
-
-Part 1:
+### Part 1:
 
 World War II: origins, alliances, overview
 
@@ -3819,9 +3721,9 @@ materials. Another reason why the Axis lost was because it had
 made the grave mistake of attacking Russia, a decision which resulted in
 the same devastating consequences as it had for Napoleon.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 Chronology and major turning points,
 1939-1945!](media/image7.png){width="5.680617891513561in"
@@ -3866,9 +3768,9 @@ burden, but the US (now under President Truman) launched atomic bombs on
 Hiroshima and Nagasaki. Japan surrendered on August 14th, and World War
 II came to a definite end.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Germany']{dir="rtl"}s anti-Jewish extermination policy, 1943-1944
 
@@ -3902,9 +3804,9 @@ treatment: Soviet prisoners of war, members of the LGBTQIA+ community,
 ethnic Poles, Ukrainians and Belorussians, Roma, the disabled and
 political opponents.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 The results of the war
 
@@ -3923,53 +3825,51 @@ was divided between US and USSR alliances along the lines of the
 1945 Yalta agreement between Stalin and the West. The end of the
 Soviet Union later on completely changed European geopolitics.
 
-Lecture 21: The affirmation of Communism and the USA-USSR confrontation
+<br>
+<br>
+
+## Lecture 21: The affirmation of Communism and the USA-USSR confrontation
 
 LEARNING OBJECTIVES:
+1. The Russian Revolution of 1917 and the Chinese Revolution of 1949
+2. Industrialisation and repression under Communist regimes
+3. Cold War in an 'American century'
+4. Cultural empire and anti-Americanism
+
+### Part 1:
 
 The Russian Revolution of 1917 and the Chinese Revolution of 1949
 
-Industrialisation and repression under Communist regimes
+---
 
-Cold War in an 'American century'
-
-Cultural empire and anti-Americanism
-
-Part 1:
-
-The Russian Revolution of 1917 and the Chinese Revolution of 1949
-
--.-
-
-Part 2:
+### Part 2:
 
 Industrialisation and repression under Communist regimes
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Cold War in an ']{dir="rtl"}American century']{dir="rtl"}
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Cultural empire and anti-Americanism
 
-Lecture 22: "Third World", political Islam, decline of Soviet communism
+<br>
+<br>
+
+## Lecture 22: "Third World", political Islam, decline of Soviet communism
 
 LEARNING OBJECTIVES:
+1. The Nonalignment movement
+1. The idea of a "Third War"
+1. The rise of political Islam
+1. The Communist collapse
 
-The Nonalignment movement
-
-The idea of a "Third War"
-
-The rise of political Islam
-
-The Communist collapse
-
-Part 1:
+### Part 1:
 
 The Nonalignment movement
 
@@ -4029,9 +3929,9 @@ remain the only European member of the Nonalignment movement; this would
 draw political prestige from the opposition against the Western and
 Eastern bloc.
 
--.-
+---
 
-Part 2:
+### Part 2:
 
 The idea of a "]{dir="rtl"}Third World"
 
@@ -4099,9 +3999,9 @@ wealth within those countries thanks to the low cost of the labour force
 and the diminishing costs of transportation/information, which allowed
 these developments.
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 The rise of political Islam
 
@@ -4170,9 +4070,9 @@ government. In some cases (such as in Egypt and Algeria), these were
 overthrown by a military coupe. The history of political Islam in the
 20th century has been a success story.
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 The Communist collapse
 
@@ -4246,71 +4146,69 @@ later on secure and cement its leading role for years to come. Mass
 consumerism spread, and the Chinese economy started to rebound from two
 hundred years of humiliation.
 
-Lecture 23: Global changes: demographic, social, political and cultural
+<br>
+<br>
+
+## Lecture 23: Global changes: demographic, social, political and cultural
 changes
 
 LEARNING OBJECTIVES:
+1. The growth of the world population
+2. Progress and inequality
+3. Nationalism and democracy in the global process
+4. Cultural convergence an divergence
+
+### Part 1:
 
 The growth of the world population
 
-Progress and inequality
+---
 
-Nationalism and democracy in the global process
-
-Cultural convergence an divergence
-
-Part 1:
-
-The growth of the world population
-
--.-
-
-Part 2:
+### Part 2:
 
 Progress and inequality
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Nationalism and democracy in the global process
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Cultural convergence an divergence
 
-Lecture 24: Two waves of economic globalisation?
+<br>
+<br>
+
+## Lecture 24: Two waves of economic globalisation?
 
 LEARNING OBJECTIVES:
+- Periodising globalisation
+- Industrialisation, capital market and financial flows
+- Trade, investment, migration and factor prices
+- Summing up similarities and differences
+
+### Part 1:
 
 Periodising globalisation
 
-Industrialisation, capital market and financial flows
+---
 
-Trade, investment, migration and factor prices
-
-Summing up similarities and differences
-
-Part 1:
-
-Periodising globalisation
-
--.-
-
-Part 2:
+### Part 2:
 
 Industrialisation, capital market and financial flows
 
--.-
+---
 
-Part 3:
+### Part 3:
 
 Trade, investment, migration and factor prices
 
--.-
+---
 
-Part 4:
+### Part 4:
 
 Summing up similarities and differences

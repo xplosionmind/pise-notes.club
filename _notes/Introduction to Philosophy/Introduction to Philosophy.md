@@ -21,4 +21,11 @@ Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/
 <br>
 
 Texts:
-- [[Descartes' Meditations on First Philosophy]]
+- [[Descartes’ Meditations on First Philosophy]]
+
+<br>
+<br>
+
+## Useful links
+
+- [Philosophical Glossary](https://maritain.nd.edu/jmc/etext/tmots135.htm "The Metaphysics of the School 137"), from the University of Notre Dame

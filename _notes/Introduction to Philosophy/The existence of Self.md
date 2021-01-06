@@ -6,56 +6,50 @@ aliases: "The Mind-body problem"
 
 ## Leibniz
 
+From <cite>On the method for distinguishing real from imaginary phenomena</cite>:
+
 > Ab actu ad potentiam valet consequentia
 
-If something exists, it means it's possible.
+If something exists, it means it's possible.\
+I am sure of *phenomena*, which are what I perceive, what I think exists for sure in my thoughts. Which phenomena actually exist in the outer world?
 
-I am sure of *phenomena*, what I perceive: what I think exists for sure in my thoughts. Which phenomena actually exist in the outer world?
-
-We can consider the phenomena itself or a relation of phenomena. A phenomenon is real if it's
+We can consider the phenomenon itself or a relation of phenomena. A phenomenon is real if it is…
 
 > vivid, complex, and internally coherent (*congruum*: consistent in itself). It will be vivid if its qualities, such as light, color, and warmth, appear intense enough.
 
-The idea of “**vividness**” to describe perceptions recalls Hume's definition of impressions, apparently studied by Leibniz, too; an object is made real by different and varied sensory experiences.
+The idea of “**vividness**” to describe perceptions recalls [[Section II|Hume's definition of impressions]]: apparently he studied by Leibniz, too; an object is made real by different and varied sensory experiences.
 
-Different phenomena are real if their relation is consistent. There should also be a consistency in time: if we can predict a behavior, we can prove reality.
+Different phenomena are real <u>if their relation is consistent</u>. There should also be a consistency in time: if we can predict a behavior, we can prove reality.
 
-And all of this was a dream, we should call it reality, since it's consistent, I can't prove its non-existence. **We can't prove the existence / non-existence of the world**. We have only a moral certainty, not a metaphysical one.
+And all of this was a dream, we should call it reality, since it's consistent, I can't prove its non-existence. <u>We can't prove the existence or non-existence of the world</u>. We have only a **moral certainty**, not a metaphysical one.
 
-Coherence of the same experience **and** coherence with other experiences.
+Coherence of the same experience **and** coherence with other experiences. If I live in a dream which is coherent in itself, I have the right to call it reality.
 
 Through reasoning, we can attempt to include new events and experience in reality, and to describe it.
 
 It's impossible that only on substance exists, other finite beings exist, yet not all the possible beings do.
 
-The faces of reality +++
+If our life were a dream, we can't accuse God of being a deceiver. We are deceived not by God, but by our judgment. We should be thankful to God for making phenomena coherent among each other.
 
-If our life were a dream, we can't accuse God of being a deceiver. We are deceived not by God, but by our judgment. We should be thankful to God for making them coherent among each other.
-
-We are some expressions of the universe.
-
+<br>
 <br>
 
 <p class="date">7<sup>th</sup> October 2020</p>
 
-Why do the body-mind problem emerged after the Second World War: the need to find tools to substitute / improve human mind. Philosophy of mind emergend in that period to attempt to understand 
+Why do the body-mind problem emerged after the Second World War, in the 50s; Philosophy of mind emerged to satisfy the need to find tools to substitute or improve human mind.
 
 ## What is the mind?
 
-- **Dualism**: mind and body exist as different separate entities (Plato, Descartes, Leibnitz)
-    - mind is spiritual
-    - body is material
-- **Monism**:
-- **Tempered Monism**:
+- **Dualism**: mind and body exist as different separate entities (Plato, Descartes, Leibniz). The mind is spiritual, the body merely is material
+- **Monism**
+- **Tempered Monism**
 
 +++
 
 
-<br>
+Descartes was both a dualist and an interactionist
 
-Descartes is a dualist and interactionist
-
-interactionism: the two substances are different and separate, but they interact. E.g. a phisical stimulus corresponds to a stimulus to the mind.
+**Interactionism**: the two substances are different and separate, but they interact. E.g. a physical stimulus corresponds to a stimulus to the mind.
 
 <br>
 
@@ -67,24 +61,21 @@ interactionism: the two substances are different and separate, but they interact
 
 ## The existence of the self
 
-Aristotele's faculties of animals, three different **kind of souls**:
-- Vegetative faculty (plants)
-- Sensitive faculty (animals): motion
-- Rational faculty (humans)
+According to Aristotle, since we know everything through experience, we should be able to know our minds by first being able to know the world; three **kinds of soul**:
+1. Vegetative faculty: growth (plants)
+2. Sensitive faculty: motion (animals)
+3. Rational faculty: intellect (humans)
 
-The higher functions carry out the lower ones, there is some sort of hierarchy
+The higher functions carry out the lower ones, there is some sort of hierarchy; an abstraction through sensory material
 
-The corresponding faculties in Descartes:
-- mind (instead of body)
+The corresponding faculties in Descartes are the body and the mind alone
 
-
-Self-perception is a way of knowing the body (anticipation of the 6<sup>th</sup> meditation)
-
+Self-perception is a way of knowing the body (anticipation of the 6<sup>th</sup> meditation).
 We don't only know we exist, we now know we are a **thinking thing**.
 
 ### The broad meaning of thinking
 
-> I use this term [‘thought’, ‘cogitatio’] to include everything that is within us in such a way that we are immediately conscious of it. Thus all the operations of the will, the intellect, the imagination and the senses are thoughts. I say ‘immediately’ so as to exclude the consequences of thoughts: a voluntary movement for example, originates in a thought but is not itself a thought.
+> I use this term \[‘thought’, ‘*cogitatio*’\] to include everything that is within us in such a way that we are immediately conscious of it. Thus all the operations of the will, the intellect, the imagination and the senses are thoughts. I say ‘immediately’ so as to exclude the consequences of thoughts: a voluntary movement for example, originates in a thought but is not itself a thought.
 
 <p class="cite">Descartes’s Second Set of Replies to his Meditations</p>
 
@@ -96,7 +87,7 @@ Descartes is strictly connecting the domain of thinking, consciousness with the 
 
 ### The meaning of substance
 
-The substance isn't linked to the individual. In Aristotheles, every being is a substance. Substance is extension: bodies are different modes of one substance.
+The substance isn't linked to the individual. In Aristotle, every being is a substance. Substance is extension: bodies are different modes of one substance.
 
 > By substance we can understand nothing than a thing which exists in such a way as to depend on no other thing for its existence. 
 
@@ -186,7 +177,7 @@ There are a lot of monists even before the 21<sup>st</sup> century.
 
 ## Behaviorism
 
-Psychological theory of the mind: the only scientific way to explain mental states is through apparent behavior. Behaviorism wants to make psychology a science. The most important psychological school in that period (beginning of 20th century) was freudianism. In what way can we understan the mind to make it scientific? Behavior. If we analyze behavior, we can understand the mind.
+Psychological theory of the mind: the only scientific way to explain mental states is through apparent behavior. Behaviorism wants to make psychology a science. The most important psychological school in that period (beginning of 20th century) was freudianism. In what way can we understand the mind to make it scientific? Behavior. If we analyze behavior, we can understand the mind.
 
 Behaviorists started to follow the suggestions of philosophy of mind, which sustained the non-existence of the mind: monism. Physical changes in our mind. Ryle confuted Descartes by saying he used behaviorism by applying it to the new philosophy of language which was very important in England in that period. Philosophy of language the mother of Philosophy of mind.
 
@@ -203,6 +194,9 @@ Examples:
 Mental events are physical events, mental states are physical states.
 
 Both are two forms of Physicalism.
+
+<br>
+<br>
 
 ## Type Identity Theory
 
@@ -269,7 +263,7 @@ Considering every kind of symbolic process, everything can be described through 
 
 Mind conceived as a Turing Machine, it performs calculations. Mind is something natural, it doesn't belong to a different reality.
 
-Why the imitation game. (Essay on moodle)
+Why the imitation game. (Essay on Moodle)
 
 Can a machine think?
 
@@ -279,7 +273,7 @@ According to Touring, we should ask ourselves: can a machine trick us? Can the m
 
 <p class="cite">~ A. Turing, <cite>Computing Machines and Intelligence</cite>, Mind, Vol. LIX. No. 236 1950</p>
 
-[Touring test](https://www.wikiwand.com/en/Turing_test) on [Wikiwand](https://wikiwand.com)
+[Touring test](https://www.wikiwand.com/en/Turing_test "Turing test on Wikipedia") on Wikipedia
 
 If a computer can fool a man by simulating humanity, therefore a computer actually it thinks. How? By answering in a meaningful way through questions
 
@@ -295,7 +289,7 @@ According to computational functionalism when we elaborate something, we are cal
 
 #### The Chinese Room
 
-A thought experiment by [John Searle](https://www.britannica.com/biography/John-Searle):
+A thought experiment by [John Searle](https://www.britannica.com/biography/John-Searle "John Searle on Encyclopædia Britannica"):
 
 I have a room full of symbols which I don't understand, yet I have a set of tools in my language which guide me through the steps I have to deal with. I follow those steps without having any idea of what symbols mean or refer to. If I do this, I'm not thinking.
 
@@ -303,7 +297,7 @@ I have a room full of symbols which I don't understand, yet I have a set of tool
 > 
 > Suppose also that after a while I get so good at following the instructions for manipulating the Chinese symbols and the programmers get so good at writing the programs that from the external point of view-that is, from the point of view of somebody outside the room in which I am locked-my answers to the questions are absolutely indistinguishable from those of native Chinese speakers. Nobody just looking at my answers can tell that I don't speak a word of Chinese.(…) As far as the Chinese is concerned, I simply behave like a computer: I pet form computational operations on formally specified elements. For the purposes of the Chinese, I am simply an instantiation of the computer program.
 
-<p class="cite">~ J. Searle, "Minds, Brains, and Programs,” from The Behavioral and Brain Sciences Vol. 3</p>
+<p class="cite">~ J. Searle, <cite>Minds, Brains, and Programs</cite>, from <cite>The Behavioral and Brain Sciences</cite> Vol. 3</p>
 
 <br>
 
@@ -321,7 +315,7 @@ Searle refuses to be a dualist, since he believes mental states aren't a differe
 
 <br>
 
-### The China Brain
+### <cite>The China Brain</cite>
 
 A.K.A. the *The Chinese Brain* or *The China Gym*
 
@@ -339,7 +333,7 @@ Freedom can be explained with a deterministic system. Freedom and consciousness 
 
 ## David Chalmer +++
 
-Conciousness is thus something more than physical entities.
+Consciousness is thus something more than physical entities.
 
 
 ---
@@ -347,5 +341,7 @@ Conciousness is thus something more than physical entities.
 difference between materialism and physicalism 2020.11.09 18:44:30
 
 <br>
+
+---
 
 Next topic: [[Personal identity]]

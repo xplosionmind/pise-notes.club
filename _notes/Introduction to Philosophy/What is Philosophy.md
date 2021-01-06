@@ -1,9 +1,7 @@
 ---
+date: 2020-09-14
 ---
-
 <p class="date">14<sup>th</sup> September 2020</p>
-
-# What is Philosophy?
 
 The main questions of the course:
 

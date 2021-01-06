@@ -21,7 +21,7 @@ Fundamental points:
 
  Imagination means to use matter to represent a purely intellectual concept:
  
- > So the difference between this mode of thinking [imagining] and pure understanding may simply be this: when the mind understands, it in some way turns towards itself and inspects one of the ideas which are within it; but when it imagines, it turns towards the body and looks at something in the body which conforms to an idea understood by the mind or perceived by the senses.
+ > So the difference between this mode of thinking \[imagining\] and pure understanding may simply be this: when the mind understands, it in some way turns towards itself and inspects one of the ideas which are within it; but when it imagines, it turns towards the body and looks at something in the body which conforms to an idea understood by the mind or perceived by the senses.
  
  I can better explain it if other bodies exist, but this is not a proof yet.
  

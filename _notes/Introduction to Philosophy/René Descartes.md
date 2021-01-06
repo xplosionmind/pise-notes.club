@@ -6,7 +6,7 @@ updated: 2020-09-22
 
 ## Life
 
-[René Descartes](https://plato.stanford.edu/entries/descartes/ "René Descartes on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy
+[René Descartes](https://plato.stanford.edu/entries/descartes/ "René Descartes on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy.
 
 He attended the college of La Flèche in France, where he studied a lot of Aristotle.
 Understanding the new currents of thought, he <u>graduated in law</u> at the university of Poitier, he then enrolled in the army of [Maurice of Nassau](https://www.wikiwand.com/en/Prince_of_Orange "Prince of Orange on Wikipedia"). He spent a lot of time in Holland. He started the thirty years war in the protestant army, then, after one year, he moved to Germany.
@@ -69,4 +69,4 @@ The first step of knowledge is the interaction with the object, then we know it 
 
 <br>
 
-**![[Descartes' Meditations on First Philosophy]]**
+**![[Descartes’ Meditations on First Philosophy]]**

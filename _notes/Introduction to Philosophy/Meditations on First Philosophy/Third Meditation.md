@@ -1,7 +1,6 @@
 ---
+date: 2020-10-18
 ---
-
-# Descartes' Third Meditation
 
 *The existence of God*
 
@@ -11,19 +10,21 @@
 
 0. Recap of what I'm sure of up to now: <q>I am a thinking thing</q>, I can be certain of what exists at least within me.
 1. Lay down a general rule: <q>whatever I perceive very <strong>clearly</strong> and <strong>distinctly</strong> is true</q>
-1. Removing the *deceiving god* question
-1. First demonstration of God's existence
+2. The distinctness of my ideas does not come from perceptions
+3. Removing the *deceiving god* question
+4. First demonstration of God's existence
 	1. Pinpoint different classes of ideas
-	2. From the ideas of finite substances to the idea of God as an infinite substance
-	3. The axiom on **the principle of causation**
-	4. From ideas to reality
-	5. God as the only idea I can't be the cause of
-1. Second demonstration of God's existence
+	2. I have perceptions regardless of my intention to have them
+	3. From the ideas of finite substances to the idea of God as an infinite substance
+	4. The axiom on **the principle of causation**
+	5. From ideas to reality
+	6. God as the only idea I can't be the cause of
+5. Second demonstration of God's existence
 	1. From whom should I derive my existence
 	1. creation and conservation
 	2. the only being which preserves and causes himself
-1. How do I receive the idea of God
-1. God is not a deceiver
+6. How do I receive the idea of God
+7. God is not a deceiver
 
 ---
 
@@ -31,18 +32,17 @@
 
 <p class="date">18<sup>th</sup> November 2020</p>
 
-The first point Descartes notes is a general rule regarding knowledge:
+The first point Descartes makes is a general rule regarding knowledge:
 
 > So now I seem to be able to lay it down as a general rule that whatever I perceive very clearly and distinctly is true
 
-Clearness and distinctness are the key to perceiving what's actually true.
-
+Clearness and distinctness are the key to perceiving what's actually true.\
 While looking at geometrical truths, I can't be fooled that they're not so.
 
 A critic: since Descartes bases his demonstration of God on ideas, either the demonstration doesn't work because it's built on unstable elements, or it's useless because we already know our ideas are certain.
 
 Descartes' reply:   
-We have to distinguish the present evidence and what God's warrants. We need God to preserve the authenticity that our past evidence is true.
+We have to distinguish the present evidence and what God warrants. We need God to preserve the authenticity that our past evidence is true.
 
 I can doubt of this kind of truth only if it appears as a class of ideas.
 
@@ -146,4 +146,6 @@ To be a deceiver means to miss something, to be not complete, not perfect; of co
 
 <br>
 
-Next topic: 
+---
+
+[[Fourth Meditation]]

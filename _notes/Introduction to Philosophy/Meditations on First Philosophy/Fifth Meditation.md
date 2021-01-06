@@ -1,7 +1,7 @@
 ---
 ---
 
-# Descartes' Fifth meditation
+*The essence of material things, and the existence of God considered a second time*
 
 ---
 

@@ -32,10 +32,9 @@ To address it, he used the tool of allegory, inventing the famous [allegory of t
 1. Plato shows that we can firmly believe in reality, even if this is deceitful and not true. We describe reality as we are used to conceive it. The way we are used to perceive things influences the way we will see things in the **future**, too.
 2. Even in a world of appearances there are **hierarchies**: awards and the world upon which they are built are **illusory**. A whole society its political structure is based on appearances. In this world of shadows, prisoners have a hierarchy (like in Versailles during the reign of Louis XIV) and being the fastest at pointing out shadows would make someone better than another.
 3. <u>We can become aware of those perceptions</u>. Education, traditions, etc. influence our conception of life and of the world.\
-Hannah Arendt: we build our conjectures and our ideas of people based on +++\
+Hannah Arendt: we build our conjectures and our ideas of people based on appearances\
 In a society where everything isn't real, it becomes impossible even to distinguish what is fake-real from what is fake-fake.\
 Understanding social media is crucial since in every society there is something like the social media we have now.\
-How can we say something +++ question from home\
 4. <u>Knowledge can be painful, it needs effort</u>, yet knowledge is worth to be reached, and who reaches it have a **duty** towards other people, it makes him responsible to share the “enlightened” vision
     - Habits and customs influence our notion of reality
     - Societies are grounded on appearances (see [What's on your mind](http://filmnosis/shortfilms/whats-on-your-mind))
@@ -55,10 +54,14 @@ Brains in a vat vs Descartes' arguments +++
 
 **![[René Descartes]]**
 
+and ![[First Meditation]]
+
+<br>
 <br>
 
 **![[Hume in Introduction to Philosophy|David Hume]]**
 
+<br>
 <br>
 
 ---

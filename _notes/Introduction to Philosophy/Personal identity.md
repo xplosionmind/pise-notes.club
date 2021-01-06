@@ -1,11 +1,9 @@
 ---
+date: 2020-11-09
 ---
-
 <p class="date">9<sup>th</sup> November 2020</p>
 
-# Personal identity
-
-Introduction to the topic: [[Dennett Hofstadter - The Mind's I, Fantasies and Reflections the Mind - [INTRODUCTION].pdf|Introduction of The Mind's I]], by [Daniel Dennet](https://www.wikiwand.com/en/Daniel_Dennett "Daniel Dennet on Wikipedia")
+Introduction to the topic: Introduction of <cite>The Mind's I</cite>, by [Daniel Dennet](https://www.wikiwand.com/en/Daniel_Dennett "Daniel Dennet on Wikipedia")
 
 Starting questions:
 - What is personal identity?

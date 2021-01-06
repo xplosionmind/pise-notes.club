@@ -1,17 +1,17 @@
 ---
+date: 2020-11-17
 ---
-
-# God and Theodicy
-
 <p class="date">17<sup>th</sup> November 2020</p>
 
 For centuries, since Aristotle, this issue has been among the most important points. The essence of metaphysics, essential to Descartes in particular for this reason, but also for epistemological reasons. We need God to be sure that our understanding of nature and the world is accurate.
 
 Two main parts
 - God
-- The main theological problem
+- The main theological problem: evil
 
-We'll be referring to God as he/him not because God is supposed to be male, but because along history he's been called with masculine pronouns.
+<div class="box">
+	We'll be referring to God as he/him not because God is supposed to be male, but because along history he's been called with masculine pronouns.
+</div>
 
 ## Main questions
 
@@ -21,8 +21,9 @@ We'll be referring to God as he/him not because God is supposed to be male, but 
 - Is it possible to demonstrate God's existence?
 - How?
 
-## [[Theodicy]]
+**![[Theodicy]]**
 
+<br>
 <br>
 
 ## Types of demonstration
@@ -47,11 +48,12 @@ There are five ways of demonstrating God's existence, examined in D'Aquino's <ci
 
 D'Aquino took Aristotle's proof of God's existence as a model for his demonstration.
 
+<br>
+<br>
+
 ## D'Aquino's Cosmological Argument
 
 Note: a cosmological demonstration isn't necessarily an *a posteriori* demonstration.
-
-[[Aquinas' Cosmological Argument.pdf|D'Aquino's Cosmological Argument]]
 
 ### The argument from efficient causes
 
@@ -73,7 +75,10 @@ If we don't find a first efficient cause, we won't stop going back.
 - Even admitting this demonstration works, it doesn't necessarily follow that God has the properties D'Aquino uses. We need something more to prove the properties.
 - It's not impossible to have an infinite regress, which D'Aquino denies; we can imagine a never ending sequence, as the sequence of numbers
 
-### The argument from design
+<br>
+<br>
+
+## The argument from design
 
 > The fifth way is taken from the governance of the world. We see that things which lack intelligence, such as natural bodies, <u>act for an end,</u> and this is evident from their acting always, or nearly always, in the same way, so as to obtain the best result. Hence it is plain that <u>not fortuitously, but designedly, do they achieve their end</u>. Now whatever lacks intelligence cannot move towards an end, unless it be directed by some being endowed with knowledge and intelligence; as the arrow is shot to its mark by the archer. Therefore <u>an intelligent being exists by whom all natural things are directed to their end</u>; and this being we call God.
 
@@ -83,11 +88,13 @@ Nature is like a watch which has all tiny complex elements that work in harmony,
 
 Charles Darwin explained we can demonstrate existence through chance and necessity, which are at the center of his theory of evolution.
 
+Also seen in [[Hume in Introduction to Philosophy|David Hume]]'s [[Section XI]]
+
 <br>
 
 ## Anselm's Ontological Argument
 
-The ontological argument, defined so because it starts from the being. It's been defined for the first time by Kant.
+The Ontological Argument is defined so because it starts from *being*. It has been defined by Kant for the first time.
 
 Among the *a priori* demonstrations, there's Spinoza's one, too; it starts from substance.
 
@@ -100,9 +107,11 @@ Among the *a priori* demonstrations, there's Spinoza's one, too; it starts from 
 3. God can't just be in the mind, since it's greater to be in reality than it is to be only in the mind;
 4. since being in reality means being more than just being thought, and since nothing greater can be thought, God has to be in reality, thus he must exist.
 
-[^1]: <q>The fool hath said in his heart, «There is no God»</q> ~<cite>Psalm 14, 1</cite>
+[^1]: <q>The fool hath said in his heart, “There is no God”</q> ~<cite>Psalm 14, 1</cite>
 
 If God didn't exist, we would have a contradiction since we would say there is an entity that is greater than him, which exists in reality and not only in the imagination; therefore, since to be in reality is more than to be in the mind only, it would exist an entity which is more than God, and this contradicts the very definition of God.
+
+<br>
 
 ### Ganulio's objection
 
@@ -115,9 +124,11 @@ Ganulio applies Anselm's line of reasoning to a perfect island. Such island, fol
 
 Furthermore, in another passage Ganulio presents another counterargument: many among the ones who believe in God state that he can't be fully known and his definition goes partly beyond human understanding. If it is so, the Ontological Argument wouldn't work.
 
-### D'Aquino criticisms
+<br>
 
-> Perhaps <u>not everyone who hears this word "God" understands it to signify something than which nothing greater can be thought</u>, seeing that some have believed God to be a body. Yet, granted that everyone understands that by this word "God" is signified something than which nothing greater can be thought, nevertheless, <u>it does not therefore follow that he understands that what the word signifies exists actually</u>, but only that it exists mentally. Nor can it be argued that it actually exists, unless it be admitted that there actually exists something than which nothing greater can be thought; and this precisely is not admitted by those who hold that God does not exist.
+### D'Aquino's criticisms
+
+> Perhaps <u>not everyone who hears this word “God” understands it to signify something than which nothing greater can be thought</u>, seeing that some have believed God to be a body. Yet, granted that everyone understands that by this word “God” is signified something than which nothing greater can be thought, nevertheless, <u>it does not therefore follow that he understands that what the word signifies exists actually</u>, but only that it exists mentally. Nor can it be argued that it actually exists, unless it be admitted that there actually exists something than which nothing greater can be thought; and this precisely is not admitted by those who hold that God does not exist.
 
 <p class="cite">Tommaso D'Aquino, <cite>Summa Theologica</cite>, I, q. 2, ad secundum</p>
 
@@ -126,9 +137,10 @@ Furthermore, in another passage Ganulio presents another counterargument: many a
 
 We can't move from the domain of thought to the domain of reality, it's not an automatic passage.
 
-The answer regarding the existence of God includes in itself the question, which is to prove this. A requirement to prove the existence of God is admitting his existence, which is nonsense.
-
+The answer regarding the existence of God includes in itself the question, which is to prove this. A requirement to prove the existence of God is admitting his existence, which is nonsense.\
 *Petition principi*: begging the question
+
+<br>
 
 ### Kant's criticisms
 
@@ -136,26 +148,28 @@ The answer regarding the existence of God includes in itself the question, which
 
 <p class="cite">Immanuel Kant, <cite>Critique of Pure Reason</cite>, Trascendental dialectics, A599/B627.</p>
 
-Kant's conclusion is that existence is not a property, but it's a position.
+Kant's conclusion is that <u>existence is not a property</u>, but it's a position.
 
 Taken the definition of a certain amount of money, in the mind there's no difference of properties between it and the actual objects which make it the same amount.
 
-You don't have more properties if you exist, you're only in another domain of the mind. Anselm instead believes that being in reality means being more, being greater.
-
+You don't have more properties if you exist, <u>you're only in another domain of the mind</u>. Anselm instead believes that being in reality means being more, being greater.\
 Existence doesn't add anything to an entity.
 
 <p class="date">18<sup>th</sup> November 2020</p>
 
-+++
+[[René Descartes]]'s [[Third Meditation]]
 
+<br>
 <br>
 
 ## Reactions of the catholic church
 
 <p class="date">7<sup>th</sup> December 2020</p>
 
-Averroes: philosophy and religion must be separated; considered dangerous by christian church: if it would be so, the christian church would've been no domain on the human dimension, not in the religious only. Consider the historical context.
+[Averroes](https://en.wikipedia.org/wiki/Averroes "Averroes on Wikipedia"): philosophy and religion must be separated.\
+Considered dangerous by christian church: if it would be so, the Christian church would've been no domain on the human dimension, not in the religious only. Consider the historical context.
 
+<br>
 <br>
 
 ## Resources
@@ -171,4 +185,4 @@ Averroes: philosophy and religion must be separated; considered dangerous by chr
 
 ---
 
-Next topic: [[The argument from design]]
+Next topic: [[Section XI]]

@@ -1,13 +1,12 @@
 ---
 ---
-
-# Fields of Philosophy
-
 The deep structure of the world is **mathematics**. At the time it wasn't considered as something real, but something like an abstract theory.
 
 Aristotheles has the Ethics in its hand.
 
 +++
+
+<br>
 
 ## Metaphysics
 
@@ -15,7 +14,7 @@ What is the nature of reality?
 
 What are the grounds of our beliefs, the nature of our reality. Strictly connected with ontology: the things we can see and experience in life
 
-[Metaphysics](https://plato.stanford.edu/entries/metaphysics/) on [Stanford Encyclopedia of Philosophy][SEP]
+[Metaphysics](https://plato.stanford.edu/entries/metaphysics/ "Metaphysics on Stanford Encyclopedia of Philosophy") on [Stanford Encyclopedia of Philosophy][SEP]
 
 <br>
 
@@ -27,8 +26,8 @@ What are the grounds of our beliefs, the nature of our reality. Strictly connect
 
 From the Greek *episteme* (science, true and real knowledge): what knowledge is, how we achieve knowledge. The conditions that knowledge can create.
 
-- [Epistemology](https://plato.stanford.edu/entries/epistemology/) on Stanford Encyclopedia of Philosophy
-- [Gnoseology](+++) on Stanford Encyclopedia of Philosophy
+- [Epistemology](https://plato.stanford.edu/entries/epistemology/ "Epistemology on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy
+- [Gnosiology](https://www.wikiwand.com/en/Gnosiology "Gnosiology on Wikipedia") on Wikipedia
 
 <br>
 
@@ -42,7 +41,7 @@ Justice -> God -> Political power (see [*Porta della Carta*](https://upload.wiki
 
 Venice is an important city from an historical and political point of view, since at the beginning of the 16th century it was the most progressive city in the occidental culture.
 
-[Ethics](+++) on Stanford Encyclopedia of Philosophy
+[Ethics](https://www.britannica.com/topic/ethics-philosophy "Ethics on Britannica Encyclopædia") on Britannica Encyclopædia
 
 <br>
 
@@ -54,7 +53,7 @@ Venice is an important city from an historical and political point of view, sinc
 Logic is interested in consistency, thus the validity of an argument, studying the reasoning, without any interest to the content.
 
 - *[[Introduction to Logic and Philosophy of Science I#What is “logic”|What is logic?]]*, from the [[Logic and Philosophy of Science I]] course
-- [Logic](https://www.britannica.com/topic/logic) on Encyclopedia Britannica
+- [Logic](https://www.britannica.com/topic/logic "Logic on Encyclopædia Britannica") on Encyclopedia Britannica
 
 <br>
 
