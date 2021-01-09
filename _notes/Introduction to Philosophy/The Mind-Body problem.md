@@ -1,6 +1,5 @@
 ---
 date: 2020-10-06
-aliases: "The Mind-body problem"
 ---
 <p class="date">6<sup>th</sup> October 2020</p>
 
@@ -47,13 +46,14 @@ Why do the body-mind problem emerged after the Second World War, in the 50s; Phi
 +++
 
 
+## Interactionism
+
+Mind and body are different and separate, but they interact. E.g. a physical stimulus corresponds to a stimulus to the mind. In the [[Sixth Meditation]]: the mind and the body are strictly entangled.
+
 Descartes was both a dualist and an interactionist
 
-**Interactionism**: the two substances are different and separate, but they interact. E.g. a physical stimulus corresponds to a stimulus to the mind.
-
 <br>
-
-+++ Monism examples
+<br>
 
 ![[Second meditation]]
 
@@ -113,7 +113,7 @@ Then, the “I” is proved through the attribute of thinking. The substance is 
 
 Self perception means to have the mental property, it's not a physical activity of the body.
 
-In the second part of the second meditation, Descartes provides a counterargument to the common belief that since childhood, as newborns, we learn through the senses. Also the knowledge we define “sense perception” doesn't belong to the body, but to the mind.
+In the second part of the second meditation, Descartes provides a counterargument to the common belief that since childhood, as newborns, we learn through the senses. Also the knowledge we define <u>“sense perception” doesn't belong to the body, but to the mind</u>.
 
 It seems that sensory experience is easier to accept, the empirical level of knowledge is easier.
 
@@ -129,20 +129,20 @@ We always use our mind, also when we believe we're using the senses.
 
 Even with Physics, even when talking about atoms, it's our intellect which allows us to understand the kink which bonds ice and water, knowing the matter is the same, yet the status is different. It's thanks to our mind we know it's always H<sub>2</sub>O.
 
-The “enemy” of Descartes isn't the belief that science doesn't need empirical data, but the aristothelean idea that knowledge comes from the senses only. The point Descartes wants to prove is that science necessarily needs the mind to form theories
+The “enemy” of Descartes isn't the belief that science doesn't need empirical data, but the aristotelian idea that knowledge comes from the senses only. The point Descartes wants to prove is that science necessarily needs the mind to form theories.
 
+<br>
 
 ![[Sixth Meditation]]
 
-<p class="date">14<sup>th</sup> October 2020</p>
- 
-Descartes is a dualist and an interactionist
+<br>
 
 <p class="date">3<sup>rd</sup> November 2020</p>
 
-+++ beginning, repetition of immortality of bodies and definition of substance
+How can the mind exist separately from the body?\
+According to Descartes, it's sufficient to explain the real distinction.
 
-What does it mean to die? Our individual body is destroyed, but the mind will continue to exist
+What does it mean to die? Our individual body is destroyed, but the mind will continue to exist, as well as matter in general.
 
 The main act of thinking is being conscious of something: if I knew how the knowledge of the external comes to me, I'd be conscious of it.
 
@@ -152,42 +152,52 @@ Sensory experience is truthful only in the case of understanding the existence o
 
 Leibnitz: we can only have a “moral certainty” the external world exists, we have no necessary and logic knowledge of it.
 
-## Parallelism vs Occasionalism
+<br>
+<br>
 
-Two conceptions of dualism which deny Interactionism. Mind and body can't interact.
+Both [parallelism](#parallelism) and [occasionalism](#occasionalism) deny [interactionism](#interactionism).
 
 Both of them state that to each mental event corresponds a physical event. The difference between them is in the power they give to limited entities, finite substances.
 
-- **Parallelism**: mind and body are two clocks created at the beginning of time which show the same 
+<br>
 
-    Leibnitz: the causal power is in substance: each **monad** is an entry of an encyclopedia, in which is stores all the data about the events which will happen to it. The monad is the cause to all its events. The body of the monade is synced with its essence. There is no free will, but there is ***freedom of spontaneity*** (we are free in the principles of our actions. What we do is inside us. Compatible to determinism), not “Freedom on indifference” (nothing drives your actions). Each monad as an “Encyclopedia entry”, which contain all the info and data about it across its life. To be free means not to be constrained by the principle of not contradiction. To be free means not to be tied with logic.
-- **Occasionalism**: God established **laws** for which every time I want to raise an hand, my body will raise an hand. To each physical state corresponds a mental state, predefined from God.
+## Parallelism
 
-    Substances have no internal power at all
-    
-    Malebranche
+Mind and body are two clocks created at the beginning of time. Events occur simultaneously in both because God pre-programmed the same occurrence in the two entities.
+
+Leibnitz: the causal power is in substance: each **monade** is an entry of an encyclopedia, in which is stores all the data about the events which will happen to it. The monade is the cause to all its events. The body of the monade is synced with its essence. There is no free will, but there is ***freedom of spontaneity*** (we are free in the principles of our actions. What we do is inside us. Compatible to determinism), not “Freedom on indifference” (nothing drives your actions). Each monad as an “Encyclopedia entry”, which contain all the info and data about it across its life. To be free means not to be constrained by the principle of not contradiction. To be free means not to be tied with logic.
+
+<br>
+
+## Occasionalism
+
+God established **laws** for which every time I want to raise an hand, my body will raise an hand. To each physical state corresponds a mental state, predefined from God.\
+Substances have no internal power at all\
+Malebranche
 
 The causal power is only in God.
 
-Why mental states cannot cause physical states +++ min 51
+Why mental states cannot cause physical states +++ min 51 (epiphenomenalism)
 
 There are a lot of monists even before the 21<sup>st</sup> century. 
 
----
+<br>
 
 ## Behaviorism
 
 Psychological theory of the mind: the only scientific way to explain mental states is through apparent behavior. Behaviorism wants to make psychology a science. The most important psychological school in that period (beginning of 20th century) was freudianism. In what way can we understand the mind to make it scientific? Behavior. If we analyze behavior, we can understand the mind.
 
-Behaviorists started to follow the suggestions of philosophy of mind, which sustained the non-existence of the mind: monism. Physical changes in our mind. Ryle confuted Descartes by saying he used behaviorism by applying it to the new philosophy of language which was very important in England in that period. Philosophy of language the mother of Philosophy of mind.
+Behaviorists started to follow the suggestions of philosophy of mind, which sustained the non-existence of the mind: monism. Physical changes in our mind. Ryle confuted Descartes by saying he used behaviorism by applying it to the new philosophy of language which was very important in England in that period. Philosophy of language is the mother of Philosophy of mind.
+
+<br>
 
 ## Philosophy of Language
 
-a discipline which links all philosophical problems to language. To solve philosophical problem, we need to solve linguistical issues. Those issues can be solved with the ***therapy of language***. Which is the noun, which is the adverb, which is the predicate. We have a linguistic framework which is responsible for our philosophical conceptions of the world.
+a discipline which links all philosophical problems to language. To solve philosophical problem, we need to solve linguistical issues. Those issues can be solved with the ***therapy of language***. Which is the noun, which is the adverb, which is the predicate. We have <u>a linguistic framework which is responsible for our philosophical conceptions of the world</u>.
 
 Examples:
 - in Descartes: *mens* instead of *anima*, because the latter was too similar to *animus*, which seemed too material.
-- Reality - existence. Unicorn is a real object which doesn't exist.
+- “Reality” - “existence”. Unicorn is a real object which doesn't exist.
 
 ---
 
@@ -202,24 +212,40 @@ Both are two forms of Physicalism.
 
 Each physical state of a particular type is a particular state of a particular type. A state of the brain corresponds to a thought.
 
+---
+
+### Type
+
+A type is some replicable entity;
+
+>  an abstract category or class of linguistic item or unit, as distinct from actual occurrences in speech or writing.
+
+---
+
 ### Criticisms
 
-- we can imagine the same mental event as caused by different states of the brain.
+- we can imagine the same mental event as caused by different states of the brain; subjective or individual interpretations are harder to be explained. Thoughts should be neatly divided and very clearly distinct, while they are not.\
+E.g.: two people may both think of Descartes, but one refers to him as the author of the *Meditations*, while another one refers to him as the author of the *Principles*. Both are thinking about the same person, but in two different ways. Thus, the same thought, yet two different states of the brain.
+- Nagel's criticism: there is a set of experiences connected to consciousness (feelings, love, sadness) which we can't describe as mere physical states. They are qualitative, *qualia*. Consciousness can't be reduced to a physical states. Even if our 
+- no deep understanding of mental activities: if to any mental state corresponds a thought which we intimately and completely know corresponds an identical mental state, why can we understand one while the other not?
+- Size, location and shape: if a thought is physically represented, it should have a precise location in our brain, and at the same time it should be supposed to acquire some shape, but we have no perception of this.
     
-    E.g.: two people may both think of Descartes, but one refers to him as the author of the *Meditations*, while another one refers to him as the author of the *Principles*. Both are thinking about the same person, but in two different ways. Thus, the same thought, yet two different states of the brain.
-- Nagel's criticism: there is a set of experiences connected to consciousness (feelings, love, sadness), we can't describe them as mere physical states. They are qualitative, *qualia*. Consciousness can't be reduced to a physical states.
-
-    E.g.: the reaction is subjective
-    
+<br>
 <br>
 
 ## TOken Identity Theory
 
 Different states of the brain can produce the same mental event:
 
-distinction between ***type** and ***token***:
-- a Token is a particular instance of a type
-- A type is some replicable entity
+---
+
+### Token
+
+A token is a particular instance of a type;
+
+>  an individual occurrence of a linguistic unit in speech or writing.
+
+---
 
 The same mental event can be different in different individuals.
 
@@ -244,8 +270,6 @@ It's quite hard to conduct a physicalist confutation of physicalism. The point i
 +++ 2020.11.09 18:20
 
 ---
-
-Most of the mental p
 
 ### Consequences
 
@@ -319,7 +343,7 @@ Searle refuses to be a dualist, since he believes mental states aren't a differe
 
 A.K.A. the *The Chinese Brain* or *The China Gym*
 
-Imagine the whole population of China acting as neurons and the country as a huge replication of a brain: the whole country, thus the brain, can't have consciousness. We can't reduce mental processes to the mental level of neuronal activations brains contain.
+Imagine the whole population of China acting as neurons and the country as a huge replication of a brain: the whole country, thus the brain, can't have consciousness. We can't reduce mental processes to the mental level of neuronal triggers brains contain.
 
 ---
 

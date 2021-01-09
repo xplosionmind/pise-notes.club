@@ -155,6 +155,11 @@ Taken the definition of a certain amount of money, in the mind there's no differ
 You don't have more properties if you exist, <u>you're only in another domain of the mind</u>. Anselm instead believes that being in reality means being more, being greater.\
 Existence doesn't add anything to an entity.
 
+<br>
+<br>
+
+## Descartes' proofs
+
 <p class="date">18<sup>th</sup> November 2020</p>
 
 [[René Descartes]]'s [[Third Meditation]]

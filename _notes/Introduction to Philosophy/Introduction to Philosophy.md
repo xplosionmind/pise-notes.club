@@ -13,7 +13,7 @@ Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/
 1. [[What is Philosophy|What is Philosophy?]]
 2. [[Fields of Philosophy]]
 3. [[Knowledge and epistemology]]
-4. [[The existence of Self|The Mind-body problem]]
+4. [[The Mind-Body problem|The Mind-body problem]]
 5. [[Personal identity]]
 1. [[God and Theodicy]]
 1. [[Freedom]]
@@ -21,7 +21,8 @@ Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/
 <br>
 
 Texts:
-- [[Descartes’ Meditations on First Philosophy]]
+- [[René Descartes]]' *[[Meditations on First Philosophy]]*
+- [[David Hume]]'s *[[An Enquiry Concerning Human Understanding]]*
 
 <br>
 <br>

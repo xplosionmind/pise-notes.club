@@ -20,11 +20,9 @@
 
 <br>
 
-Why another demonstration of God?
+The subject of the whole meditation is innatism.
 
-The subject of the whole meditation is innatism, +++.
-
-The content of innate ideas is <q><strong>true</strong></q>, <q><strong>immutable</strong></q> and independent from my other beliefs; I can't add or remove any attributes to ideas which are innate, since they re <q>not dependent on my mind</q>
+The content of innate ideas is <q><strong>true</strong></q>, <q><strong>immutable</strong></q> and independent from my other beliefs; I can't add or remove any attributes to ideas which are innate, since they re <q>not dependent on my mind</q>.
 
 For example, if we take a geometrical figure, we can achieve new knowledge through it, this doesn't happen with factitious ideas.
 
@@ -36,6 +34,8 @@ Furthermore, I can't condition nor arbitrarily decide their content.
 Geometry and mathematics in general, as Aristotle himself stated, doesn't come from experience and, as innate ideas, they can't derive from notions of figures I encountered in reality.
 
 An echo to Plato's theory of knowledge.
+
+<br>
 
 ## Third demonstration of God's existence
 
@@ -56,20 +56,14 @@ classes of innate ideas:
 
 ---
 
-After D'Aquino is was natural to distinguish between existence and essence. 
+After D'Aquino it was natural to distinguish between existence and essence. 
 
 It's a <q><strong>contradiction</strong></q> to deny God's existence as it is so to deny a geometrical property: God's existence is intrinsic in his perfection.
 
-A complete change of perspective from D'Aquino, it's a matter of **essence**. Nevertheless Descartes 
+A complete change of perspective from D'Aquino, it's a matter of **essence**.
 
-Descartes turns the critic of D'Aquino to Anselm against D'Aquino himself: existence inseparable from God. This doesn't depend on one's thinking, but it's intrinsic in the definition of God.
+Descartes turns the critic of D'Aquino to Anselm against D'Aquino himself: <u>existence inseparable from God</u>. This <u>doesn't depend on one's thinking, but it's intrinsic in the definition of God</u>.
 
 The content of the idea of God it's different from the content of all other ideas: we aren't moving form the mental domain to reality, we already are within reality.
 
-## Conclusion
-
-Descartes concludes his meditation by expressing how all
-
 **Note**: the idea of God is the same for everyone
-
-this demonstration of God is modeled from mathematical demonstrations.

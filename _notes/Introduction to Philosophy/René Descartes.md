@@ -69,4 +69,4 @@ The first step of knowledge is the interaction with the object, then we know it 
 
 <br>
 
-**![[Descartes’ Meditations on First Philosophy]]**
+**![[Meditations on First Philosophy]]**

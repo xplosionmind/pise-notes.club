@@ -66,4 +66,4 @@ and ![[First Meditation]]
 
 ---
 
-Next topic: [[The existence of Self]]
+Next topic: [[The Mind-Body problem]]

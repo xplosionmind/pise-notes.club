@@ -1,13 +1,11 @@
 ---
+date: 2020-11-25
 ---
-
-# Theodicy
-
 <p class="date">25<sup>th</sup> November 2020</p>
 
-[Theodicy](https://www.britannica.com/topic/theodicy-theology) on Encyclopædia Britannica
+[Theodicy](https://www.britannica.com/topic/theodicy-theology "Theodicy on Encyclopedia Britannica") on Encyclopædia Britannica
 
-A term invented by [Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/ "Leibniz on Stanford Encyclopedia of Philosophy") (1646–1716), used for the first time in the title of <cite><a href="https://www.wikiwand.com/en/Théodicée" rel="noopener noreferrer" target="_blank">Essais de Theodicée sur la bonté de Dieu</a></cite>, his only writing in French.
+A term invented by [Gottfried Wilhelm Leibniz](https://plato.stanford.edu/entries/leibniz/ "Leibniz on Stanford Encyclopedia of Philosophy") (1646–1716), used for the first time in the title of <cite><a href="https://en.wikipedia.com/wiki/Théodicée" rel="noopener noreferrer" target="_blank">Essais de Theodicée sur la bonté de Dieu</a></cite>, his only writing in French.
 
 ## Etimology
 
@@ -24,21 +22,20 @@ Justice of God, justification of God
 
 ## The problem
 
-- If God exists, then God is omnipotent, omniscient, and good
-- If God is omnipotent, 
-- +++
+If God exist and he is omnipotent, omniscient and all-good, why does evil exist?
 
 <br>
 
 ## Solutions
 
-- [Atheism](+++): there is no God
-- [Manichaeism](+++): there are two gods, a good one and a bad one;   
-these two gods continuously fight each other
+- [Atheism](https://plato.stanford.edu/entries/atheism-agnosticism/ "Atheism and Agnosticism on Stanford Encyclopedia of Philosophy"): there is no God
+- [Manichaeism](https://en.wikipedia.org/wiki/Manichaeism "Manichaeism on Wikipedia"): there are two gods, a good one and a bad one, who continuously fight each other
 - Agostino d'Ippona: in a sense, evil doesn't exist
 - +++ evil is caused by human free will
 - In a certain sense, God isn't omnipotent
 - [[Socinianism]]: God isn't omniscient
+
+<br>
 
 ## Agostino d'Ippona
 
@@ -91,15 +88,20 @@ What's the cause of evil?
 It lies in human understanding of God; since it is imperfect, it's limited and could not be grasped.
 
 Three types of evil:
-- *Methaphysical evil*
+- *Metaphysical evil*
 - *physical evil*
 - *moral evil*
 
 By world Leibniz means universe. Leibniz previously proved that our world is the only existing one.
 
+<br>
+
 ---
+
+<br>
 
 ## References and resources
 
-- [Sliding doors](+++), which follows Leibniz's philosophy.
-- [*Candid*](+++) by Voltaire, 
+- [<cite>Sliding doors</cite>](https://en.wikipedia.org/wiki/Sliding_Doors "Sliding Doors on Wikipedia"), which follows Leibniz's philosophy.
+- [<cite>Candide</cite>](https://en.wikipedia.org/wiki/Candide "Candide on Wikipedia") by Voltaire
+- [The concept of evil](https://plato.stanford.edu/entries/concept-evil/ "The concept of evil on Stanford Encyclopedia of Philosophy") on Stanford Encyclopedia of Philosophy
