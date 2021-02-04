@@ -1,18 +1,18 @@
 # Generated website directory
-_site/
+_site
 
 # Sass cache
-.sass-cache/
+.sass-cache
 
 # Jekyll cache & metadata
-.jekyll-cache/
+.jekyll-cache
 .jekyll-metadata
 
 # Notes graph metadata
 _includes/notes_graph.json
 
 # Obsidian data
-.obsidian/
+.obsidian
 obsidian.css
 _notes/templates/
 _notes/lecture\ template.md
@@ -20,4 +20,9 @@ _notes/lecture\ template.md
 # not shareable content
 copyrighted-content/
 to-publish/
-/various/
+/various
+*/copyrighted-content
+*/*/copyrighted-content
+private
+*/private
+*/*/private

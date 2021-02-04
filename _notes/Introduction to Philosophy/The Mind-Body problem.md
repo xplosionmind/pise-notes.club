@@ -3,6 +3,16 @@ date: 2020-10-06
 ---
 <p class="date">6<sup>th</sup> October 2020</p>
 
+---
+
+### Abbreviations and terminology
+
+- **`TYIT`**: Type Identity Theory
+- **`TOIT`**: Token Identity Theory
+
+---
+
+
 ## Leibniz
 
 From <cite>On the method for distinguishing real from imaginary phenomena</cite>:
@@ -35,22 +45,13 @@ If our life were a dream, we can't accuse God of being a deceiver. We are deceiv
 
 <p class="date">7<sup>th</sup> October 2020</p>
 
-Why do the body-mind problem emerged after the Second World War, in the 50s; Philosophy of mind emerged to satisfy the need to find tools to substitute or improve human mind.
+The body-mind problem emerged after the Second World War, in the 50s; Philosophy of mind emerged to satisfy the need to find tools to substitute or improve human mind.
 
 ## What is the mind?
 
 - **Dualism**: mind and body exist as different separate entities (Plato, Descartes, Leibniz). The mind is spiritual, the body merely is material
 - **Monism**
 - **Tempered Monism**
-
-+++
-
-
-## Interactionism
-
-Mind and body are different and separate, but they interact. E.g. a physical stimulus corresponds to a stimulus to the mind. In the [[Sixth Meditation]]: the mind and the body are strictly entangled.
-
-Descartes was both a dualist and an interactionist
 
 <br>
 <br>
@@ -139,6 +140,14 @@ The “enemy” of Descartes isn't the belief that science doesn't need empirica
 
 <p class="date">3<sup>rd</sup> November 2020</p>
 
+## Dualism
+
+### Interactionism
+
+Mind and body are different and separate, but they interact. E.g. a physical stimulus corresponds to a stimulus to the mind. In the [[Sixth Meditation]]: the mind and the body are strictly entangled.
+
+Descartes was both a dualist and an interactionist
+
 How can the mind exist separately from the body?\
 According to Descartes, it's sufficient to explain the real distinction.
 
@@ -150,7 +159,7 @@ Note: we're speaking about the demonstration of the existence of bodies, not the
 
 Sensory experience is truthful only in the case of understanding the existence of the bodies.
 
-Leibnitz: we can only have a “moral certainty” the external world exists, we have no necessary and logic knowledge of it.
+Leibniz: we can only have a “moral certainty” the external world exists, we have no necessary and logic knowledge of it.
 
 <br>
 <br>
@@ -161,7 +170,7 @@ Both of them state that to each mental event corresponds a physical event. The d
 
 <br>
 
-## Parallelism
+### Parallelism
 
 Mind and body are two clocks created at the beginning of time. Events occur simultaneously in both because God pre-programmed the same occurrence in the two entities.
 
@@ -169,7 +178,7 @@ Leibnitz: the causal power is in substance: each **monade** is an entry of an en
 
 <br>
 
-## Occasionalism
+### Occasionalism
 
 God established **laws** for which every time I want to raise an hand, my body will raise an hand. To each physical state corresponds a mental state, predefined from God.\
 Substances have no internal power at all\
@@ -187,8 +196,19 @@ There are a lot of monists even before the 21<sup>st</sup> century.
 
 Psychological theory of the mind: the only scientific way to explain mental states is through apparent behavior. Behaviorism wants to make psychology a science. The most important psychological school in that period (beginning of 20th century) was freudianism. In what way can we understand the mind to make it scientific? Behavior. If we analyze behavior, we can understand the mind.
 
-Behaviorists started to follow the suggestions of philosophy of mind, which sustained the non-existence of the mind: monism. Physical changes in our mind. Ryle confuted Descartes by saying he used behaviorism by applying it to the new philosophy of language which was very important in England in that period. Philosophy of language is the mother of Philosophy of mind.
+Behaviorists started to follow the suggestions of philosophy of mind, which sustained the non-existence of the mind: monism. Physical changes in our mind. Ryle confuted Descartes by saying he used behaviorism by applying it to the new philosophy of language, which was very important in England in that period. Philosophy of language is the mother of Philosophy of mind.
 
+Behaviorism refutes both monism and dualism: it denies the existence of the mind altogether.
+
+<br>
+
+### Criticisms
+
+- The difference between actually being in a certain condition, so actually feeling something, and pretending to be so.
+- Behaviorism completely fails to explain *qualia*, or how it actually is to be in a certain state, feeling something. It reduces a feeling to what appears from it, ignoring the force of the experience on the self.
+- Self perception becomes the same as perception of the others' behavior. A counter-reply may be that we acquire our own beliefs by envisioning how would we react to a certain event.
+
+<br>
 <br>
 
 ## Philosophy of Language
@@ -208,13 +228,15 @@ Both are two forms of Physicalism.
 <br>
 <br>
 
-## Type Identity Theory
+## Monism
+
+### Type Identity Theory
 
 Each physical state of a particular type is a particular state of a particular type. A state of the brain corresponds to a thought.
 
 ---
 
-### Type
+##### Type
 
 A type is some replicable entity;
 
@@ -222,7 +244,7 @@ A type is some replicable entity;
 
 ---
 
-### Criticisms
+#### Criticisms
 
 - we can imagine the same mental event as caused by different states of the brain; subjective or individual interpretations are harder to be explained. Thoughts should be neatly divided and very clearly distinct, while they are not.\
 E.g.: two people may both think of Descartes, but one refers to him as the author of the *Meditations*, while another one refers to him as the author of the *Principles*. Both are thinking about the same person, but in two different ways. Thus, the same thought, yet two different states of the brain.
@@ -233,65 +255,53 @@ E.g.: two people may both think of Descartes, but one refers to him as the autho
 <br>
 <br>
 
-## TOken Identity Theory
+### TOken Identity Theory
 
 Different states of the brain can produce the same mental event:
 
 ---
 
-### Token
+##### Token
 
 A token is a particular instance of a type;
 
 >  an individual occurrence of a linguistic unit in speech or writing.
 
+While the type is the species, the token is the individual instance of the species.
+
 ---
 
-The same mental event can be different in different individuals.
+#### Criticism
 
-The TOIT distinguishes individual differences, among different people.
+If two people are experiencing the same brain condition, they are necessarily thinking of the same thing
+
+<br>
+<br>
 
 <p class="date">4<sup>th</sup> November 2020</p>
 
 ## Functionalism
 
-Mental states can't be described exclusively by physical properties
-
-Mental states must be identified by what they do. Mental states are the relationship between inputs and outputs.
+Mental states can't be described exclusively by physical properties, they must be identified by what they do. Mental states are the relationship between inputs and outputs.
 
 Consider the mind as a software and the brain and the body as the hardware.
 
-How is it possible to refuse physicalism without falling into dualism?
-
-It's quite hard to conduct a physicalist confutation of physicalism. The point is that those who confute physicalism try to hide their dualist tendencies.
-
----
-
-+++ 2020.11.09 18:20
-
----
-
 ### Consequences
 
-A strong argument pro AI: whatever kind of reality can provide a mental state. 
-
+A strong argument pro AI: whatever kind of reality can provide a mental state.    
 Computational functionalism: our mind **calculates** different inputs and produces different outputs. A not so recent point of view, Hobbes shared it.
 
-Contemporary functionalists may consider Aristotle as their predecessors
+Contemporary functionalists may consider Aristotle as their predecessor.
 
 ### Turing Machine
 
-It doesn't actually exist, it's built through mathematical tools.
+A mathematical tool to test the understanding of a machine. Considering every kind of symbolic process, everything can be described through a mathematical process.
 
-Considering every kind of symbolic process, everything can be described through a mathematical process.
-
-Mind conceived as a Turing Machine, it performs calculations. Mind is something natural, it doesn't belong to a different reality.
-
-Why the imitation game. (Essay on Moodle)
+The mind conceived as a Turing Machine, it performs calculations. Mind is something natural, it doesn't belong to a different reality.
 
 Can a machine think?
 
-According to Touring, we should ask ourselves: can a machine trick us? Can the machine trick a man it's not a machine interacting with him?
+According to Turing, we should ask ourselves: can a machine trick us? Can the machine trick a man it's not a machine interacting with him?
 
 > It is played with three people, a man (A), a woman (B), and an interrogator (C) who may be of either sex. The interrogator stays in a room apart from the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by labels X, and Y, and at the end of the game he says either “X is A and Y is B” or “X is B and Y is A.” (…) We now ask the question, “What will happen when a machine take the part of A in this game?” Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original “Can machines think?
 
@@ -321,7 +331,7 @@ I have a room full of symbols which I don't understand, yet I have a set of tool
 > 
 > Suppose also that after a while I get so good at following the instructions for manipulating the Chinese symbols and the programmers get so good at writing the programs that from the external point of view-that is, from the point of view of somebody outside the room in which I am locked-my answers to the questions are absolutely indistinguishable from those of native Chinese speakers. Nobody just looking at my answers can tell that I don't speak a word of Chinese.(…) As far as the Chinese is concerned, I simply behave like a computer: I pet form computational operations on formally specified elements. For the purposes of the Chinese, I am simply an instantiation of the computer program.
 
-<p class="cite">~ J. Searle, <cite>Minds, Brains, and Programs</cite>, from <cite>The Behavioral and Brain Sciences</cite> Vol. 3</p>
+<p class="cite">J. Searle, <cite>Minds, Brains, and Programs</cite>, from <cite>The Behavioral and Brain Sciences</cite> Vol. 3</p>
 
 <br>
 
@@ -335,7 +345,7 @@ Is intentionality close to the meaning given by Hume when he speaks bout matters
 
 Conscious processes are qualitative effects of effects of lower level processes, so neuronal processes, which give births to higher processes which are mental states.
 
-Searle refuses to be a dualist, since he believes mental states aren't a different kind of reality. This just means we can't reduce mental processes just to physical events. The mind has a semantic dimension.
+Searle refuses to be a dualist, since he believes mental states aren't a different kind of reality. This just means we can't reduce mental processes just to physical events. The mind has <u>its own semantic dimension</u>.
 
 <br>
 
@@ -345,13 +355,9 @@ A.K.A. the *The Chinese Brain* or *The China Gym*
 
 Imagine the whole population of China acting as neurons and the country as a huge replication of a brain: the whole country, thus the brain, can't have consciousness. We can't reduce mental processes to the mental level of neuronal triggers brains contain.
 
----
-
 Daniel Dennet believes that the whole nation of China actually thinks. He admits anything +++.
 
-Freedom can be explained with a deterministic system. Freedom and consciousness are precisely the outcome of evolution: *Freedom evolves* (2003) a book in which consciousness and freedom must be considered as an outcome of our evolution
-
----
+Freedom can be explained with a deterministic system. Freedom and consciousness are precisely the outcome of evolution: <cite>Freedom evolves</cite> (2003) a book in which consciousness and freedom must be considered as an outcome of our evolution
 
 <br>
 
@@ -359,10 +365,6 @@ Freedom can be explained with a deterministic system. Freedom and consciousness 
 
 Consciousness is thus something more than physical entities.
 
-
----
-
-difference between materialism and physicalism 2020.11.09 18:44:30
 
 <br>
 

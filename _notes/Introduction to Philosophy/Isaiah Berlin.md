@@ -5,7 +5,7 @@ One of the most important political philosophers, born in Riga and moved to Petr
 
 He taught at Oxford, where in 1958 held an inaugural lecture in particular focused on Marxism.
 
-> political theory is a branch of moral philosophy +++
+> political theory is a branch of moral philosophy, which starts from the discovery or application of moral notions in the sphere of political relations
 
 Philosophical discussion can influence both the political and economical sphere. Through philosophy one can get tools to solve political matters.
 
