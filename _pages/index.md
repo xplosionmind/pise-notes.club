@@ -20,6 +20,8 @@ Start browsing around by entering a course; each course is sub-divided in sectio
 - [[Introduction to Philosophy]]
 - [[Logic and Philosophy of Science I]]
 - [[Mathematics for Social Sciences]]
+- [[Introduction to Economics]]
+- [[Introduction to Politics]]
 
 <br>
 
@@ -47,6 +49,14 @@ Since up to now content comes only from Tommi's notes, there are several gaps an
 - `+++S`: copy from slides
 - `“+++”`: exact citation of the professor missing
 - `(+++)`: there's a missing knowledge to what has just been written
+
+<br />
+<br />
+
+## Links
+
+Useful links:
+- [Calendari e appelli d’esame](https://www.unive.it/pag/8598/ "Calendari e appelli d’esame")
 
 <style>
   .wrapper {
