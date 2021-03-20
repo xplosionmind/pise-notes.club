@@ -1,7 +1,7 @@
 ---
 date: 2021-02-18T10:46:38.793418+01:00
 updated: 2021-02-18T10:46:38.793418+01:00
-tags: introductiontoeconomics
+tags: introduction-to-economics
 ---
 ## Competitive markets
 

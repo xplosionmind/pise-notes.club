@@ -1,6 +1,7 @@
 ---
+tags: contemporary-history
+aliases: ["Cultural Globalization"]
 ---
-
 ## Cultural Globalization
 
 by Tommaso Marmo, m.n. 885217

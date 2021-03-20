@@ -1,12 +1,6 @@
 ---
-redirect_from:
-  - /phil
-  - /philosophy
-  - /intro-to-phil
-  - /ph
-  - /intro-ph
-  - /intro-phil
-tags: course-index
+redirect_from: ["/phil", "/philosophy", "/intro-to-phil", "/ph", "/intro-ph", "/intro-phil"]
+tags: introduction-to-philosophy
 ---
 Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/insegnamento/332312 "Introduction to Philosophy course syllabus"), divided by topic.
 
