@@ -5,4 +5,4 @@ tags: introduction-to-politics
 ---
 Notes from [Introduction to Politics](https://moodle.unive.it/course/view.php?id=6918 "Introduction to Politics course page"), modules 1 and 2
 
-- [[Politics and Political Science]]
+[[Questions and Answers - introduction to Politics]]

@@ -122,7 +122,7 @@ Modern liberals and socialists oppose Reagan’s view in that they believe that 
 
 <br>
 
-**20.** What are the main tenets of Marx’s The Capital? 
+**20.** What are the main tenets of Marx’s<cite>The Capital</cite>? 
 In <cite>The Capital</cite>, Marx meticulously analysed the reasons why capitalism would be overthrown by the proletarian revolution, within the context of a socialist, just, and productive society, without class distinctions. In Marx’s view, at a certain stage, when industrial production is very high, this socialist community would turn into communism, namely a perfect society without property, money, or government. As a matter of fact, because government was seen simply as an instrument of class domination, with the abolition of classes, there would be no need for the state.
 
 <br>
