@@ -1,11 +1,10 @@
 ---
 date: 2021-03-29T10:00:18.688738+02:00
-updated: 2021-04-12T10:00:18.688738+02:00
+updated: 2021-04-14T11:33:14.067790+02:00
 tags: hoet
+aliases: ["Economics: definitions and methods", "HoET Lecture 1"]
 ---
 <p class="date">29<sup>th</sup> March 2021</p>
-
-## Economics: definitions and methods
 
 ### Mainstream Econnomics
 
@@ -54,3 +53,46 @@ Essentially, ME is considered **static**, while HE appears to be a more **dynami
 | New-Keynesian                                                                            |          |             |                                                                                |                         |
 
 <br>
+<br>
+
+## Methodology
+
+### Terminology
+
+Before diving into the methodologies of investigating economic events, it is important to define some terminology:
+
+- a **phenomenon** is a fact or an event observed in reality
+- a **theory** is a scientific explanation of one or more phenomena. The **explanation power** of a theory is the range of phenomena it is able to explain . For instance, a theory capable of explaining a “business cycle” is better than one able to explain recession, for the former has more explanation power than the other (???). The **domain** of a theory is the <u>position of reality</u> within which it works. This enables to distinguish general and specific theories.
+- a **model** an instrument to synthesize a theory. Models can be:
+	1. **humanistic**: verbal discussion
+	2. **visual**: graphical presentation
+	3. **analytical**: mathematical and algebrical representation
+
+<br>
+
+### Deductive method
+
+The deductive method starts from very <u>general premises or assumptions</u>, which can result from our mental elaboration (abstract statements) or from the observation of historical facts. Subsequently, conclusions are drawn by means of <u>logical reasoning</u>.  
+The kind of premises distinguishes two genres of deductive methods:
+- the **Hypothetical-deductive** method
+- the **Hystorical-deductive** method
+
+#### Drawbacks
+
+- conclusions are valid iff the general premises are true
+- independent from time and space: any change in one of the two cannot be taken into account
+- general assumptions/premises are too abstract: conclusions are unable to explain all of the important parts of reality, therefore they explain a limited portion of it.
+
+<br>
+
+### Inductive method
+
+The inductive method starts <u>from particular facts</u> and, by means of empirical experiments, <u>it produces general conclusions</u>.
+
+#### Drawbacks
+
+- induction requires several iterations and tests
+	- **time** consuming
+	- **expensive**, since tests have a cost
+- data collection is not always simple or straightforward
+- results can be misinterpreted
