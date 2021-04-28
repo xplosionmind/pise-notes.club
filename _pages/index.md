@@ -22,6 +22,7 @@ Start browsing around by entering a course; each course is sub-divided in sectio
 - [[Mathematics for Social Sciences]]
 - [[Introduction to Economics]]
 - [[Introduction to Politics]]
+- [[History of Economic Thought]]
 
 <br>
 

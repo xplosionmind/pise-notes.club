@@ -155,16 +155,50 @@ By themselves, resources tend to be allocated in an efficient way. From a theore
 <br>
 <br>
 
-## Government intervention
+## Government intervention
 
 <b id="9">Principle 9</b>: the government can intervene to influence the market to hinder [externalities](#externalities "Externalities")’ actions towards market failure.
 
 Public intervention can push the economy to achieve full employment. One of the ways to do so, is directly giving money to people to give them buying power and subsequently improving the economy.
 
-A recent example is the European Recovery Fund.
+<br>
+
+<b id="12">Principle 12</b>: Government policies can directly influence spending.  
+[Cash Transfers Programs](https://en.wikipedia.org/wiki/Conditional_cash_transfer "Conditional Cash Transfer on Wikipedia") are an example of policy intervention in developing countries.  
+Similarly, the [American Recovery and Reinvestment Act](https://en.wikipedia.org/wiki/American_Recovery_and_Reinvestment_Act_of_2009 "American Recovery and Reinvestment Act of 2009 on Wikipedia") was approved by the US’ congress in 2009
+
+Another recent example is the [European Recovery Fund](https://ec.europa.eu/info/strategy/recovery-plan-europe_en "European Recovery Plan").
 
 <br>
 
 ### Externalities
 
-The behavior of an agent affects other agents; e.g. **pollution**: some agents produce pollution, and it indirectly  influences the market.
+The behavior of an agent affects other agents; e.g. **pollution**: some agents produce pollution, and it indirectly  influences the market. Nevertheless, firms do not consider it in their financial plan since they don’t directly experience it.
+
+<br>
+
+The Austrian school, on the contrary, believes that any kind of government intervention makes things worse.
+
+<br>
+<br>
+
+## One person’s spending is another’s income
+
+<b id="10">Principle 10</b>:The intention or capability of a person to spend less or more spreads through the whole economy.
+
+This happens, for instance, while recessions take place.
+
+<br>
+<br>
+
+## Research in economics
+
+### Theoretical models
+
+Theoretical models provide frameworks for studying factors which influence behavior. They reduce issues to the essential and they provide theories to be tested with empirical models.
+
+<br>
+
+### Empirical model
+
+Collecting data to confute theoretical models.

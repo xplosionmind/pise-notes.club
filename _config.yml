@@ -17,6 +17,7 @@ plugins:
 #  - jekyll-target-blank # no compatibility with bidirectional links plugin
   - jekyll-redirect-from
   - jekyll-optional-front-matter
+#  - jekyll-mermaid
 
 sass:
   sass_dir: _sass

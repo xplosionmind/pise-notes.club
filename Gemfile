@@ -13,3 +13,4 @@ gem "jekyll-sitemap"
 # gem "jekyll-target-blank" # no compatibility with bidirectional links plugin
 gem "jekyll-redirect-from"
 gem "jekyll-optional-front-matter"
+#gem "jekyll-mermaid"

@@ -1,23 +1,22 @@
 <style>
 .links line {
-  stroke: #666;
+  stroke: #37135033;
   opacity: 0.5;
 }
 
 .nodes circle {
   cursor: pointer;
-  fill: #FCC920;
+  fill: #371350;
   transition: all 0.15s ease-out;
 }
 
 .text text {
   cursor: pointer;
-  fill: #DDD;
 }
 
 .nodes [active] {
   cursor: pointer;
-  fill: #EC0868;
+  fill: #513CAB;
 }
 
 .text [active] {
@@ -31,10 +30,11 @@
 }
 
 #graph-wrapper {
-  background: #333;
+  background: #F3F7D9;
   border-radius: 15px;
   height: auto;
   overflow: hidden;
+  box-shadow: var(--shadow);
 }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"

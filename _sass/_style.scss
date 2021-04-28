@@ -60,18 +60,8 @@ blockquote {
 }
 
 hr {
-  width: 100%;
-  border: 0;
-  height: 2px;
-  margin: 1.5em 0;
-  background: $color-border;
-  border-radius: $border-radius;
-}
-
-content hr {
-  background: transparent;
-  border-bottom: 5px dotted $color-border;
-  border-radius: 0;
+  width: 30%;
+  color: #371350DD;
 }
 
 h1,
