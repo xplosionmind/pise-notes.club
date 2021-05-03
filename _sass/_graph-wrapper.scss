@@ -1,0 +1,44 @@
+.links line {
+  stroke: var(--light-blue);
+  opacity: .4;
+}
+
+.text text {
+  cursor: pointer;
+  fill: var(--purple);
+}
+
+.nodes [active],
+.text [active] {
+  cursor: pointer;
+}
+
+#graph-wrapper {
+  background: var(--light);
+  border: solid var(--blue);
+  border-radius: var(--radius-l);
+  box-shadow: var(--shadow);
+  height: auto;
+  overflow: hidden;
+}
+
+.nodes circle {
+  cursor: pointer;
+  fill: var(--blue);
+  transition: all 0.15s ease-out;
+}
+
+.nodes [active] {
+  cursor: pointer;
+  fill: var(--orange);
+}
+
+.text [active] {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.inactive {
+  opacity: .1;
+  transition: all .15s ease-out;
+}

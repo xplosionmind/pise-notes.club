@@ -6,5 +6,226 @@
 @import "../_sass/ubuntu-mono";
 @import "../_sass/normalize";
 @import "../_sass/code";
-@import "../_sass/style";
-@import "../_sass/text-formatting";
+@import "../_sass/graph-wrapper";
+
+:root {
+  --orange: #F26419;
+  --light: #F3F7D9;
+  --dark: #C8CBB2;
+  --blue: #33658A;
+  --light-blue: #86BBD8;
+  --lightest-blue: #86BBD822;
+  --white: #FFF;
+  --light-grey: #0002;
+  --dark-grey: #0009;
+  --purple: #371350;
+
+  --text: #222;
+
+  --radius-s: 4px;
+  --radius-m: 10px;
+  --radius-l: 15px;
+
+  --font: Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  --font-mono: "Ubuntu Mono", "Roboto Mono", "Fira Code", monospace;
+
+  --shadow: 4px 4px 15px #33658A33;
+  --little-shadow: 2px 2px 3px #33658A55;
+  --tool-shadow: 3px 3px 8px #33658A55;
+  --inner-shadow: inset 3px 3px 5px #33658A55, inset -3px -3px 5px #FFF4;
+  --inner-little-shadow: inset 2px 2px 3px #33658A55, inset -2px -2px 3px #FFF4;
+}
+
+body {
+  box-sizing: content-box;
+  font-family: var(--font);
+  margin: 0 auto;
+  line-height: 1.7;
+  padding: 4vh 6vw;
+  overflow-x: hidden;
+  color: var(--text);
+  font-size: 1rem;
+  max-width: 63em;
+
+  @media (min-width: 820px) {
+    font-size: 1.2rem;
+  }
+}
+
+time {
+  display: block;
+  color: var(--dark-grey);
+  margin: 0.5em 0 1em;
+}
+
+footer {
+  margin: 6em 0 2em;
+  font-size: 0.8em;
+  color: var(--dark-grey);
+  padding: 3vw;
+  background: var(--lightest-blue);
+  border-radius: var(--radius-m);
+  box-shadow: var(--shadow);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  max-height: 75vh;
+  border-radius: var(--radius-m);
+}
+
+blockquote {
+  padding: 0 2em;
+  margin: 2em 2em 0;
+  font: 0.9em "EB Garamond", "Garamond", "Times", "Times New Roman", serif, "Playfair Display";
+
+  p {
+    margin: 0;
+  }
+}
+
+hr {
+  width: 30%;
+  color: var(--light-blue);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.3;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: var(--blue);
+  &:hover {
+    border-bottom: 2px solid var(--orange);
+    transition: .1s ease-out;
+  }
+  &:after {
+    position: relative;
+    top: -0.5em;
+    font-size: 0.5em;
+    content: "↗";
+    color: var(--light-blue);
+  }
+  &[href^="/"] {
+    transition: background .3s;
+    padding: 0 0.2em;
+    text-decoration: none;
+    border-bottom: 2px solid;
+    border-right: 2px solid;
+    color: var(--blue);
+    border-radius: var(--radius-s);
+    border-color: var(--light-blue);
+    background: var(--lightest-blue);
+    &:after {
+      content: "";
+    }
+  }
+}
+
+*:focus {
+  background: var(--light) !important;
+}
+
+nav {
+  margin: 1em 0 3em;
+}
+
+#notes-entry-container {
+  display: grid;
+  grid-gap: 2em;
+  grid-template-areas:
+    "content"
+    "side";
+
+  @media (min-width: 700px) {
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas: "content side";
+  }
+}
+
+.backlink-box {
+  background: var(--lightest-blue);
+  padding: 1em;
+  border-radius: var(--radius-m);
+  p {
+    font-size: 0.6em;
+  }
+}
+
+.backlinks-container {
+  background: var(--white);
+  border-radius: var(--radius-m);
+  padding: 1em;
+  box-shadow: var(--shadow);
+  h3 {
+    margin-top: 0;
+  }
+}
+
+code {
+  color: var(--white);
+  background: var(--dark-grey);
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: var(--font-mono);
+  box-shadow: var(--inner-little-shadow);
+}
+
+.invalid-link {
+  color: var(--dark-grey);
+  cursor: help;
+}
+
+.invalid-link-brackets {
+  color: var(--light-grey);
+  cursor: help;
+}
+
+.box {
+  margin: 0.5rem auto;
+  padding: 1em;
+  background: var(--white);
+  border-radius: var(--radius-m);
+  box-shadow: var(--shadow);
+  h3 {
+    margin: 0;
+  }
+}
+
+.green {
+  background: var(--light);
+}
+
+mark {
+  background: var(--light);
+  border-radius: var(--radius-s);
+  padding: 0 0.2em;
+}
+
+.date,
+.cite,
+.right {
+  text-align: right;
+}
+
+.cite {
+  font-size: .85em;
+  margin-bottom: 2rem;
+  &::before {
+    content: '~ ';
+  }
+}
+
+u {
+  text-decoration-color: var(--light-blue);
+}
