@@ -1,0 +1,31 @@
+content a.internal-link {
+  border-color: #8b88e6;
+  background-color: #efefff;
+}
+
+#tooltip-wrapper {
+  background: white;
+  padding: 1em;
+  border: solid var(--light-blue);
+  border-radius: var(--radius-m);
+  overflow: hidden;
+  position: absolute;
+  width: 400px;
+  height: 250px;
+  font-size: 0.8em;
+  box-shadow: var(--shadow);
+  opacity: 0;
+  transition: opacity 100ms;
+}
+
+#tooltip-wrapper:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  pointer-events: none;
+  background-image: linear-gradient(to bottom, rgba(255,255,255, 0), rgba(255,255,255, 1) 90%);
+  width: 100%;
+  height: 75px;
+}

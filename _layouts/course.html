@@ -1,0 +1,42 @@
+---
+layout: note
+---
+<p>Notes from <a href="{{ page.link }}" rel="noopener noreferrer" target="_blank" title="{{ page.title }} course page">{{ page.title }}</a> classes.
+
+{% if page.loop != false %}
+	<ol class="two">
+		{% for note in site.notes %}
+			{% if page.course == note.course and page.author == note.author and page.url != note.url %}
+				<li>
+					<a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ol>
+{% endif %}
+
+{% if page.others %}
+
+	<br>
+	<br>
+
+	<hr>
+
+	<br>
+	<br>
+
+	<h2>More notes</h2>
+	<p>Notes by other PISErs:</p>
+
+	<ul>
+		{% for note in site.notes %}
+			{% if page.course == note.course and note.author != page.author %}
+				<li>
+						<a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a> by {{ note.author }}
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+{% endif %}
+
+{{ content }}

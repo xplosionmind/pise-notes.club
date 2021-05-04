@@ -1,9 +1,12 @@
 ---
 redirect_from: ["/phil", "/philosophy", "/intro-to-phil", "/ph", "/intro-ph", "/intro-phil"]
-tags: introduction-to-philosophy
+layout: course
+year: 1
+semester: 1
+link: https://www.unive.it/data/insegnamento/332312
+toc: false
+loop: false
 ---
-Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/insegnamento/332312 "Introduction to Philosophy course syllabus"), divided by topic.
-
 1. [[What is Philosophy|What is Philosophy?]]
 2. [[Fields of Philosophy]]
 3. [[Knowledge and epistemology]]
@@ -13,9 +16,11 @@ Notes from the course on [Introduction to Philosophy](https://www.unive.it/data/
 1. [[Freedom]]
 
 <br>
+<br>
 
-Texts:
-- [[René Descartes]]' *[[Meditations on First Philosophy]]*
+## Texts
+
+- René Descartes' *[[Meditations on First Philosophy]]*
 - [[David Hume]]'s *[[An Enquiry Concerning Human Understanding]]*
 
 <br>

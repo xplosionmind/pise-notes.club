@@ -2,15 +2,17 @@
 ---
 /* TEAM */
 Author: Tommi
+Personal Website: https://tommi.space
 Contact: surfing@tommi.space
-Twitter: @xplosionmind
 Mastodon: @xplosionmind@mastodon.online
 Location: Italy
 
 
 /* THANKS */
-Suggestions and tips: Claudio Faoro, https://claudiofaoro.com
-
+Notes’ authors:
+{% for author in site.data.people %}
+- {{ author.name }}, {{ author.email }}
+{% endfor %}
 
 /* SITE */
 Last update: {{ site.last_modified_at }}

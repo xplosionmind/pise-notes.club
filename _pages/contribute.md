@@ -2,15 +2,16 @@
 layout: page
 title: Contribute
 id: contribute
-permalink: /contrib
+permalink: /contribute
 redirect_from:
-  - /contribute
+  - /contrib
   - /contribution
   - /contributing
 ---
-Please feel free to share and improve this website as you like; the only requisite for contribution is to be a PISE student, former student, or professor.
+Please, feel free to share and improve this website and its content as you wish, as long as you respect the <a rel="license noopener noreferrer" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-The source of these digital set of notes is [this GitHub repository](https://tommi.space/xplosionmind/PISE-notes), which you can freely edit.   
-If you have absolutely no idea what GitHub is and how it works but you'd like to share your notes or contribute in any way to this website, please <a href="mailto:tommiboom@protonmail.com" target="_blank">email me</a>.
+The source of this digital set of notes is written in [Markdown](https://commonmark.org/ "CommonMark homepage"). It can be both reviewed and edited in [this GitHub repository](https://tommi.space/xplosionmind/PISE-notes "PISE-notes source code on GitHub"), which is public and open.   
+If you have absolutely no idea what GitHub is and how it works but you would like to share your notes or help in any way, please <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" target="_blank" rel="me noopener noreferrer">send Tommi an email</a>.
 
-Ideas on how to improve this website, as well as development milestones, are all noted in the [[PISE notes development|development page]].
+Technical ideas on how to improve this website are noted in the [[PISE notes development|development page]].
+If you would like to suggest some improvements you are not able to carry out yourself, please [open an issue](https://github.com/xplosionmind/PISE-notes/issues "PISE-notes issues on GitHub") or <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" target="_blank" rel="me noopener noreferrer">send Tommi an email</a>.

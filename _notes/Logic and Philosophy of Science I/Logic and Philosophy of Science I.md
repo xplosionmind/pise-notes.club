@@ -1,15 +1,19 @@
 ---
-aliases: ["index"]
 redirect_from:
   - /logic
   - /phil-of-science
   - /philosophy-of-science
   - /logic-and-philosophy-of-science
+layout: course
+year: 1
+semester: 1
+period: 2
+link: https://www.unive.it/data/insegnamento/281401
+loop: false
 ---
-Notes from [Logic and Philosophy of Science I](https://www.unive.it/data/insegnamento/332321 "Logic and Philosophy of Science I course syllabus")
-
-Everyone of the topics below is summarized in the [[Supersummary of Logic and Philosophy of Science I|course's Supersummary]].
-{:.box}
+<div class="box">
+	Everyone of the topics below is summarized in the [[Supersummary of Logic and Philosophy of Science I|course's Supersummary]].
+</div>
 
 <br>
 <br>

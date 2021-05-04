@@ -1,6 +1,10 @@
 ---
 author: lili
+layout: course
+link: https://www.unive.it/data/insegnamento/220817
 year: 2
+semester: 2
+period: 3
 ---
 <div class="box">
 	<strong>Note</strong>: These notes are quite messed up and they lack some images. They need to be cleaned up and matched to the original `docx` file, which can be found <a href="/riordinare/IEDS.docx" target="_blank" title="IEDS RAW docx">here</a>

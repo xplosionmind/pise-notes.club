@@ -1,8 +1,9 @@
 ---
 date: 2021-02-17T18:16:28.204427+01:00
 updated: 2021-02-17T18:16:28.204427+01:00
-tags: introduction-to-politics
+layout: course
+year: 1
+semester: 2
+link: https://www.unive.it/data/insegnamento/281391
+toc: false
 ---
-Notes from [Introduction to Politics](https://moodle.unive.it/course/view.php?id=6918 "Introduction to Politics course page"), modules 1 and 2
-
-[[Questions and Answers - introduction to Politics]]

@@ -1,5 +1,4 @@
 ---
-tags: contemporary-history
 aliases: ["Cultural Globalization"]
 ---
 ## Cultural Globalization

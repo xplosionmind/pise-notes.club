@@ -1,16 +1,14 @@
 ---
-author: lili
 redirect_from: ["/ch", "/chistory", "/cont-hist", "/history"]
+layout: course
+author: lili
+others:
+  - ele
+  - tommi
+year: 1
+semester: 1
+link: 'https://www.unive.it/data/insegnamento/218849'
 ---
-Notes from the [Contemporary History](https://www.unive.it/data/insegnamento/332310 "Contemporary History course syllabus") course
-
-## Other notes
-
-- [[Contemporary History by Eleonora Arca]]
-
-<br>
-<br>
-
 # Lecture 2: At the Roots of Globalization
 
 European colonialism, 1450-1750

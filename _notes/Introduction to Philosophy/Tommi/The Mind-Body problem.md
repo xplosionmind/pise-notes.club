@@ -3,15 +3,10 @@ date: 2020-10-06
 ---
 <p class="date">6<sup>th</sup> October 2020</p>
 
----
-
 ### Abbreviations and terminology
 
 - **`TYIT`**: Type Identity Theory
 - **`TOIT`**: Token Identity Theory
-
----
-
 
 ## Leibniz
 
@@ -305,7 +300,7 @@ According to Turing, we should ask ourselves: can a machine trick us? Can the ma
 
 > It is played with three people, a man (A), a woman (B), and an interrogator (C) who may be of either sex. The interrogator stays in a room apart from the other two. The object of the game for the interrogator is to determine which of the other two is the man and which is the woman. He knows them by labels X, and Y, and at the end of the game he says either “X is A and Y is B” or “X is B and Y is A.” (…) We now ask the question, “What will happen when a machine take the part of A in this game?” Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original “Can machines think?
 
-<p class="cite">~ A. Turing, <cite>Computing Machines and Intelligence</cite>, Mind, Vol. LIX. No. 236 1950</p>
+<p class="cite">A. Turing, <cite>Computing Machines and Intelligence</cite>, Mind, Vol. LIX. No. 236 1950</p>
 
 [Touring test](https://www.wikiwand.com/en/Turing_test "Turing test on Wikipedia") on Wikipedia
 

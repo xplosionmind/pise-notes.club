@@ -1,7 +1,6 @@
 ---
 date: 2021-04-14T18:47:33.728490+02:00
 updated: 2021-04-14T18:47:33.728490+02:00
-tags: hoet
 aliases: ["HoET Lecture 3"]
 ---
 <p class="date">30<sup>th</sup> March 2021</p>

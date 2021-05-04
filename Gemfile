@@ -10,7 +10,9 @@ gem "jekyll-last-modified-at"
 gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
-# gem "jekyll-target-blank" # no compatibility with bidirectional links plugin
+#gem "jekyll-target-blank" # no compatibility with bidirectional links plugin
 gem "jekyll-redirect-from"
 gem "jekyll-optional-front-matter"
+gem "jekyll-email-protect"
+#gem "jekyll-pdf", git: "https://github.com/abeMedia/jekyll-pdf" # not working
 #gem "jekyll-mermaid"
