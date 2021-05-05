@@ -10,4 +10,6 @@ link: https://www.unive.it/data/course/332311/
 toc: false
 aliases: ["HoET", "History of Economics"]
 tags: wip
+others:
+  - lili
 ---
