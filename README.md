@@ -2,7 +2,7 @@
 
 # PISE Notes
 
-Please refer to the [homepage](https://pise-notes.tk) for more details
+Please refer to the [homepage](https://pise-notes.club) for more details
 
 <br>
 <br>

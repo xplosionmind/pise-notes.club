@@ -12,7 +12,7 @@ exclude:
   - "_notes/**/private/*"
   - "_notes/**/copyrighted-content/*"
 baseurl:             /
-url:                 "https://pise-notes.tk"
+url:                 "https://pise-notes.club"
 description: >-
   Notes from PISE classes at Ca’Foscari University in Venice
 author: tommi

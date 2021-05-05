@@ -83,7 +83,7 @@ Notes may contain several gaps and inconsistent passages; such unclear parts are
 
 ## Useful links
 
-- [Shared Dropbox] (this website has no affiliation with this link and content uploaded does not correspond to what is on pise-notes.tk)
+- [Shared Dropbox] (this website has no affiliation with this link and content uploaded does not correspond to what is on pise-notes.club)
 - [Calendari e appelli d’esame](https://www.unive.it/pag/8598/ "Calendari e appelli d’esame")
 
 [Shared Dropbox]: https://www.dropbox.com/s/03ri6wyggpj0522/PISE.zip "PISE.zip"

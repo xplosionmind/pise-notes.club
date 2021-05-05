@@ -1677,7 +1677,7 @@ of the earliest works of feminist philosophy, claims women’s right for
 education in order for them to take their role in society, as they are
 essential to the nation
 
-Clara Zetkin = Marxist theorist and activist for women’s rights;
+Clara Z.clubin = Marxist theorist and activist for women’s rights;
 organised the first International Women’s Day
 
 Harriet Taylor Mill (<u>the Enfranchisement of Women</u>)
