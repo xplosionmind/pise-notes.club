@@ -9,4 +9,5 @@ toc: false
 others:
   - lili
   - ele
+redirect_from: ['/politics', '/intro-to-politics']
 ---
