@@ -13,3 +13,7 @@ layout: page
 1. ~~Implement [jekyll-pdf](https://abemedia.co.uk/jekyll-pdf/ "jekyll-pdf") to generate also a PDF for every page~~ (<mark>this plugin is not working</mark>)
 1. an RSS Feed for every subject
 8. Contribution guide
+
+<div class="box">
+	There is something you need and it is not listed? Please open an issue on GitHub or <a href="mailto:{{ 'surfing@tommi.space' | }}" rel="noopener noreferrer" target="_blank" title="">send Tommi an email</a>!
+</div>
