@@ -14,4 +14,4 @@ The source of this digital set of notes is written in [Markdown](https://commonm
 If you have absolutely no idea what GitHub is and how it works but you would like to share your notes or help in any way, please <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" target="_blank" rel="me noopener noreferrer">send Tommi an email</a>.
 
 Technical ideas on how to improve this website are noted in the [[PISE notes development|development page]].
-If you would like to suggest some improvements you are not able to carry out yourself, please [open an issue](https://github.com/xplosionmind/PISE-notes/issues "PISE-notes issues on GitHub") or <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" target="_blank" rel="me noopener noreferrer">send Tommi an email</a>.
+If you would like to suggest some improvements you are not able to carry out yourself, please [open an issue](https://github.com/xplosionmind/PISE-notes/issues "PISE-notes issues on GitHub") or <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" target="_blank" rel="me noopener noreferrer" title="Tommi’s email">send Tommi an email</a>.

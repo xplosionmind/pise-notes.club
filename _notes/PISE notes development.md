@@ -15,5 +15,5 @@ layout: page
 8. Contribution guide
 
 <div class="box">
-	There is something you need and it is not listed? Please open an issue on GitHub or <a href="mailto:{{ 'surfing@tommi.space' | }}" rel="noopener noreferrer" target="_blank" title="">send Tommi an email</a>!
+	There is something you need and it is not listed? Please <a href="https://github.com/xplosionmind/PISE-notes/issues" rel="noopener noreferrer" target="_blank" title="PISE-notes issues on GitHub">open an issue on GitHub </a>or <a href="mailto:{{ 'surfing@tommi.space' | encode_email }}" rel="me noopener noreferrer" target="_blank" title="send Tommi an email">send Tommi an email</a>!
 </div>
