@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<main>
 <article>
   <div>
     <h1>{{ page.title }}</h1>
@@ -12,20 +13,26 @@ layout: default
     </content>
 
     <side style="font-size: 0.9em">
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-      {% endif %}
-    </time>
 
       {% include author.html %}
 
       {% include backlinks.html %}
 
-      {% include edit.html %}
+      <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+        Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      </time>
 
+      <div class="flex">
+        {% if page.content contains '+++' or page.tags contain 'wip' %}
+          <div id="wip">
+            <span class="button">wip</span>
+            <div class="box">These notes are <strong>not complete</strong>, they are in the works in this very moment</div>
+          </div>
+        {% endif %}
+        <a id="edit" class="button" href="https://www.github.com/xplosionmind/pise-notes/blob/main/{{ page.path | uri_escape }}" target="_blank" rel="noopener noreferrer">edit this page</a>
+      </div>
 
       {% if page.toc != false %}
-        <hr>
         <h3>Table of Contents</h3>
         {% include toc.html html=content %}
       {% endif %}
@@ -33,14 +40,5 @@ layout: default
   </div>
 </article>
 
-<br />
-<br />
-
-<hr>
-
-<br />
-<br />
-
-<p>The following is a graph containing all the notes and every topic in the website</p>
-
 {% include notes_graph.html %}
+</main>

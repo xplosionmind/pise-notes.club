@@ -1,6 +1,6 @@
 ---
+author: ele
 ---
-
 ## What is Politics?
 
 DEF: *ongoing competition between people, usually in groups to shape policy in their favour, can be found whenever human competition plays out*

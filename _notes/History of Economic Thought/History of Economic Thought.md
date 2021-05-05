@@ -6,6 +6,8 @@ year: 1
 semester: 2
 period: 4
 CFU: 6
-link: ' https://www.unive.it/data/course/332311/'
+link: https://www.unive.it/data/course/332311/
 toc: false
+aliases: ["HoET", "History of Economics"]
+tags: wip
 ---

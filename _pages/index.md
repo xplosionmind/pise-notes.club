@@ -18,7 +18,7 @@ This is an open set of notes from [***Philosophy, International Studies and Econ
 
 ### First year
 
-<ul>
+<ul class="two">
 	{% for course in site.notes %}
 		{% if course.layout == 'course' and course.year == 1 %}
 			<li><a href="{{ course.url }}" title="{{ course.course }} notes">{{ course.course }}</a></li>
@@ -30,9 +30,19 @@ This is an open set of notes from [***Philosophy, International Studies and Econ
 
 ### Second year
 
-<ul>
+<ul class="two">
 	{% for course in site.notes %}
 		{% if course.layout == 'course' and course.year == 2 %}
+			<li><a href="{{ course.url }}" title="{{ course.course }} notes">{{ course.course }}</a></li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+<br>
+
+<ul class="two">
+	{% for course in site.notes %}
+		{% if course.layout == 'course' and course.year == 3 %}
 			<li><a href="{{ course.url }}" title="{{ course.course }} notes">{{ course.course }}</a></li>
 		{% endif %}
 	{% endfor %}

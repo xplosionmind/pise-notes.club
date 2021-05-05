@@ -35,6 +35,7 @@
   --tool-shadow: 3px 3px 8px #33658A55;
   --inner-shadow: inset 3px 3px 5px #33658A55, inset -3px -3px 5px #FFF4;
   --inner-little-shadow: inset 2px 2px 3px #33658A55, inset -2px -2px 3px #FFF4;
+  --button-shadow: inset 2px 2px 4px #FFFC, inset -2px -2px 4px #33658ABB;
 }
 
 body {
@@ -43,7 +44,6 @@ body {
   margin: 0 auto;
   line-height: 1.7;
   padding: 4vh 6vw;
-  overflow-x: hidden;
   color: var(--text);
   font-size: 1rem;
   max-width: 63em;
@@ -54,9 +54,12 @@ body {
 }
 
 time {
+  color: var(--purple);
+  opacity: .8;
+  margin: 1.2em 0 .6em;
+  font: .9em var(--font-mono);
+  text-align: center;
   display: block;
-  color: var(--dark-grey);
-  margin: 0.5em 0 1em;
 }
 
 footer {
@@ -222,10 +225,10 @@ pre {
 }
 
 .box {
-  margin: 0.5rem auto;
+  margin: .8rem auto;
   padding: 1em;
   background: var(--white);
-  border-radius: var(--radius-m);
+  border-radius: var(--radius-l);
   box-shadow: var(--shadow);
   h3 {
     margin: 0;
@@ -276,8 +279,10 @@ li {
 	}
 }
 
-side ul {
-  margin-left: -1rem;
+side {
+  ul {
+    margin-left: -1rem;
+  }
 }
 
 ::selection {
@@ -291,6 +296,8 @@ b {
 
 main article div h1 {
   text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 @media only screen and (min-width: 950px) {
@@ -302,4 +309,88 @@ main article div h1 {
 	ol.three {
 		columns: 3;
 	}
+}
+
+td,
+th,
+tr {
+	border: solid 1px var(--lightest-blue);
+    padding: .2rem;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+  font-size: .8em;
+}
+
+button,
+.button {
+	display: inline-block;
+	padding: 1px 9px;
+	font-size: 1.1em;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: var(--radius-m);
+	box-shadow: var(--button-shadow);
+    background: var(--purple);
+    color: var(--white);
+	text-align: center;
+	hyphens: none;
+    border: none !important;
+    margin: .8rem;
+	&:hover,
+	&:focus {
+		box-shadow: none;
+	}
+	&:active {
+		box-shadow: var(--inner-shadow);
+	}
+    &::after {
+      content: none;
+    }
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.vertical {
+	flex-direction: column;
+	height: 100%;
+}
+
+content {
+  overflow-x: scroll;
+}
+
+.page {
+  max-width: 800px;
+  margin: auto;
+}
+
+#wip {
+  span {
+    background: var(--orange);
+    color: var(--white);
+  }
+  .box {
+    display: none;
+    position: fixed;
+    bottom: 3vw;
+    right: 3vw;
+
+  }
+  &:hover,
+  &:active,
+  &:focus {
+    .box {
+      display: block;
+    }
+  }
 }

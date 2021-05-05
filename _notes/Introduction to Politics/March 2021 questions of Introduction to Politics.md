@@ -1,7 +1,6 @@
 ---
 date: 2021-03-24T11:43:57.368435+01:00
 updated: 2021-03-24T11:43:57.368435+01:00
-tags: introduction-to-politics
 ---
 All of the questions posed during the oral exams of [[Introduction to Politics]] in March 2021.
 

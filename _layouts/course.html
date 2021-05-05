@@ -13,9 +13,6 @@ layout: note
 			{% endif %}
 		{% endfor %}
 	</ol>
-{% endif %}
-
-{% if page.others %}
 
 	<br>
 	<br>
@@ -25,18 +22,30 @@ layout: note
 	<br>
 	<br>
 
+{% endif %}
+
+{% if page.others %}
 	<h2>More notes</h2>
 	<p>Notes by other PISErs:</p>
 
-	<ul>
+	<ul class="two">
 		{% for note in site.notes %}
 			{% if page.course == note.course and note.author != page.author %}
 				<li>
-						<a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a> by {{ note.author }}
+						<a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a>
 				</li>
 			{% endif %}
 		{% endfor %}
 	</ul>
+
+	<br>
+	<br>
+
+	<hr>
+
+	<br>
+	<br>
+
 {% endif %}
 
 {{ content }}

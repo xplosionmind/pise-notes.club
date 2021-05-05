@@ -6,4 +6,7 @@ year: 1
 semester: 2
 link: https://www.unive.it/data/insegnamento/281391
 toc: false
+others:
+  - lili
+  - ele
 ---
