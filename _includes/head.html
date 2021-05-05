@@ -47,7 +47,7 @@
   <meta property="article:author" content="https://tommi.space">
   {% endif %}
 
-  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}" />
 
   {% if page.image %}
   <meta property="og:image" content="{{ page.image }}">
