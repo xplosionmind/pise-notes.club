@@ -13,7 +13,7 @@ Physiocrats were led by the french [François Quesnay], doctor to [Madame the Po
 
 *Phisiocracy* comes from the Greek _φύσις_ + _κράτος_, meaning “power of nature”; then it comes with no surprise that a great attention is reserved to agriculture. The contribution of this school to the economical thought can be understood by placing it in relation with the historical context of its epoch.
 
-In the mid-XVIII century, France still suffered some problems such as inefficient taxation, obsolete production techniques, and feudal economic organization as a legacy of its previous bad government, and it tried to reach Britain, the true economic power of the time.  
+In the mid-XVIII century, <u>France still suffered some problems</u> such as inefficient taxation, obsolete production techniques, and feudal economic organization as a legacy of its previous bad government, and it tried to reach Britain, the true economic power of the time.  
 Phisiocrats’ purpose was to take France out of its financial crisis and bring it to the economical position the UK had. They focused on three main points:
 
 <br>
@@ -21,7 +21,7 @@ Phisiocrats’ purpose was to take France out of its financial crisis and bring 
 
 ## Better agricultural productivity
 
-Since agriculture played a key role in France’s economy, Phisiocrats studied a way to maximize its efficiency. This could be possible only by using more advanced farming machinery, which Quesnay considered crucial to bring cultivation to a larger scale. Nevertheless, better tools for agriculture could not be acquired since there was not enough capital to invest. It followed that capital accumulation was trying to be reached by introducing a price system able to guarantee farmers more profit and allow them to invest in newer machines.
+Physiocrats studied a way to <u>maximize agriculture efficiency</u>, since it played a key role in the French economy. This could be possible only by using more advanced farming machinery, which Quesnay considered crucial to bring cultivation to a larger scale. Nevertheless, better tools for agriculture could not be acquired since there was not enough capital to invest. It followed that **capital accumulation** was trying to be reached by <u>introducing a price system able to guarantee farmers more profit and allow them to invest in newer machines</u>.
 
 <br>
 <br>
@@ -50,7 +50,7 @@ Its purpose was to <u>show the conditions to be fulfilled in order to ensure the
 Society is composed by three classes:
 - **landowners**, who live by gaining a surplus by the productive class
 - the **productive class**, namely agriculture, which produces agricultural goods, and it is defined productive since it is <u>responsible for the surplus</u>, or the **net product**
-- the **sterile class**, namely the manufacturing sector, which needs a quantity of agricultural goods to produce manufactured goods. This class is defined as “sterile” since the value of their output is considered equal to the overall value of the input.
+- the **sterile class**, namely the <u>manufacturing sector</u>, which needs a quantity of agricultural goods to produce manufactured goods. This class is defined as “sterile” since <u>the value of their output is considered equal to the overall value of the input</u>.
 
 Some key points to be underscored about the *Tableau*:
 - **Reproduction**: the 2 billions *livres* return to the farmers, furthermore both agriculture and manufacturing recover their goods in order to be able to start a new production cycle.

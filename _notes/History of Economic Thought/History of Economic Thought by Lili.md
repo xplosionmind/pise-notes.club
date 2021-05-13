@@ -1,31 +1,43 @@
 ---
 author: lili
 ---
-Introduction
+## Introduction
 
 Many people believe that the economy is solely related to money/efficiency, or investments/time. However, this is a common misconception: <u>many economists disagree on many aspects, and this increases the confusion regarding the definition of economy itself</u>.
 
-But we can delineate two main definitions:
+<br>
 
-THE “MAINSTREAM” DEFINITION (ME)
+We can delineate two main definitions:
 
-Economy is <u>the science studying human behaviour as the relationship between man-power and scarce means</u>. The object of economics is the behaviour of individuals; in general, an economic agent has limited resources, implying that the economic problem faced by these agents is how to make the best use of limited resources. Their choices are based on what we call a rationality criterion, meaning that everyone is able to compare costs and benefits following a set of alternative scenarios. Typically, an individual maximises its benefits and minimises its losses. <u>Society is the aggregation of these individual behaviours</u>.
+### Mainstream Economics (ME)
 
-THE HETERODOX DEFINITION (HE)
+Economy is <u>the science studying human behavior as the relationship between man-power and scarce means</u>. The object of economics is the **behavior** of individuals; in general, an economic agent has limited resources, implying that the economic problem faced by these agents is <u>how to make the best use of limited resources</u>. Their choices are based on what we call a **rationality criterion**, meaning that everyone is able to compare costs and benefits following a set of alternative scenarios. Typically, <u>an individual maximizes its benefits and minimizes its losses</u>. Society is the aggregation of these individual behaviors.
 
-<u>Economics is the study of social economic activities that generate an array of surplus needed to sustain social individuals and society as a whole</u>. From this point of view, social economic activity is something related to a constant process of change (e.g.: production activity depends on a specific historical time period, and this process might change over time). <u>Economic activities are interlinked with other aspects, such as religion, social culture, etc</u>.
+<br>
 
-Given the pros and cons of each definition, <u>we can say that the heterodox definition is preferable due to its dynamic nature that successfully adapts to different historical periods</u>. Different schools of thought might use the same method, but focusing on different topics.
+### Heterodox Economics (HE)
+
+Economics is the study of social economic activities that generate an array of **surplus** needed to sustain social individuals and society as a whole. From this point of view, social economic activity is something related to <u>a constant process of change</u> (e.g.: production activity depends on a specific historical time period, and this process might change over time). <u>Economic activities are interlinked with other aspects</u>, such as religion, social culture, etc.
+
+<br>
+
+Given the pros and cons of each definition, we can say that the heterodox definition is preferable due to its <u>dynamic nature that successfully adapts to different historical periods</u>. Different schools of thought might use the same method, but focusing on different topics.
+
+<br>
+<br>
 
 There are three main schools of thought:
 
-ANCIENT SCHOOL OF ECONOMICS
+## Ancient School of Economics
 
-These schools have had an impact in past centuries, but with cultural, economic and social evolution they are no longer present. The Scholastic school represented the prevailing branch of thought during western medieval society, when Catholic Church represented the highest earthly power (in terms of wealth and land) and spiritual power.
+These schools have had an impact in past centuries, but with cultural, economic and social evolution they are no longer present. The Scholastic school represented the prevailing branch of thought during western **medieval society**, when Catholic Church represented the highest earthly power (in terms of wealth and land) and spiritual power.
 
-With the decline of the European feudal system and the emergence of nation-states, the Mercantilist theory conquered the scene. Although European countries were steeped in mercantilist economic policies, an alternative view was represented by Physiocrats which focused on the development of agricultural sector as the only way to increase the productivity of a State.
+With the decline of the European feudal system and the emergence of nation-states, the **Mercantilist** theory conquered the scene. Although European countries were steeped in mercantilist economic policies, an alternative view was represented by Physiocrats which focused on the development of **agricultural sector** as the only way to increase the productivity of a State.
 
-OLD SCHOOL OF THOUGHT
+<br>
+<br>
+
+## Old School of thought
 
 This school of thought is still quite influential because it deeply influences the scholars of our period. It includes the following schools of thought:
 

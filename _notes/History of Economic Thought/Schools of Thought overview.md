@@ -1,6 +1,6 @@
 ---
 date: 2021-04-14T18:47:33.728490+02:00
-updated: 2021-04-14T18:47:33.728490+02:00
+updated: 2021-05-12T10:57:59.069664+02:00
 aliases: ["HoET Lecture 3"]
 ---
 <p class="date">30<sup>th</sup> March 2021</p>
@@ -28,7 +28,7 @@ From the XVI to XIX century, increasing level of knowledge, a rise of the induct
 
 ## Mercantilism
 
-Characterized on big nations which establish contracts with merchants. The main scholars were merchants, interested in maximizing the accumulation of gold and silver. The best method for gaining wealth was trade, which benefited countries in two ways:
+Characterized on big nations which establish contracts with merchants. It owes its name to the [marquis De Mirabeau]. The main scholars were merchants, interested in maximizing the accumulation of gold and silver. The best method for gaining wealth was trade, which benefited countries in two ways:
 - <u>importation from colonies</u> (no money flows)
 - Export of goods to other countries (earning money)
 
@@ -77,3 +77,4 @@ Such formula has been outlined by John Law and William Petty
 [Historical school]: https://en.wikipedia.org/wiki/Historical_school_of_economics "Historical school of Economics"
 [Institutionalism]: https://en.wikipedia.org/wiki/Institutional_economics "Institutional economics on Wikipedia"
 [Mercantilism]: https://en.wikipedia.org/wiki/Mercantilism "Mercantilism on Wikipedia"
+[marquis De Mirabeau]: https://en.wikipedia.org/wiki/Victor_de_Riqueti,_marquis_de_Mirabeau 'Victor de Riqueti, marquis de Mirabeau on Wikipedia'

@@ -5,7 +5,8 @@ layout: note
 
 {% if page.loop != false %}
 	<ol class="two">
-		{% for note in site.notes %}
+		{% assign notes = site.notes | sort: 'lesson' %}
+		{% for note in notes %}
 			{% if page.course == note.course and page.author == note.author and page.url != note.url %}
 				<li>
 					<a href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}</a>

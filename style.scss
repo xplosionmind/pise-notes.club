@@ -394,3 +394,11 @@ content {
     }
   }
 }
+
+.missing,
+.wtf {
+  padding: 2px 5px;
+  background: var(--orange);
+  color: var(--white);
+  border-radius: var(--radius-s);
+}

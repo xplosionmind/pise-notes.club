@@ -3,6 +3,7 @@ date: 2021-03-29T10:00:18.688738+02:00
 updated: 2021-04-14T11:33:14.067790+02:00
 tags: hoet
 aliases: ["Economics: definitions and methods", "HoET Lecture 1"]
+lesson: 1
 ---
 <p class="date">29<sup>th</sup> March 2021</p>
 

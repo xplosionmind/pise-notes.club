@@ -8,10 +8,12 @@ layout: page
 ## Roadmap
 
 1. Full text search
-1. Add Mermaid support
+1. style `<span class="wtf">???</span>`, `<span class="missing">+++</span>`, etc.
 6. Improve copyrighted data management (pdf of books, lessons presentations, notes of other students, etc.)
-1. ~~Implement [jekyll-pdf](https://abemedia.co.uk/jekyll-pdf/ "jekyll-pdf") to generate also a PDF for every page~~ (<mark>this plugin is not working</mark>)
-1. an RSS Feed for every subject
+1. Add Mermaid support
+2. Link API to a service that transforms that page into a PDF (ability to set `display: none` for some classes?)
+3. ~~Implement [jekyll-pdf](https://abemedia.co.uk/jekyll-pdf/ "jekyll-pdf") to generate also a PDF for every page~~ (<mark>this plugin is not working</mark>)
+4. an RSS Feed for every subject
 8. Contribution guide
 
 <div class="box">
