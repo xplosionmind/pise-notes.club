@@ -1,7 +1,6 @@
 ---
 date: 2021-05-10T10:04:07.312338+02:00
 updated: 2021-05-10T10:04:07.312338+02:00
-tags: 
 ---
 ## Life
 
@@ -171,7 +170,7 @@ G = f(s;L)
 $$
 
 These two social classes have to exchange goods to ensure the stability of the social system: farmers buy labor from workers, and workers buy grain from farmers. Value of grain must be such as to guarantee:
-1. a profit for farmers to regain the cost of the seeds, exploited in the production process
+1. a profit for farmers to regain the cost of the seeds, used in the production process
 2. a purchasing ability subsistence goods for workers
 
 <br>
@@ -181,9 +180,7 @@ According to some principles, the theory of value can be applied to more complex
 - **Value in use**: the utility of owning a specific good
 - **Value in exchange**: the power of a commodity to purchase other goods, observed the market
 	- **market price**: the price <u>determined by demand and supply</u>, observed in the market in a certain period
-	- **natural price**
-		- a theoretical price, consisting of the reproduction conditions of the economy<span class="wtf">???</span>
-		- the price enabling workers to survive and firms to obtain sufficient profits in order to continue production in the future.<span class="wtf">???</span>
+	- **natural price**: the theoretical price corresponding to <u>the reproduction conditions of the economic system</u>: it is the price enabling workers to survive and firms to obtain sufficient profit to continue production in the future. Natural price can be measured in many ways, neither of which will lead Smith to satisfactory results.
 
 <br>
 
@@ -193,9 +190,10 @@ Smith uses the term <q>natural price</q> and sometimes he refers to it as <q>val
 
 #### Labor embodied
 
-The value of a commodity corresponds to the <u>quantity of labor</u> used for its production.  
+The value of a commodity corresponds to the <u>quantity of labor</u> required for its production.  
 The problem of this theory is that it cannot work in civilizations which are not primitive and which <u>do not have social classes subdivision</u>.
 
+{% comment %}
 Assuming that:
 - it is produced only one good (grain, $X_g$)
 - $X_g$ is produced by using labor ($L$) and seeds ($K$, where $K < X_g$, since $K$ is the portion of grains used as seeds)
@@ -212,11 +210,19 @@ $$
 $$
 
 where $I=\frac{L}{X_g}$ and $k=\frac{K}{X_g}$
+{% endcomment %}
 
 #### Labor commanded
 
 The value of a commodity is the quantity of labor needed to obtain a salary ($w$) corresponding to the value ($p$) of the commodity itself, or the quantity of labor a given commodity can purchase.
 
+$$
+LE = \frac{p}{w}
+$$
+
+<b class="wtf">???</b>: shouldn’t it be $LC = …$ ?
+
+{% comment %}
 Taking the same assumptions of LE, the value of $X_g$ in monetary terms is
 
 $$
@@ -238,8 +244,20 @@ where
 - $V$:= quantity of grain received by capitalists as profit
 - $\pi$:= the profit rate, equal to $V\over{K}$
 - $\omega$:= salary in monetary terms
+{% endcomment %}
 
-<span class="missing">+++</span>
+#### Adding-up-theory
+
+The value of a commodity is equal to the sum of rents, wages and profits. As a consequence, this theory <u>cannot work without determining sales’ revenues and budget constraints among different source of income</u>.
+
+When the demand for a particular good corresponds to the optimal supply, natural price ($p_n$) is equal to the market price ($p_t$).
+
+$$
+p_n = p_t
+$$
+
+Nevertheless, according to Smith this seldom happens, because the economy is continuously hit by supply and demand shocks.  
+Such shocks make the market price perpetually fluctuate around the natural price, but never matching it for a longer time.
 
 [Adam Smith]: https://en.wikipedia.org/wiki/Adam_Smith "Adam Smith on Wikipedia"
 [Francis Hutcheson]: https://en.wikipedia.org/wiki/Francis_Hutcheson_(philosopher) "Francis Hutcheson on Wikipedia"

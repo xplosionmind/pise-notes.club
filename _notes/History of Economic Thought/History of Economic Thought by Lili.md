@@ -1,5 +1,6 @@
 ---
 author: lili
+redirect_from: ['/hoet-lili', '/lili-hoet', '/hoet-by-lili']
 ---
 ## Introduction
 
@@ -173,7 +174,7 @@ Individuals’ main objective was to survive, and thus there was no room for the
 
 The Ancient Greek and Roman Empires can be considered the main components of these types of economies; but <u>while the Greek Empire was based on small and self-sufficient city-states, Rome formed a big state that needed to handle everything through functionaries, taxation, etc.</u>
 
-Nonetheless, both Empires were hierarchically organised:
+Nonetheless, both Empires were hierarchically organized:
 
 Government
 
@@ -185,7 +186,7 @@ Major thinkers had long committed themselves to discovering what conditions made
 
 <u>FEUDALISM (476 A.D. - 1500)</u>
 
-In this era, trade was interrupted and society had the need to reorganise itself. It did so by centring its economy around manors (lands controlled by landlords and cultivated by serfs, who are actually quite different from slaves). <u>Serfs actually worked according to a contract they sign with the landlord, who, in return for their manual labour, provided them with prime necessities.</u> This is very different form slave labour, where slaves are exploited and never repaid.
+In this era, trade was interrupted and society had the need to reorganize itself. It did so by centring its economy around manors (lands controlled by landlords and cultivated by serfs, who are actually quite different from slaves). <u>Serfs actually worked according to a contract they sign with the landlord, who, in return for their manual labor, provided them with prime necessities.</u> This is very different form slave labor, where slaves are exploited and never repaid.
 
 In this era, society’s organisation remains hierarchical:
 
@@ -237,7 +238,7 @@ For this reason, banks became more relevant in this period. Moreover, the financ
 
 GLOBAL CAPITALISM (1980’s - today)
 
-This phase is characterised by intense interaction among different countries, which is a key factor in their economic development. Nonetheless, this connection is also fundamental for the understanding of crises, whose spread is known as the “spillover effect”.
+This phase is characterized by intense interaction among different countries, which is a key factor in their economic development. Nonetheless, this connection is also fundamental for the understanding of crises, whose spread is known as the “spillover effect”.
 
 In analysing these three stages of capitalism, it must be noted that there are different levels of complexity (which are related to different intellectual contributions) to accompany each stage:
 
@@ -279,7 +280,7 @@ MERCANTILISM (William Petty)
 
 PHYSIOCRACY (François Quesnay)
 
-The ideas formulated by these schools were related to a market-based economy and to a period of time characterised by the growing influence of empiricism and the inductive approach. The most important among the empiricists was Francis Bacon, whose views greatly influenced William Petty.
+The ideas formulated by these schools were related to a market-based economy and to a period of time characterized by the growing influence of empiricism and the inductive approach. The most important among the empiricists was Francis Bacon, whose views greatly influenced William Petty.
 
 <u>MERCANTILISM</u>
 
@@ -315,17 +316,15 @@ Velocity and output can be considered as fixed quantities, and therefore an incr
 
 In this period, raging conflicts cause a reduction in imports of silver and gold. In order to restore equilibrium, the export of goods increases, resulting in the production of money. This can be explained by a re-elaboration of the quantity theory of money by John Law and William Petty:
 
-M x V = P x Y
+$$
+M \cdot V = P \cdot Y
+$$
 
 Where:
-
-V is fixed
-
-Y increases in order to support exports
-
-P is law
-
-M increases
+- $V$ is fixed
+- $Y$ increases in order to support exports
+- $P$ is law
+- $M$ increases
 
 William Petty (1623 - 1687)
 
@@ -337,9 +336,9 @@ He acknowledged, however, that scientific experimentation was complex and hard t
 
 Petty’s main contribution to the study of economics concerns:
 
-LABOUR-THEORY OF VALUE
+labor-THEORY OF VALUE
 
-Petty firstly explained the concept of value. From his point of view, the value of goods tends to fluctuate around a central value called natural value, which <u>corresponds to the costs of production (the amount of labour and land employed in the production process)</u>.
+Petty firstly explained the concept of value. From his point of view, the value of goods tends to fluctuate around a central value called natural value, which <u>corresponds to the costs of production (the amount of labor and land employed in the production process)</u>.
 
 Pa, t = Lt + Tt + Vt
 
@@ -347,7 +346,7 @@ Where:
 
 Pa, t = value of a good “a” at time “t”
 
-Lt = labour employed at time “t”
+Lt = labor employed at time “t”
 
 Tt = land employed at time “t”
 
@@ -365,19 +364,19 @@ There are two problems with this approach:
 
 Petty was never able to classify what the convergence mechanism is about.
 
-It doesn’t allow us to compare two different goods in terms of their exchange value, since a proper unit of measurement would require us to use one single magnitude (either land or labour); Petty didn’t manage to find a way to convert land into labour, and vice-versa.
+It doesn’t allow us to compare two different goods in terms of their exchange value, since a proper unit of measurement would require us to use one single magnitude (either land or labor); Petty didn’t manage to find a way to convert land into labor, and vice-versa.
 
-DIVISION OF LABOUR
+DIVISION OF labor
 
-Petty believed that <u>society is a complex organism where different groups of workers have different roles in order to ensure the functionality and survival of this society.</u> According to him, these roles were organised hierarchically on the basis of the kind of goods produced.
+Petty believed that <u>society is a complex organism where different groups of workers have different roles in order to ensure the functionality and survival of this society.</u> According to him, these roles were organized hierarchically on the basis of the kind of goods produced.
 
-The highest position was occupied by labourers in the agricultural sector, since Petty believed that <u>this was the only sector capable of producing enough surplus to support the entire society.</u> The key role of agriculture was indirectly proven by the existence of rent.
+The highest position was occupied by laborers in the agricultural sector, since Petty believed that <u>this was the only sector capable of producing enough surplus to support the entire society.</u> The key role of agriculture was indirectly proven by the existence of rent.
 
-Moreover, <u>Petty introduced a technical division on a firm-level with the idea that an efficient organisation within firms could improve labour productivity.</u> Petty could be considered a forerunner of Adam Smith’s main ideas.
+Moreover, <u>Petty introduced a technical division on a firm-level with the idea that an efficient organisation within firms could improve labor productivity.</u> Petty could be considered a forerunner of Adam Smith’s main ideas.
 
 FOREIGN TRADE
 
-Petty’s views about international trade developed during an age of mature mercantilism, characterised by a <u>sudden reduction in the inflow of precious metals from the colonies.</u> This suggests that the only way to increase the wealth of nations in monetary terms was to favour exports. Such a view was represented by the new quantity theory of money.
+Petty’s views about international trade developed during an age of mature mercantilism, characterized by a <u>sudden reduction in the inflow of precious metals from the colonies.</u> This suggests that the only way to increase the wealth of nations in monetary terms was to favour exports. Such a view was represented by the new quantity theory of money.
 
 FISCAL ASPECTS
 
@@ -459,10 +458,6 @@ Needs a quantity of agricultural gods to produced manufactured goods. Within the
 
 In the case below, T represents the time in which the analysis starts and corresponds to the end of the previous productive cycle. Here, output equals 5 billion in agriculture and 2 billion in manufacturing. <u>Money (2 billion) is in the hands of the agricultural sector. At the end of one cycle, the same situation reoccurs, demonstrating the fact that the economy produced itself.</u>
 
-<img src="media/image1.png" style="width:3.10235in;height:1.08117in" /><img src="media/image2.png" style="width:2.50438in;height:4.14977in" />
-
-<img src="media/image3.png" style="width:2.82054in;height:4.27859in" />
-
 Several points should be emphasised:
 
 REPRODUCTION
@@ -479,25 +474,27 @@ Every class is connected to all the others, and thus the process of exchanges al
 
 Classical Economic Thought
 
-Classical economics (also referred to as political economy) represents <u>18th/19th-century</u> mainstream economics. The Scottish philosopher Adam Smith (<u>1723 - 1790</u>) is generally considered to be the founder of this school. Other important figures are Jean-Baptiste Say, Thomas Robert Malthus, and David Ricardo. It is also possible to include Karl Marx in this group, as he used the analytical tools typical of classical schools (although he criticised them).
+Classical economics (also referred to as political economy) represents <u>18th/19th-century</u> mainstream economics. The Scottish philosopher Adam Smith (<u>1723 - 1790</u>) is generally considered to be the founder of this school. Other important figures are Jean-Baptiste Say, Thomas Robert Malthus, and David Ricardo. It is also possible to include Karl Marx in this group, as he used the analytical tools typical of classical schools (although he criticized them).
 
-These authors lived during an age of industrial capitalism (<u>1750’s - 1900’s</u>), characterised by the use of very expensive machinery. In order to invest in it and hire workers, the entrepreneur’s primary focus during this period is profit. <u>The money invested (M) in machinery and workers, who produce a given commodity (C), is a smaller sum than the final value (M’)</u>:
+These authors lived during an age of industrial capitalism (1750’s - 1900’s), characterized by the use of very expensive machinery. In order to invest in it and hire workers, the entrepreneur’s primary focus during this period is profit. <u>The money invested ($M$) in machinery and workers, who produce a given commodity ($C$), is a smaller sum than the final value ($M^\prime$)</u>:
 
-M —&gt; C —&gt; M’
+$$
+M \rightarrow C \rightarrow M^\prime
+$$
 
-The uncertainty regarding the possibility of obtaining M’ &gt; M leads to the exploitation of workers and, together with the increase in population during those years, resulted in incredibly low wages. Such conditions created the background for the development of classical economic theories. In particular, classical economists shared some basic ideas:
+The uncertainty regarding the possibility of obtaining $M^\prime > M$ leads to the exploitation of workers and, together with the increase in population during those years, resulted in incredibly low wages. Such conditions created the background for the development of classical economic theories. In particular, classical economists shared some basic ideas:
 
 An interest in growth and development, which they thought would culminate in a stationary state, where the economy would just reproduce itself, resulting in zero growth (this is a pessimistic view regarding the capacity of capitalism in guaranteeing growth in the long-run)
 
 The concentration on the cost of production is the main determinant of price, and thus the value of goods should correspond to the cost sustained by entrepreneurs
 
-There is considerable concern regarding the distribution of income between labour, land, and capital in the form of wages, rents and profits
+There is considerable concern regarding the distribution of income between labor, land, and capital in the form of wages, rents and profits
 
-Adam Smith (1723-1790)
+## Adam Smith (1723-1790)
 
-Smith was born in <u>1723</u> in Scotland. In University, he came under the influence of Francis Hutcheson, who gave lectures on economic issues and who brought Smith into contact with the philosopher David Hume. The main economic ideas developed by Smith can be summarised in:
+Smith was born in <u>1723</u> in Scotland. In University, he came under the influence of Francis Hutcheson, who gave lectures on economic issues and who brought Smith into contact with the philosopher David Hume. The main economic ideas developed by Smith can be summarized in:
 
-<u>MOTIVATIONS OF HUMAN ACTIONS</u>
+### Motivations of human actions
 
 The motivations for human actions are fundamental for Smith’s view of economy, which was heavily influenced by Hutcheson’s idea that all men are not purely self-interested. <u>Specifically, Smith believed that the proper functioning of society depended on self-interest and moral rules: men are guided by self-interest, which is moderated by sympathy for other people’s interests (the ability to share their feelings).</u>
 
@@ -511,7 +508,7 @@ APPROVAL BY COMMUNITY
 
 Approval by people belonging to the same community as an individual.
 
-<u>THE ROLE OF THE GOVERNMENT</u>
+### The role of the government
 
 The mitigation of self-interest, which links the pursuit of individual desires and the social benefit, is all at the core of Smith’s notion of the Invisible Hand: <u>competitive market exchanges inspired by self-interest and moral rules are the invisible force which guarantees social well-being.</u>
 
@@ -519,19 +516,19 @@ It must be noted that, according to Smith, the pursuit of mitigated self-interes
 
 Smith believed that the government is effective in:
 
-Guaranteeing national defence
+- Guaranteeing national defense
+- Administrating justice
+- Subsidizing mass education
 
-Administrating justice
+Undertaking public endeavors when they are socially beneficial and privately unprofitable
 
-Subsidising mass education
-
-Undertaking public endeavours when they are socially beneficial and privately unprofitable
-
-<u>Nonetheless, Smith is sceptical regarding the role of governments in economic decisions, and thus he distances himself from mercantilism, according to which kings decisively contribute to trade</u>; for Smith, this causes an ineffective allocation of resources.
+<u>Nonetheless, Smith is skeptical regarding the role of governments in economic decisions, and thus he distances himself from mercantilism, according to which kings decisively contribute to trade</u>; for Smith, this causes an ineffective allocation of resources.
 
 For these reasons, Smith could be considered a supporter of laissez-faire economics.
 
-<u>DETERMINANTS OF NATIONAL WEALTH</u>
+<br>
+
+### Determinants of national wealth
 
 One of the crucial objectives of economics for Smith is <u>the study of the nature and causes of the wealth of nations</u>. He identifies this wealth as per capita income, which depends on two major factors:
 
@@ -541,27 +538,27 @@ The share of citizens employed in the production process
 
 Aka:
 
-(y/N) = (L/N) x Pr
+$$
+\frac{y}{N} = \frac{L}{N} \cdot Pr
+$$
 
 Where:
+- $y\over{N}$:= per capita income
+- $Pr$:= productivity
 
-y/N = per capita income
-
-Pr = productivity
-
-Per capita income ultimately <u>depends on the share of citizens employed in productive activity and on the productivity of employees</u> (which depends on division of labour and the size of markets). The division of labour is particularly efficient when we want to maximise production, but this division can only occur in large markets (<u>the size of a market depends on the level of liberal policies introduced by public authorities and the level of development of transports/communications</u>).
+Per capita income ultimately <u>depends on the share of citizens employed in productive activity and on the productivity of employees</u> (which depends on division of labor and the size of markets). The division of labor is particularly efficient when we want to maximize production, but this division can only occur in large markets (<u>the size of a market depends on the level of liberal policies introduced by public authorities and the level of development of transports/communications</u>).
 
 Smith believes that the introduction of policies aiming at the elimination of the obstacles to free trade and to the favour of market expansion may set a process into motion:
 
-THE EXPANSION OF MARKETS —&gt; INCREASED DIVISION OF LABOUR —&gt; INCREASED PRODUCTIVITY —&gt; INCREASED PER CAPITA INCOME —&gt; FURTHER EXPANSION OF THE MARKET
+THE EXPANSION OF MARKETS —&gt; INCREASED DIVISION OF labor —&gt; INCREASED PRODUCTIVITY —&gt; INCREASED PER CAPITA INCOME —&gt; FURTHER EXPANSION OF THE MARKET
 
 Smith also makes a fundamental distinction between:
 
-PRODUCTIVE LABOUR (L)
+PRODUCTIVE labor (L)
 
 Employed in the production of goods
 
-UNPRODUCTIVE LABOUR
+UNPRODUCTIVE labor
 
 Employed in the provision of services
 
@@ -573,15 +570,15 @@ Institutional elements and customs (e.g.: laws on education
 
 The stage reached by the process of accumulation (the productive utilisation of the surplus resulted from the economy, and it can include investments in new means for production or subsistence for additional productive workers)
 
-Ultimately, <u>Smith emphasises the side effects of fragmented labour, and especially its ability to reduce the cognitive skills of workers, despite their native intelligence.</u> Nonetheless, the positive effects of the division of labour overcome the negative ones.
+Ultimately, <u>Smith emphasises the side effects of fragmented labor, and especially its ability to reduce the cognitive skills of workers, despite their native intelligence.</u> Nonetheless, the positive effects of the division of labor overcome the negative ones.
 
 <u>ECONOMIC GROWTH AND STATIONARY ECONOMICS</u>
 
-<u>The division of labour undoubtedly results in a rapid increase in productivity, which, in turn, leads to the growth of the economy</u>. This, however, brings about two relevant interrelated questions:
+<u>The division of labor undoubtedly results in a rapid increase in productivity, which, in turn, leads to the growth of the economy</u>. This, however, brings about two relevant interrelated questions:
 
-What is the element that forces society into the continuous division of labour and economic growth?
+What is the element that forces society into the continuous division of labor and economic growth?
 
-Smith believes that the answer lies in all of society’s insatiable desire to better itself which, in a modern economy, consists of the desire to increase entrepreneurs’ proper revenue. <u>This pushes them to invest in new machinery, which allows for a finer division of labour, and thus an increase in productivity and economic growth.</u> Because of competition, the profit rates obtained in different branches should be equal or should tend towards equality.
+Smith believes that the answer lies in all of society’s insatiable desire to better itself which, in a modern economy, consists of the desire to increase entrepreneurs’ proper revenue. <u>This pushes them to invest in new machinery, which allows for a finer division of labor, and thus an increase in productivity and economic growth.</u> Because of competition, the profit rates obtained in different branches should be equal or should tend towards equality.
 
 How do we know that this tendency towards growth will continue and won’t come to an abrupt stop?
 
@@ -601,7 +598,7 @@ They receive wages as their income, which are pushed to a subsistent level by:
 
 Capitalists’ ability to influence laws regarding workers
 
-Workers’ competition on the labour market
+Workers’ competition on the labor market
 
 Workers don’t contribute to the wealth of the nation, even if they contribute to the production of it.
 
@@ -615,115 +612,110 @@ LANDLORDS/LANDOWNERS
 
 They own the land and receive rent as income; they don’t own capital and don’t have any incentive to accumulate it and contribute to the growth of the wealth of a nation.
 
-It is crucial to emphasise that <u>agricultural activities are not the only ones to produce surplus in Adam Smith’s theory</u>: this surplus can also be obtained through any productive activity, particularly in the industry sector. It’s the result of human labour, and what interests economists is the problem of how surplus can be measured and how it is distributed throughout social classes. These issues are later addressed by the theory of value.
+It is crucial to emphasise that <u>agricultural activities are not the only ones to produce surplus in Adam Smith’s theory</u>: this surplus can also be obtained through any productive activity, particularly in the industry sector. It’s the result of human labor, and what interests economists is the problem of how surplus can be measured and how it is distributed throughout social classes. These issues are later addressed by the theory of value.
 
 <u>THE THEORY OF VALUE</u>
 
 <u>The theory of value is one of Smith’s central contributions (and also that of other classical economists) because it forms the basis of the functioning of an economic system divided in social classes and sectors.</u>
 
-Let’s consider a simple economy composed of one agricultural sector and by two classes: workers and farmers. Let’s also suppose that, to produce a certain amount of grain (Xg), the farmer uses seeds (s) and labour (L):
+Let’s consider a simple economy composed of one agricultural sector and by two classes: workers and farmers. Let’s also suppose that, to produce a certain amount of grain ($X_g$), the farmer uses seeds ($s$) and labor ($L$):
 
-Xg = f(s ; L)
+$$
+X_g = f(s;L)
+$$
 
-<u>The two social classes exchange goods and services in order to ensure the functioning of the economic system</u>; farmers have to buy labour from the workers (input) and the workers have to buy grain from farmers (subsistence). The value of grain must be such as to guarantee (i) a profit to the farmer to restore the seeds consumed in the production process and (ii) the purchase of subsistence goods for the workers.
+<u>The two social classes exchange goods and services in order to ensure the functioning of the economic system</u>; farmers have to buy labor from the workers (input) and the workers have to buy grain from farmers (subsistence). The value of grain must be such as to guarantee (i) a profit to the farmer to restore the seeds consumed in the production process and (ii) the purchase of subsistence goods for the workers.
 
 Many other examples can be made, but the point is the same: <u>the theory of value (the study of how goods are priced) is a theory explaining the exchange relationships among classes and sectors that guarantee the functioning of the economic system.</u>
 
 According to this framework, Smith distinguishes between:
 
-VALUE IN USE
+- VALUE IN USE: Reflects the utility coming from the ownership of a given good.
+- VALUE IN EXCHANGE: the power of a commodity to purchase other goods and is the measure observed in the market. There are two sub-groups that the price in values of exchange can be divided into:
+	- <u>MARKET PRICE</u>: the price observed in the market in a certain period, and is determined by demand and supply.
+	- <u>NATURAL PRICE</u>: the theoretical price corresponding to the reproduction conditions of the economic system; in other words, it is the price enabling workers to survive and firms to obtain sufficient profit to continue production in the future. Natural price can be measured in many ways, neither of which will lead Smith to satisfactory results:
 
-Reflects the utility coming from the ownership of a given good.
+#### Labor Eembodied (LE)
 
-VALUE IN EXCHANGE
+The value of a commodity corresponds to the quantity of labor required for its production.
 
-This is the power of a commodity to purchase other goods and is the measure observed in the market. There are two sub-groups that the price in values of exchange can be divided into:
+#### Labor Commanded (LC)
 
-<u>MARKET PRICE</u>
+The value of a commodity is equal to the quantity of labor needed to obtain a salary ($w$) corresponding to the value ($p$) of the commodity itself (i.e., $LE = p/w$).
 
-This is the price observed in the market in a certain period, and is determined by demand and supply.
-
-<u>NATURAL PRICE</u>
-
-This is the theoretical price corresponding to the reproduction conditions of the economic system; in other words, it is the price enabling workers to survive and firms to obtain sufficient profit to continue production in the future. Natural price can be measured in many ways, neither of which will lead Smith to satisfactory results:
-
-<u>LABOUR EMBODIED (LE)</u>
-
-The value of a commodity corresponds to the quantity of labour required for its production.
-
-<u>LABOUR COMMANDED (LC)</u>
-
-The value of a commodity is equal to the quantity of labour needed to obtain a salary (w) corresponding to the value (p) of the commodity itself (i.e., LE = p/w).
-
-<u>ADDING-UP-THEORY (AU)</u>
+#### Adding-Up-Theory (AU)
 
 The value of a commodity is equal to the sum of rents, wages, and profits. The problem is that this theory doesn’t work in absence of sales revenues determination and budget constraints among income components.
 
-Under the condition that the demand for a particular good equals the optimal supply, natural price (p^n) corresponds to market price (p^t), so:
+Under the condition that the demand for a particular good equals the optimal supply, natural price ($p^n$) corresponds to market price ($p_t$), so:
 
-P^n = P^t
+$$
+P^n = P_t
+$$
 
-Moreover, <u>Smith claims that this condition doesn’t often prove to be true because the economy is continually hit by supply and demand shocks.</u> Thus, the market price keeps fluctuating around the natural price.
+Moreover, <u>Smith claims that this condition does not often prove to be true because the economy is continually hit by supply and demand shocks.</u> Thus, the market price keeps fluctuating around the natural price.
 
 Regardless of the nature of the shock, fluctuations arise on the demand side, and are reabsorbed by the supply side through the competition mechanism.
 
-Post-Smithian Classical Schools
+<br>
+<br>
 
-The period of time between Smith and Ricardo was a transitional phase characterised by relevant changes both in the main economic themes and in the way of analysing them.
+## Post-Smithian Classical Schools
 
-During the French Revolution, the need to introduce increasingly liberal policies arose. The following year was characterised by <u>numerous crises in the agricultural sector</u> and in employment, especially in Great Britain. This is why issues related to crises and laissez-faire are at the core of post-Smithian classical scholars’ theories.
+The period of time between Smith and Ricardo was a transitional phase characterized by relevant changes both in the main economic themes and in the way of analysing them.
 
-Jean-Baptiste Say (1767-1832)
+During the French Revolution, the need to introduce increasingly liberal policies arose. The following year was characterized by <u>numerous crises in the agricultural sector</u> and in employment, especially in Great Britain. This is why issues related to crises and laissez-faire are at the core of post-Smithian classical scholars’ theories.
+
+<br>
+
+### Jean-Baptiste Say (1767-1832)
 
 Jean-Baptiste Say was a French economist, and his main contributions were:
 
-THE THEORY OF VALUE
+#### Theory of Value
 
-Say’s concept of value was at odds with Smith’s, and thus <u>Say maintained a subjective utility theory of value, where the basis for value is utility rather than a labour theory of value.</u>
+Say’s concept of value was at odds with Smith’s, and thus <u>Say maintained a subjective utility theory of value, where the basis for value is utility rather than a labor theory of value.</u>
 
 The value of a commodity and its production, according to Say, depends on how potential consumers evaluate it. <u>Therefore, the prices of goods and services reflect their utility to buyers.</u> In such a frame, costs of production don’t determine market price — they could, at most, fix the lower level of prices. The monetary value of a commodity is defined by Say as “current price”.
 
-INCOME DISTRIBUTION
+#### Income distribution
 
-For Say, <u>labour, capital, and land are the three types of productive services required for the production of goods</u>. Their use in production must be compensated for by their availability to be employed during the process.
+For Say, <u>labor, capital, and land are the three types of productive services required for the production of goods</u>. Their use in production must be compensated by their employment availability.
 
 <u>The remuneration of the final good equals the one of the production factors</u>, and thus the value of output independently determined in the market goes entirely to the owner of the means of production.
 
-SAY’S LAW
+#### Say’s Law
 
 The acknowledgement of Say’s theory on income distribution is crucial for understanding Say’s law: <u>the sum of all distributed revenues is equal to that of the value of total output.</u>
 
 In other words, to produce a good means to create a demand of equal value through the revenues of the owner of the three production factors. This is valid only on the basis of the following assumption:
 
-“People spend all their money insofar as they’re not interested in accumulating money. People produce commodities to sell them to earn money; nobody wants to hold on to money because it falls in value, so people swap money for the other products they want. Thus, supply creates its own demand.”
+> People spend all their money insofar as they’re not interested in accumulating money. People produce commodities to sell them to earn money; nobody wants to hold on to money because it falls in value, so people swap money for the other products they want. Thus, <u>supply creates its own demand</u>.
 
-<u>One of the consequences of Say’s law is that, if supply creates demand, there is no space for overproduction in the economy as a whole.</u> This way, Smith’s liberalism is overcome: market forces always lead to equilibrium and the government is not attributed any role in the correction of sectoral imbalances.
+One of the consequences of Say’s law is that, if supply creates demand, <u>there is no space for overproduction in the economy as a whole</u>. This way, Smith’s liberalism is overcome: market forces always lead to equilibrium and the government is not attributed any role in the correction of imbalances among sectors.
 
-<u>Say’s law has always been at the core of the conflict between classical and Keynesian economists, because for classical economists, supply is the most important sector in the economy to achieve growth, whereas for Keynesian economists, demand is the most important sector to achieve growth</u>.
+Say’s law has always been at the core of the conflict between classical and Keynesian economists, because for classical economists, supply is the most important sector in the economy to achieve growth, whereas for Keynesian economists, demand is the most important sector to achieve growth.
 
-Thomas Robert Malthus (1766-1834)
+<br>
+
+### Thomas Robert Malthus (1766-1834)
 
 Malthus was an English economist, philosopher, and demographer. His main contributions concerned:
 
-POPULATION
+#### Population
 
-Malthus’ claim was that population growth dooms society to poverty. This is the result of two distinct processes:
+Malthus’ claim was that <u>population growth dooms society to poverty</u>. This is the result of two distinct processes:
 
-ARITHMETIC GROWTH OF AGRICULTURAL PRODUCTION
+##### Arithmetic growth of agricultural production
 
 Results from the presence of diminishing returns (according to the law of diminishing returns, less output is added as more people work on the same amount of land) and limits in available lands.
 
-GEOMETRIC GROWTH OF THE POPULATION
+##### Geometric growth of the population
 
 This is the result of the human sex drive. According to Malthus, population growth can be checked in two main ways:
 
-<u>PREVENTIVE CHECKS</u>
-
-These reduce birth rate by means of moral restraints such as family planning, late marriages, and celibacy.
-
-<u>POSITIVE CHECKS</u>
-
-These increase the death rate. These restrictions arise naturally when population increases; some examples are natural disasters, such as pandemics.
+- **Preventive checks** reduce birth rate by means of moral restraints such as family planning, late marriages, and celibacy.
+- **Positive checks** increase the death rate. These restrictions arise naturally when population increases; some examples are natural disasters, such as pandemics.
 
 <u>If none of these checks work, then the population might enter a phase of hunger and misery, as food won’t be enough for everyone.</u> Since Malthus considers poverty and misery natural population checkers, he believes that peoples’ failure to retain their reproduction should not be met with governmental policies aimed at supporting the poor. This would only encourage early marriage with new unfortunate births.
 
@@ -765,7 +757,7 @@ Ricardo defines the rate of profits πg as:
 
 Where:
 
-Prg = Yg/Lg, which indicates labour productivity in agriculture
+Prg = Yg/Lg, which indicates labor productivity in agriculture
 
 W = wages in terms of grain
 
@@ -775,7 +767,7 @@ In non-agricultural sectors, product and its means of production are two differe
 
 <u>Ricardo accepted Smith’s idea of uniform rates of profit across sectors when πg = πc. However, when πg &lt; πc, capitalists will leave agriculture and invest in textiles, where π is higher.</u> The only way to obtain a uniform rate of profit in this case is to reduce πc by reducing the pc/pg rate. This is because, according to our assumptions, the techniques used within the product process do not change, as well as profit rates. The profit rate of the production of corn will never change, for example.
 
-<u>Ricardo used this model to describe the effects of regulations of grain imports on the profit rate.</u> The following table reports Ricardo’s numerical example:<img src="media/image4.png" style="width:6.69298in;height:2.6337in" />
+<u>Ricardo used this model to describe the effects of regulations of grain imports on the profit rate.</u> The following table reports Ricardo’s numerical example:<b class="missing">+++</b>
 
 In Period 1, only the most fertile land is cultivated, and its products are expected to satisfy al the demand. In Period 2, there are two lands, and capitalists compete to produce in the best one by offering landowners rent.
 
@@ -789,7 +781,7 @@ If the production techniques abroad are the same as in the domestic country, the
 
 The situation is the same as the one described in Period 2. Importing grain is virtually impossible, so more land must be cultivated to meet demand. The way in which this happens is that described in Period 2.
 
-The result is that the profit rate is homogeneous in all lands, even if it is lower than in Period 1 (because the productivity of labour is less on marginal lands of inferior quality).
+The result is that the profit rate is homogeneous in all lands, even if it is lower than in Period 1 (because the productivity of labor is less on marginal lands of inferior quality).
 
 <u>When demand rises, more inferior lands come into cultivation, determining a further decrease in profit rate</u>. The rent is the result of the presence of marginal lands and is called the differential rent. As a consequence, profit rate is given by marginal land and is reduced with respect to Period 1. <u>Thus, since π must be equal in all the sectors of the economy, the reduction in profit rate occurs throughout the economy.</u>
 
@@ -797,7 +789,7 @@ But why is profit rate determined by marginal lands?
 
 Because of a precise concept on the distribution of income between wages, rent, and profits. Wages are at the subsistence level, and rent is determined by the productivity of marginal lands, so profit is residue.
 
-<u>THE LABOUR THEORY OF VALUE</u>
+<u>THE labor THEORY OF VALUE</u>
 
 In an economy where only grain is produced, <u>profits can simply be obtained as residue without the use of prices. However, in an economy where more goods are produced, this is not a plausible assumption, because it is impossible to determine profit rate without a theory of relative prices.</u>
 
@@ -807,21 +799,21 @@ It must enable the measurement of output and wage rate independently of profit r
 
 It must enable that changes in production techniques result in changes in relative prices
 
-Ricardo believed that Smith’s theory of labour embodied (LE) could explain relative prices for all reproducible commodities. <u>Differently from Smith, Ricardo believed that LE could also be applied to capitalist economies.</u> Moreover, given two commodities a and be:
+Ricardo believed that Smith’s theory of labor embodied (LE) could explain relative prices for all reproducible commodities. <u>Differently from Smith, Ricardo believed that LE could also be applied to capitalist economies.</u> Moreover, given two commodities a and be:
 
 λa/λb = Pa/Pb
 
 Where:
 
-λ = labour embodied
+λ = labor embodied
 
 P = price
 
-Sinde λa = λb, and λb = lb, where l is the quantity of labour directly employed in the production of one unit of the good, then:
+Sinde λa = λb, and λb = lb, where l is the quantity of labor directly employed in the production of one unit of the good, then:
 
 Pa/Pb = la/lb
 
-<u>This is the equation of the labour theory of value: the relative price of the two commodities is determined by the ratio of the quantities of labour required in their production.</u>
+<u>This is the equation of the labor theory of value: the relative price of the two commodities is determined by the ratio of the quantities of labor required in their production.</u>
 
 There are two exceptions to this theory:
 
@@ -829,7 +821,7 @@ Production periods may differ
 
 The two processes of production may employ not only wages as capital, but also other instruments and equipments in different proportions
 
-In both cases, <u>the ratio of prices no longer depends exclusively on labour embodies (LE); profit rate is also a key element, and on that occasion, the labour theory no longer holds.</u> Ricardo, aware of such exceptions, attributed them to the different proportions in which fixed and circulating capital are employed in the production of different commodities.
+In both cases, <u>the ratio of prices no longer depends exclusively on labor embodies (LE); profit rate is also a key element, and on that occasion, the labor theory no longer holds.</u> Ricardo, aware of such exceptions, attributed them to the different proportions in which fixed and circulating capital are employed in the production of different commodities.
 
 <u>THE FALLING RATE OF PROFIT THEORY</u>
 
@@ -843,25 +835,25 @@ The abolition off import duties on wheat preventing cultivation in less fertile 
 
 <u>19th-century</u> British economist David Ricardo was the first to develop the theory of comparative advantage, an <u>economic theory that attributes the cause and benefits of international trade to the differences in the relative opportunity costs</u> (costs in terms of other goods given up) <u>of producing the same commodities among countries</u>.
 
-According to Ricardo, as the demand of food increases due to population growth, this implies the descent of profit rate (which is wages and rent subtracted from labour values). <u>One way to avoid an increase in the rental rate and a decrease in the profit rate is international trade, which may help obtain the additional quantity of food requested by people without observing an increase in rent</u>.
+According to Ricardo, as the demand of food increases due to population growth, this implies the descent of profit rate (which is wages and rent subtracted from labor values). <u>One way to avoid an increase in the rental rate and a decrease in the profit rate is international trade, which may help obtain the additional quantity of food requested by people without observing an increase in rent</u>.
 
-In this theory, Ricardo examines the condition in which international trade brings positive results in two countries (he takes Portugal and England into consideration in the example seen below the illustration). He examines the conditions where international trade produces positive results, even if one country shows an absolute advantage with specific goods (even if one country is able to produce all goods at low prices, there is space for international trade). This happens <u>when a country has a comparative advantage in produces at least one good</u>.<img src="media/image5.png" style="width:2.97188in;height:3.45652in" />
+In this theory, Ricardo examines the condition in which international trade brings positive results in two countries (he takes Portugal and England into consideration in the example seen below the illustration). He examines the conditions where international trade produces positive results, even if one country shows an absolute advantage with specific goods (even if one country is able to produce all goods at low prices, there is space for international trade). This happens <u>when a country has a comparative advantage in produces at least one good</u>.<b class="missing">+++</b>
 
-In Ricardo’s example, two countries (Portugal and England) are able to produce, respectively, wine and cloth. In Portugal, the production of one litre of wine requires 80 hours of labour, whereas 90 hours are needed to obtain 1 measure of cloth. In England, the production of the same cloth and wine require 120 and 100 hours, respectively.
+In Ricardo’s example, two countries (Portugal and England) are able to produce, respectively, wine and cloth. In Portugal, the production of one litre of wine requires 80 hours of labor, whereas 90 hours are needed to obtain 1 measure of cloth. In England, the production of the same cloth and wine require 120 and 100 hours, respectively.
 
-<u>Even if Portuguese labour is more efficient and thus has an absolute advantage, seeing the ratio of producing wine in comparison with the production of cloth, we note that England is comparatively more efficient in producing cloth than wine</u>. This serves as a justification of the positive effects of international trade and the abolishment of Corn Laws (the Corn Laws caused the price of 'corn', which also includes barley, corn, wheat, and all other grains, to increase; the Laws were designed to protect English farmers from inexpensive foreign imports of grain).<img src="media/image6.png" style="width:6.69298in;height:2.25376in" />
+<u>Even if Portuguese labor is more efficient and thus has an absolute advantage, seeing the ratio of producing wine in comparison with the production of cloth, we note that England is comparatively more efficient in producing cloth than wine</u>. This serves as a justification of the positive effects of international trade and the abolishment of Corn Laws (the Corn Laws caused the price of 'corn', which also includes barley, corn, wheat, and all other grains, to increase; the Laws were designed to protect English farmers from inexpensive foreign imports of grain).<b class="missing">+++</b>
 
 Karl Marx (1818-1883)
 
-Karl Marx can be considered a classical economist even if he distanced himself from the classics in some ways. <u>He stressed the importance of profit as a driver of economic development, and his analysis is focused on the study of social classes’ behaviour.</u>
+Karl Marx can be considered a classical economist even if he distanced himself from the classics in some ways. <u>He stressed the importance of profit as a driver of economic development, and his analysis is focused on the study of social classes’ behavior.</u>
 
-But at the same time, Marx was quite different from classic scholars because <u>he believed they were unable to truly understand the capitalistic system and its implications for the working class</u>. Marx’s contributions were the product of the period he lived in, called the “dark age of capitalism”, where <u>factories were organised in a brutal way, and the organisation was focused on exploiting workers</u>. Thus, his contributions can only be understood within this context.
+But at the same time, Marx was quite different from classic scholars because <u>he believed they were unable to truly understand the capitalistic system and its implications for the working class</u>. Marx’s contributions were the product of the period he lived in, called the “dark age of capitalism”, where <u>factories were organized in a brutal way, and the organisation was focused on exploiting workers</u>. Thus, his contributions can only be understood within this context.
 
 His main contributions can be divided into six categories:
 
 Mode of Production
 
-Surplus, profits, and the exploitation of labour
+Surplus, profits, and the exploitation of labor
 
 Profits and Growth
 
@@ -869,25 +861,25 @@ The three laws of motion of capitalism
 
 Crises of capitalism system
 
-Transformation of labour values in prices
+Transformation of labor values in prices
 
 <u>MODE OF PRODUCTION</u>
 
 The aim of Marx’s work was to <u>study society’s evolution</u>. This historical process is determined by transformations that concern the so-called mode of production (MP). MP, also known as economic base, is composed of:
 
-<u>Productive forces (PF):</u> labour, raw materials, means of production, machinery, equipment, and production techniques (dynamic)
+<u>Productive forces (PF):</u> labor, raw materials, means of production, machinery, equipment, and production techniques (dynamic)
 
 <u>Relations of production (RP):</u> all mechanisms regulating the use and ownership of the means of work and production, and determining the distribution of the final output (static)
 
-<u>Each historical phase has always been characterised by a specific</u> mode of production (MP), which is maintained as long as there is a balance between productive forces (PF) and relations of production (RP).
+<u>Each historical phase has always been characterized by a specific</u> mode of production (MP), which is maintained as long as there is a balance between productive forces (PF) and relations of production (RP).
 
 In a period of economic development, <u>changes within the PF break the balance between PF and RP</u> (this change could also be of a technological nature). <u>At this point, a phase of crisis and social conflicts opens, which leads to a change of the MP</u>.
 
-All major shifts in economic systems have been characterised by class conflicts/struggles generated by technological improvements. Let’s take a look at how the delicate balance between PF, RP, and Technological Innovations plays out in different types of societies:
+All major shifts in economic systems have been characterized by class conflicts/struggles generated by technological improvements. Let’s take a look at how the delicate balance between PF, RP, and Technological Innovations plays out in different types of societies:
 
 PRIMITIVE SOCIETY
 
-In a primitive society, productive forces (PF) are constituted by labour, which includes <u>hunting and gathering with rather primitive tools</u>.
+In a primitive society, productive forces (PF) are constituted by labor, which includes <u>hunting and gathering with rather primitive tools</u>.
 
 Relations of production (RP), on the other hand, <u>focused on cooperation and the redistribution of output</u>.
 
@@ -895,7 +887,7 @@ The technological innovation that broke the balance between PF and RP was the in
 
 SLAVE-BASED SOCIETY
 
-In a slaved-base society, productive forces (PF) are constituted by labour, which includes <u>rudimentary agricultural tools</u>.
+In a slaved-base society, productive forces (PF) are constituted by labor, which includes <u>rudimentary agricultural tools</u>.
 
 Relations of production (RP), on the other hand, <u>focused on private ownership of land, slavery, and the output property of the aristocratic upper class</u>.
 
@@ -903,7 +895,7 @@ The technological innovation that broke the balance between PF and RP was the di
 
 <u>FEUDAL SOCIETY</u>
 
-In a feudal society, productive forces (PF) are constituted by labour, which includes <u>land, natural resources, and agricultural tools</u>.
+In a feudal society, productive forces (PF) are constituted by labor, which includes <u>land, natural resources, and agricultural tools</u>.
 
 Relations of production (RP), on the other hand, <u>focused on the private ownership of land and natural resources. Here, slaves are partially free (they are called serfs), and a small fraction of agricultural output is property of these serfs</u>.
 
@@ -911,7 +903,7 @@ The technological innovation that broke the balance between PF and RP was the de
 
 <u>MERCANTILE PRE-CAPITALISTIC SOCIETY</u>
 
-In a mercantile pre-capitalistic society, productive forces (PF) are constituted by labour, which includes <u>peasant/factory workers in the cottage industry, land, natural resources, the use of advanced agricultural tools, and rudimentary equipment</u>.
+In a mercantile pre-capitalistic society, productive forces (PF) are constituted by labor, which includes <u>peasant/factory workers in the cottage industry, land, natural resources, the use of advanced agricultural tools, and rudimentary equipment</u>.
 
 Relations of production (RP), on the other hand, <u>focused on the private ownership of lands and means of production, the control of workforce, colonial exploitation of work and natural resources, and owning of the final product by farmers and/or merchant-capitalists</u>.
 
@@ -919,7 +911,7 @@ The technological innovation that broke the balance between PF and RP was the in
 
 CAPITALIST SOCIETY (ours)
 
-In a capitalist society, productive forces (PF) are constituted by labour, which includes <u>factory workers, advanced machinery, and equipment</u>.
+In a capitalist society, productive forces (PF) are constituted by labor, which includes <u>factory workers, advanced machinery, and equipment</u>.
 
 Relations of production (RP), on the other hand, <u>focused on the private ownership of means of production and of the workforce, and the private ownership of the final product of entrepreneurs</u>.
 
@@ -927,11 +919,11 @@ A technological innovation that would change our mode of production (MP) <u>is y
 
 -.-
 
-<u>SURPLUS, PROFITS, AND THE EXPLOITATION OF LABOUR</u>
+<u>SURPLUS, PROFITS, AND THE EXPLOITATION OF labor</u>
 
-Pre-capitalist systems differ greatly from capitalist systems with regard to the circulation of commodities. In primitive, feudal, and simple mercantilist systems, <u>producers owned the means of production and the output they obtained from this labour</u>. In all of the pre-capitalist systems, the worker was a commodity. They could therefore be traded for money.
+Pre-capitalist systems differ greatly from capitalist systems with regard to the circulation of commodities. In primitive, feudal, and simple mercantilist systems, <u>producers owned the means of production and the output they obtained from this labor</u>. In all of the pre-capitalist systems, the worker was a commodity. They could therefore be traded for money.
 
-In these economic systems, exchange on the market was aimed at <u>obtaining commodities which satisfied needs that the limited specialisation of labour couldn’t satisfy directly</u>.
+In these economic systems, exchange on the market was aimed at <u>obtaining commodities which satisfied needs that the limited specialisation of labor couldn’t satisfy directly</u>.
 
 In pre-capitalist systems, the process of circulation of commodities can be seen as:
 
@@ -947,19 +939,19 @@ Under capitalism, <u>the exchange of money for commodities is a valid process fo
 
 The capitalists, on the other hand, <u>are driven exclusively by (2), as their objective is to accumulate more and more money</u>. How can capitalists obtain more money at the end of the production process?
 
-<u>The capitalist can obtain an amount of money (ΔM &gt; 0) because they are able to exploit workers</u>. The value of quantities is expressed in terms of the quantity of labour directly and indirectly necessary to produce them (labour theory of value).
+<u>The capitalist can obtain an amount of money (ΔM &gt; 0) because they are able to exploit workers</u>. The value of quantities is expressed in terms of the quantity of labor directly and indirectly necessary to produce them (labor theory of value).
 
-Imagine a workday production process in which <u>all quantities are measured in terms of the time of labour necessary to produce them</u>. In the first part of this workday, <u>the worker produces goods with a value sufficient enough to repay his subsistence</u>. The rest of the workday is devoted to <u>producing goods that are taken by the capitalist</u>.
+Imagine a workday production process in which <u>all quantities are measured in terms of the time of labor necessary to produce them</u>. In the first part of this workday, <u>the worker produces goods with a value sufficient enough to repay his subsistence</u>. The rest of the workday is devoted to <u>producing goods that are taken by the capitalist</u>.
 
-Surplus value is defined as <u>the amount of value produced by workers over and above the cost of their wages.</u><img src="media/image7.png" style="width:4.13128in;height:1.24147in" />
+Surplus value is defined as <u>the amount of value produced by workers over and above the cost of their wages.</u><b class="missing">+++</b>
 
-<u>A firm that pursues</u> maximum surplus <u>must increase the B-C part of the workday by either multiplying the length of the workday or reducing the amount of time necessary to pay for a labourer’s wage</u>.
+<u>A firm that pursues</u> maximum surplus <u>must increase the B-C part of the workday by either multiplying the length of the workday or reducing the amount of time necessary to pay for a laborer’s wage</u>.
 
-The surplus is then generated because the worker is paid less than the value of what they produce. However, the value of a commodity is not only given by the quantities of labour directly necessary to produce it. <u>It is necessary to add the quantities of labour needed to produce the raw materials and means of production consumed in the production process</u>.
+The surplus is then generated because the worker is paid less than the value of what they produce. However, the value of a commodity is not only given by the quantities of labor directly necessary to produce it. <u>It is necessary to add the quantities of labor needed to produce the raw materials and means of production consumed in the production process</u>.
 
 The value of the means of production and the raw materials consumed is transferred to the commodity. Marx used the term constant capital (c) to indicate the value of these goods consumed in the production process. <u>The term “constant” indicates that this value does not change during the production process, but is preserved and transferred into the value of the final goods produced</u>.
 
-Only the labour force, as we have seen, is able to transfer a value greater than its own (a surplus value) in the final goods produced. The value advanced by the capitalist for purchasing labour power is called variable capital (v). <u>This term indicates the fact that this value transfers itself and surplus value into final goods</u>.
+Only the labor force, as we have seen, is able to transfer a value greater than its own (a surplus value) in the final goods produced. The value advanced by the capitalist for purchasing labor power is called variable capital (v). <u>This term indicates the fact that this value transfers itself and surplus value into final goods</u>.
 
 Formally, the value of final goods produced is:
 
@@ -969,9 +961,9 @@ Where:
 
 H = the percentage of a workday spent in producing the wage
 
-H x L = labour needed to produce the output composing the wage
+H x L = labor needed to produce the output composing the wage
 
-L x (1-h) = labour exploited by capitalists to produce the output
+L x (1-h) = labor exploited by capitalists to produce the output
 
 The rate of exploitation is equal to the ratio between surplus and variable capital:
 
@@ -1013,7 +1005,7 @@ The development process of the capitalist system is defined by 3 laws:
 
 <u>THE TENDENCY OF PROFIT RATE TO FALL</u>
 
-The equation of profit rate \[π = (s/v) x \[v/(c+v)\] = σ(1-q)\] is the basis of this theory. <u>In the long run, due to the introduction of new machines replacing labour, the organic composition of capital will grow, reducing profit</u>. In order to avoid that, an upward trend of q decreases the profit rates (π), some events may favour the increase of exploitation rate sigma:
+The equation of profit rate \[π = (s/v) x \[v/(c+v)\] = σ(1-q)\] is the basis of this theory. <u>In the long run, due to the introduction of new machines replacing labor, the organic composition of capital will grow, reducing profit</u>. In order to avoid that, an upward trend of q decreases the profit rates (π), some events may favour the increase of exploitation rate sigma:
 
 AN EXTENSION OF THE WORKING DAY
 
@@ -1027,15 +1019,15 @@ Of these four events, only the first produces an increase in the exploitation ra
 
 <u>THE INCREASED IMMISERATION OF THE WORKING CLASS</u>
 
-The wage rate that is formed on the market is governed by the level of unemployment that Marx defines as the “reserve army of labour”. This “army of the unemployed” <u>increases as the supply of labour increases, and decreases as the demand for labour increases</u>.
+The wage rate that is formed on the market is governed by the level of unemployment that Marx defines as the “reserve army of labor”. This “army of the unemployed” <u>increases as the supply of labor increases, and decreases as the demand for labor increases</u>.
 
-The demand for labour depends (positively) on the organic composition of capital (q), and negatively on the production techniques adopted. <u>If capital accumulation is high, the army of the unemployed shrinks, and the wage rate goes above the subsistence leve</u>l.
+The demand for labor depends (positively) on the organic composition of capital (q), and negatively on the production techniques adopted. <u>If capital accumulation is high, the army of the unemployed shrinks, and the wage rate goes above the subsistence leve</u>l.
 
 This favourable situation for workers is temporary, however, because:
 
-The increase in the wage rate lowers the rate of profit, causing a reduction in investment in capital and thus in demand for labour
+The increase in the wage rate lowers the rate of profit, causing a reduction in investment in capital and thus in demand for labor
 
-The increase in wage rate pushes firms to increase the introduction of new labour-replacing machines in the production process
+The increase in wage rate pushes firms to increase the introduction of new labor-replacing machines in the production process
 
 <u>Both effects lead to an increase in the unemployed and a reduction of the wage rate</u>. The rising level of unemployment is a defining feature of capitalist systems, and serves to keep wages at a subsistence level. <u>Unemployment is caused by the development of the capitalist system</u>.
 
@@ -1051,7 +1043,7 @@ Increase in class immiseration and capital concentration cause:
 
 The progressive immiseration of the working class and the simultaneous increase in the concentration of capital (this will eventually lead to a rebellion)
 
-The working class will be increasingly united and organised thanks to the capitalist production process; the monopoly of capital is a constraint of the capitalist mode of production that must be shut down (the expropriators will be expropriated)
+The working class will be increasingly united and organized thanks to the capitalist production process; the monopoly of capital is a constraint of the capitalist mode of production that must be shut down (the expropriators will be expropriated)
 
 Revolution is the consequence, and capitalism will collapse leading to the formation of a more modern system (socialism)
 
@@ -1061,17 +1053,17 @@ Only the first point produces an increase in the exploitation rate (σ) and prof
 
 We may encounter limits in this system, called insurmountable limits: <u>the day cannot exceed 24 hours, and workers can encounter health problems</u>. For Marx, the value of constant capital can grow without any limit. The inevitable consequence is the fall to zero of the profit rate (π) and of ΔY/Y.
 
-This is a major flaw in Marx’s analysis. Marx did not consider that q and sigma are interrelated through V. An increase in organic composition of the organic composition of capital (q) normally increases the physical productivity of labour. <u>An increase in this reduces the socially necessary labour time required to produce the workers’ wage, and raises the rate of exploitation</u>. Marx has overlooked the fact that an increase in the organic composition of capital (q) normally entails an increase in the exploitation rate (σ). As the organic composition of capital (q) increases, so does the exploitation rate (σ). Thus, the fall in the rate of profit is not automatic.
+This is a major flaw in Marx’s analysis. Marx did not consider that q and sigma are interrelated through V. An increase in organic composition of the organic composition of capital (q) normally increases the physical productivity of labor. <u>An increase in this reduces the socially necessary labor time required to produce the workers’ wage, and raises the rate of exploitation</u>. Marx has overlooked the fact that an increase in the organic composition of capital (q) normally entails an increase in the exploitation rate (σ). As the organic composition of capital (q) increases, so does the exploitation rate (σ). Thus, the fall in the rate of profit is not automatic.
 
 -.-
 
 <u>THE CRISIS OF THE CAPITALIST SYSTEM</u>
 
-Similarly to Malthus, <u>Marx did not accept Say’s law. He claimed that capitalists may decide to reduce the purchases of the means of production and of labour power in the perspective of not receiving adequate profits from the selling of goods.</u>
+Similarly to Malthus, <u>Marx did not accept Say’s law. He claimed that capitalists may decide to reduce the purchases of the means of production and of labor power in the perspective of not receiving adequate profits from the selling of goods.</u>
 
 If, within the scheme M &gt; C &gt; M + ΔM, the ratio ΔM/M which measures the realised profits rate falls, capitalists might decide not to invest the money from the sales to produce new goods.
 
-<u>Consequently, the demand for means of production and labour will decrease, causing the crisis of this system.</u> It is due to the fall of the profit rate, not because workers are substituted with machines but because goods can be sold at a value that does not allow to obtain satisfactory profit. This is known as non-realisation of surplus value.
+<u>Consequently, the demand for means of production and labor will decrease, causing the crisis of this system.</u> It is due to the fall of the profit rate, not because workers are substituted with machines but because goods can be sold at a value that does not allow to obtain satisfactory profit. This is known as non-realisation of surplus value.
 
 In order to solve the problem, Marx developed reproduction schemes: <u>abstract representationS of the economy by means of which he analysed the conditions enabling to sell goods at their fair value, namely the conditions necessary to guarantee equilibrium between demand and a supply both of consumer and investment goods in the system.</u>
 
@@ -1137,7 +1129,7 @@ The alternation of these phases in the capitalist system is the norm in the abse
 
 <u>THE TRANSFORMATION OF VALUES INTO PRICES</u>
 
-The theory of exploitation is <u>based on the labour theory of value to express the difference magnitudes in homogeneous terms.</u> Indeed, Marx was aware that the exchange values of goods in the market did not correspond to the hours of labour necessary to produce them, but, on the contrary, they were based on production prices. <u>Therefore, Marx worked on the problem of the transformation of labour values into prices, known as</u> the theory of prices.
+The theory of exploitation is <u>based on the labor theory of value to express the difference magnitudes in homogeneous terms.</u> Indeed, Marx was aware that the exchange values of goods in the market did not correspond to the hours of labor necessary to produce them, but, on the contrary, they were based on production prices. <u>Therefore, Marx worked on the problem of the transformation of labor values into prices, known as</u> the theory of prices.
 
 From the equations y1 = c1 + v1 + s1 and y2 = c2 + v2 + s2 it is possible to deduce that the profit rate of sector 1 and 2 can be calculated as follows:
 
@@ -1157,9 +1149,9 @@ q1 = q2
 
 Technology must be identical in all sectors (this is a highly unrealistic condition)
 
-As a result, <u>to have both a uniform rate of profit and different techniques of production, the labour embodied as a measure of value had to be abandoned.</u> The new measure implied that the prices of production were directly derived from labour values by applying the same rate of profit in the two sectors.
+As a result, <u>to have both a uniform rate of profit and different techniques of production, the labor embodied as a measure of value had to be abandoned.</u> The new measure implied that the prices of production were directly derived from labor values by applying the same rate of profit in the two sectors.
 
-However, also this solution has problems, for <u>the ratio between the quantities of labour contained the commodities corresponds to the prices ration only if</u>:
+However, also this solution has problems, for <u>the ratio between the quantities of labor contained the commodities corresponds to the prices ration only if</u>:
 
 σ = 0. This implies that also π = 0
 
@@ -1167,15 +1159,15 @@ q is the same in both sectors
 
 Ultimately, it can be noticed that Marx’s analysis of prices suffers form problems similar to those of Ricardo’s analysis: prices differ from values. In the face of such an issue, Marx sustained that:
 
--    the labour theory of value, even if ineffective in this case, is useful to solve problems at the macro level, such as for the calculation of the GDP
+-    the labor theory of value, even if ineffective in this case, is useful to solve problems at the macro level, such as for the calculation of the GDP
 
--    the labour theory of value can act as a theory of exploitation for the economy as a whole. At the aggregate level, profits are derived from surplus labour, reflecting the main contradiction of capitalism: the conflict between workers and capitalists, which emerges in the production process where exploitation takes place.
+-    the labor theory of value can act as a theory of exploitation for the economy as a whole. At the aggregate level, profits are derived from surplus labor, reflecting the main contradiction of capitalism: the conflict between workers and capitalists, which emerges in the production process where exploitation takes place.
 
-<u>The mistake made by Marx in transforming values into prices was highlighted and mathematically corrected by Bortkiewicz in 1907</u>. In fact, in the system the two commodities are exchanged according to the process of production when they are regarded as output, but they are evaluated at their labour values when used as inputs.
+<u>The mistake made by Marx in transforming values into prices was highlighted and mathematically corrected by Bortkiewicz in 1907</u>. In fact, in the system the two commodities are exchanged according to the process of production when they are regarded as output, but they are evaluated at their labor values when used as inputs.
 
 The Forerunners of Neoclassical Economics
 
-The neoclassical school, also known with the term marginalists, is often dates to the <u>1870’s</u>. One of its hallmarks is the use of marginal concepts (such as marginal utility, marginal cost and marginal products) <u>to determine the behaviour which drives the market forces of supply and demand.</u> The term “neoclassical” was first introduced by Veblen and identifies a new (“neo”) vision of reality, but still influenced by some classical ideas. These are, traditionally,
+The neoclassical school, also known with the term marginalists, is often dates to the <u>1870’s</u>. One of its hallmarks is the use of marginal concepts (such as marginal utility, marginal cost and marginal products) <u>to determine the behavior which drives the market forces of supply and demand.</u> The term “neoclassical” was first introduced by Veblen and identifies a new (“neo”) vision of reality, but still influenced by some classical ideas. These are, traditionally,
 
 -    Utilitarianism &gt; Bentham; Gossen
 
@@ -1187,13 +1179,13 @@ The neoclassical school, also known with the term marginalists, is often dates t
 
 Von Thunen, Cournot, Dupuit, and Gossen are known as proto-marginalists. The neoclassical and classical schools differ between each other in a way which is displayed by the following table.
 
-<img src="media/image8.png" style="width:5.43696in;height:4.98698in" />
+<b class="missing">+++</b>
 
 FORERUNNERS
 
 <u>JEREMY BENTHAM (1748-1832)</u>
 
-His main contribution was utilitarianism, i.e., <u>the principle of pure happiness according to which the rightness of wrongness of our actions are functions of the amount of pleasure or pain they produce.</u> The desire to maximise utility is how humans ought to act.
+His main contribution was utilitarianism, i.e., <u>the principle of pure happiness according to which the rightness of wrongness of our actions are functions of the amount of pleasure or pain they produce.</u> The desire to maximize utility is how humans ought to act.
 
 This contribution opened the road to the marginalist revolution and funded the construction of a “science of human happiness”, endowed with mathematical precision. Bentham also elaborated a method to quantify pleasure and pain, that “will be treated or less according to \[...\] its intensity, its direction; its certainty or uncertainty; its propinquity or remoteness; its fecundity; its purity; its extent”.
 
@@ -1223,7 +1215,7 @@ Px and Py = prices
 
 <u>JOHANN HEINRICH VON THUNEN (1783-1850)</u>
 
-Johann’s main contribution was the application of Ricardo’s marginal principle in a theory of employment: added units of labour lead to successively smaller increases in total production. Thus, <u>the employer must hire labour until the cost of the last addition equals the value of the added good produced</u> (in other words, when the marginal revenue product of labour equals the wage expense of hiring a worker).
+Johann’s main contribution was the application of Ricardo’s marginal principle in a theory of employment: added units of labor lead to successively smaller increases in total production. Thus, <u>the employer must hire labor until the cost of the last addition equals the value of the added good produced</u> (in other words, when the marginal revenue product of labor equals the wage expense of hiring a worker).
 
 <u>AUGUSTINE COURNOT (1801-1877)</u>
 
@@ -1247,13 +1239,13 @@ The ideas at the basis of marginalism arose almost simultaneously in different p
 
 <u>The neoclassical system of economic thought is interested in analysing the allocation of given resources among alternative uses, one of its main contributions being the value theory of price.</u>
 
-The neoclassical school also accepts the utilitarian approach: the maximisation of utility by consumer and of profit by firms leads to choosing the optimal alternative between the available resources. <u>The fundamental role of utility is that the individual becomes dominant in determining economic values and, hence, is at the centre of the neoclassical analysis.</u>
+The neoclassical school also accepts the utilitarian approach: the maximization of utility by consumer and of profit by firms leads to choosing the optimal alternative between the available resources. <u>The fundamental role of utility is that the individual becomes dominant in determining economic values and, hence, is at the centre of the neoclassical analysis.</u>
 
 The development of the individualistic approach can be justified as a <u>reaction towards the classical stream of thought and the Marxist direction it had taken.</u> In addition, the marginalist school evolved in the attempt to find suitable solutions to theoretical problems the classical school had been unable to solve, above all:
 
-<u>THE LABOUR THEORY OF VALUE</u>
+<u>THE labor THEORY OF VALUE</u>
 
-This suffers from difficulties related to the “vicious cycle” and “logical inconsistency” that resulted from Smith’s analysis, as well as the divergence between prices and labour value ratio that resulted from Ricardo’s and Marx’s analysis. This theory is utterly unable to solve the sandcastle paradox: if sandcastles are made of labour, why do they not have any value?
+This suffers from difficulties related to the “vicious cycle” and “logical inconsistency” that resulted from Smith’s analysis, as well as the divergence between prices and labor value ratio that resulted from Ricardo’s and Marx’s analysis. This theory is utterly unable to solve the sandcastle paradox: if sandcastles are made of labor, why do they not have any value?
 
 As an answer, neoclassical thinkers hold that the value of any good or service is determined by its marginal utility.
 
@@ -1364,9 +1356,9 @@ Price-elasticity of demand
 
 Economies of scale
 
-<u>HOW CONSUMER BEHAVIOUR INFLUENCES THE DEMAND CURVE</u>
+<u>HOW CONSUMER behavior INFLUENCES THE DEMAND CURVE</u>
 
-The theory of consumer behaviour is based on the law of decreasing marginal utility. <u>According to this law, the satisfaction given by an additional unit of any product decreases as the units consumed increase</u>.
+The theory of consumer behavior is based on the law of decreasing marginal utility. <u>According to this law, the satisfaction given by an additional unit of any product decreases as the units consumed increase</u>.
 
 He distinguished between two types of utility:
 
@@ -1378,13 +1370,13 @@ MARGINAL UTILITY
 
 Marginal utility, on the other hand, is the extra satisfaction a consumer achieves with an additional unit of that product.
 
-<u>To maximise satisfaction, the consumer must allocate his income in such a way that the last Euro spent on each product gives the same amount of extra utility</u> (marginal utility).
+<u>To maximize satisfaction, the consumer must allocate his income in such a way that the last Euro spent on each product gives the same amount of extra utility</u> (marginal utility).
 
 Consider a consumer who, having an income of 13 euros, has to evaluate which combination of apples and oranges to buy:
 
-<img src="media/image9.png" style="width:6.69298in;height:2.01042in" />
+<b class="missing">+++</b>
 
-Based on the data in the table, the combination of goods that maximises the consumer’s utility is 3 apples and 5 oranges. The familiar condition for maximum consumer satisfaction is easily derived from this equilibrium condition:
+Based on the data in the table, the combination of goods that maximizes the consumer’s utility is 3 apples and 5 oranges. The familiar condition for maximum consumer satisfaction is easily derived from this equilibrium condition:
 
 MUx/px = MUy/py = MUm
 
@@ -1458,11 +1450,11 @@ The factors determining the demand elasticity for a good are:
 
 <u>SUPPLY</u>
 
-Marshall advanced the hypothesis that a <u>firm operates under a perfect competition regime</u>. Thus the market form is characterised by a large number of sellers, each of whom produces an infinitesimal part of the total output. In such conditions, the behaviour of the individual company does not allow a the market price to be changed: <u>firms are price-takers, namely they consider the price level determined by the market</u>.
+Marshall advanced the hypothesis that a <u>firm operates under a perfect competition regime</u>. Thus the market form is characterized by a large number of sellers, each of whom produces an infinitesimal part of the total output. In such conditions, the behavior of the individual company does not allow a the market price to be changed: <u>firms are price-takers, namely they consider the price level determined by the market</u>.
 
 <u>REVENUES AND COSTS</u>
 
-The firm will chose the quantity to offer on the market in order to maximise profits, which are the difference between total revenues and total costs. <u>To understand by which dynamics the maximisation of profits is accounted for, it is necessary to consider how revenues and costs vary as the quantity produced by the firm changes</u>.
+The firm will chose the quantity to offer on the market in order to maximize profits, which are the difference between total revenues and total costs. <u>To understand by which dynamics the maximization of profits is accounted for, it is necessary to consider how revenues and costs vary as the quantity produced by the firm changes</u>.
 
 There is a distinction between revenues and costs:
 
@@ -1472,9 +1464,9 @@ Price x quantity produced; graphically, this element appears as a straight line.
 
 TOTAL COSTS
 
-This is characterised by an inverse S-shaped trend. In a first period, when the quantity produced is low, the costs grow rapidly as they are spread over few goods produced. As production grows, costs tend to increase less rapidly as they are distributed over more units of product. Nonetheless, as the output grows further beyond the quantity Q’, costs tend to increase again, for to produce a large amount it will be necessary to pay the overtime to employees or to buy new machinery.
+This is characterized by an inverse S-shaped trend. In a first period, when the quantity produced is low, the costs grow rapidly as they are spread over few goods produced. As production grows, costs tend to increase less rapidly as they are distributed over more units of product. Nonetheless, as the output grows further beyond the quantity Q’, costs tend to increase again, for to produce a large amount it will be necessary to pay the overtime to employees or to buy new machinery.
 
-Equilibrium quantity is the quantity at which profits are maximised, and it corresponds to the point at which marginal revenue is equal to marginal cost:
+Equilibrium quantity is the quantity at which profits are maximized, and it corresponds to the point at which marginal revenue is equal to marginal cost:
 
 MR = MC  
   
@@ -1512,13 +1504,13 @@ VC/Q &gt; P
 
 Where VC/Q are the average variable costs. <u>If they are higher than P, it is better for the company to stop the business because the revenues do no cover variable production costs.</u>
 
-Graphically, in the market period, the supply curve is a vertical line in correspondence of the quantity in which MR = MC, subjectively to the previous constraint (P &gt; VC/Q). <u>The curve form is due to the fact that, if the price increases, the firm could not increase the quantity produced, that would remain fixed.</u> On the other hand, in the short period, the supply curve corresponds to the increasing portion of the marginal cost curve, namely where TC grows at increasing rates, subjectively to the previous constraint (P &gt; VC/Q). The quantity of product offered by the firm increases as the price goes up.<img src="media/image10.png" style="width:5.35576in;height:2.50036in" />
+Graphically, in the market period, the supply curve is a vertical line in correspondence of the quantity in which MR = MC, subjectively to the previous constraint (P &gt; VC/Q). <u>The curve form is due to the fact that, if the price increases, the firm could not increase the quantity produced, that would remain fixed.</u> On the other hand, in the short period, the supply curve corresponds to the increasing portion of the marginal cost curve, namely where TC grows at increasing rates, subjectively to the previous constraint (P &gt; VC/Q). The quantity of product offered by the firm increases as the price goes up.<b class="missing">+++</b>
 
 <u>THE LONG-RUN</u>
 
-In the long run, the firm can modify the production capacity. However, <u>this means that other firms will also be able to enter the market.</u> Therefore, in the long run, the average and marginal cost curves change. The long run average costs curve (LAC) is obtained for the envelope of the short run averages cost curves (SAC).<img src="media/image11.png" style="width:4.7518in;height:3.00605in" />
+In the long run, the firm can modify the production capacity. However, <u>this means that other firms will also be able to enter the market.</u> Therefore, in the long run, the average and marginal cost curves change. The long run average costs curve (LAC) is obtained for the envelope of the short run averages cost curves (SAC).<b class="missing">+++</b>
 
-In this graphical representation, three total short-run cost curves (SAC1, SAC2, SAC3) are associates with three levels of production capacity. Up to quantity Q1 it is advisable to produce with plan 1 (SAC1 &lt; SAC2), up to quantity Q2 it is advisable to use plant 2 (SAC2 &lt; SAC3), for quantities grater that Q2 it S advisable to use plant 3 (SAC3 &lt; ).The envelope is given by the red curve. <u>In the case of an infinity of plants to choose form, the average cost curve would appears as the solid green line (LACc)</u>.<img src="media/image12.png" style="width:3.42944in;height:3.54978in" />
+In this graphical representation, three total short-run cost curves (SAC1, SAC2, SAC3) are associates with three levels of production capacity. Up to quantity Q1 it is advisable to produce with plan 1 (SAC1 &lt; SAC2), up to quantity Q2 it is advisable to use plant 2 (SAC2 &lt; SAC3), for quantities grater that Q2 it S advisable to use plant 3 (SAC3 &lt; ).The envelope is given by the red curve. <u>In the case of an infinity of plants to choose form, the average cost curve would appears as the solid green line (LACc)</u>.<b class="missing">+++</b>
 
 The long run marginal cost curve (LMC) can be obtained from the short-run marginal cost curves (SMC) in correspondence of different plant sizes. LMC is represented by the green curve. <u>Assuming an infinite number of implant sizes to choose from, the LMC curve will appear flatter than SMC</u>.
 
@@ -1526,7 +1518,7 @@ The firm’s long run supply curve will correspond to the rising segment of the 
 
 <u>SUPPLY CURVE AT THE INDUSTRY LEVEL</u>
 
-In the short-run, the industry supply curve S(p) is obtained by summing the supply curves of the n firms S(p)i present in the market:<img src="media/image13.png" style="width:2.52531in;height:2.2311in" />
+In the short-run, the industry supply curve S(p) is obtained by summing the supply curves of the n firms S(p)i present in the market:<b class="missing">+++</b>
 
 <u>In the long run, it is not possible to build the supply curve in the same way since, by definition, firms can either enter or exits the market.</u> Therefore, the trend of the long-term market supply curve depends on the different cost conditions relating to the factor market:
 
@@ -1558,7 +1550,7 @@ These refer to factors that are beyond the control of an individual firm, but oc
 
 <u>SUPPLY AND DEMAND DIAGRAM</u>
 
-The intersection of the demand and supply curves represents the market equilibrium level of price and quantity:<img src="media/image14.png" style="width:2.59798in;height:2.78005in" />
+The intersection of the demand and supply curves represents the market equilibrium level of price and quantity:<b class="missing">+++</b>
 
 <u>According to Marshall, the market is in disequilibrium if the supply price Ps, the one suppliers are willing to take, is different from the demand price Pd, the one consumers are willing to pay.</u> The occurrence of disequilibrium produces:
 
@@ -1576,7 +1568,7 @@ If Ps &lt; Pd, firstly the quantity in the market rises and secondly price decre
 
 <u>CONSUMER AND PRODUCER SURPLUS</u>
 
-The analysis of the Marshallian equilibrium in the short run implies the conceptualisation of two notions: producers’ surplus and consumers’ surplus. <u>They are maximised by the Marshallian cross, which is an efficient equilibrium.</u> Furthermore, differently from Ricardo’s concept of surplus, measured in terms of quantity of goods, Marshall’s surplus results from the concept of utility and is calculated in monetary terms.
+The analysis of the Marshallian equilibrium in the short run implies the conceptualisation of two notions: producers’ surplus and consumers’ surplus. <u>They are maximized by the Marshallian cross, which is an efficient equilibrium.</u> Furthermore, differently from Ricardo’s concept of surplus, measured in terms of quantity of goods, Marshall’s surplus results from the concept of utility and is calculated in monetary terms.
 
 PRODUCERS’ SURPLUS
 
@@ -1620,10 +1612,10 @@ GOODS OF THE SECOND ORDER (GSO)
 
 The category includes factor services entering in the production of final goods GFO. Hence, the value of GHOs is strongly linear to the value of GFOs. For instance, the rent received by landowners is determined by the utility of the products grown in the land.
 
-<u>Goods become economic goods when their demand is larger than the quantities available in the market</u>. On the contrary, the abundance of a good removes it from a person’s economising behaviour. <u>GHO’s derive the nature of economic goods from the first order goods to which they are related. Hence, if A - an economic first order good with P, Q, R, S, T as respective goods of higher order – becomes uneconomic, then P, Q, R, S, T also become uneconomic goods</u>.
+<u>Goods become economic goods when their demand is larger than the quantities available in the market</u>. On the contrary, the abundance of a good removes it from a person’s economising behavior. <u>GHO’s derive the nature of economic goods from the first order goods to which they are related. Hence, if A - an economic first order good with P, Q, R, S, T as respective goods of higher order – becomes uneconomic, then P, Q, R, S, T also become uneconomic goods</u>.
 
 Consumption goods are classified according to their importance: some, like food and clothing are indispensable, while others, like tobacco or chessboards, serve only to add comfort or pleasure.  
-<u>Not only the quality, but also the quantity consumed of each good has a different importance: a little foods preserves life, more food insure health and additional quantities bring little further satisfaction.</u> Menger illustrates by a numerical example the differences in the importance of the satisfaction given by various kinds of goods and its decrease as the quantity of the good is increased.<img src="media/image15.png" style="width:2.63101in;height:2.23466in" />
+<u>Not only the quality, but also the quantity consumed of each good has a different importance: a little foods preserves life, more food insure health and additional quantities bring little further satisfaction.</u> Menger illustrates by a numerical example the differences in the importance of the satisfaction given by various kinds of goods and its decrease as the quantity of the good is increased.<b class="missing">+++</b>
 
 Menger never declared explicitly that the numbers he used had only an ordinal meaning: in several passages of his works he treated them as if they measured utilities in the classical sense of the term. <u>Most importantly, according to Menger, the value of a commodity is determined by the utility of the last consumed unit of the asset itself.</u> This constitutes a great difference from the classical marginalists, as the following example can show.
 
@@ -1641,7 +1633,7 @@ E.g.: A values 100 units of his wheat by 40 units of wine, therefore the exchang
 
 <u>EUGEN BOHM-BAWERK (1851-1914)</u>
 
-Bohm-Bawerk was an Austrian economist famous for having introduced a dynamic theory of capital formation. <u>He was the first to consider the production process and capital goods in their temporal dimension.</u> According to Bohm-Bawerk, the prices of original productive factors - land and labour – are linked to their marginal productivity, namely to the marginal contribution given to the production of consumer goods. <u>Their efficiency derives from the time sent in production: to increase efficiency, the time of production must be increased</u>. For instance, by increasing the working hours in away, the worker will produce a greater amount of goods.
+Bohm-Bawerk was an Austrian economist famous for having introduced a dynamic theory of capital formation. <u>He was the first to consider the production process and capital goods in their temporal dimension.</u> According to Bohm-Bawerk, the prices of original productive factors - land and labor – are linked to their marginal productivity, namely to the marginal contribution given to the production of consumer goods. <u>Their efficiency derives from the time sent in production: to increase efficiency, the time of production must be increased</u>. For instance, by increasing the working hours in away, the worker will produce a greater amount of goods.
 
 Within the temporal dimension in which production is analysed, Bohm-Bawerk elaborated a dynamic theory of capital. <u>According to him, capital is the set of consumer goods produced and consumed during the production process</u>. At the beginning of it, the capitalists sell consumer goods to the holders of productive factors – landowners and workers – in order to have their productive services in return. At the end, the capitalist gets a quantity of consumer goods produced, which is greater than that anticipated to productive factors (comparison with Marx).
 
@@ -1657,7 +1649,7 @@ THE IDEA OF UNIVERSAL LAWS
 
 These are thought to be applicable anytime, anywhere (e.g.: the law of diminishing returns/increasing costs is typical of neoclassical thought).
 
-THE PRESENCE OF PRINCIPLES OF ECONOMIC BEHAVIOUR
+THE PRESENCE OF PRINCIPLES OF ECONOMIC behavior
 
 This includes self-interest mitigated by sympathy for classical economists, and of optimal resources by agents for neoclassical economists.
 
@@ -1720,7 +1712,7 @@ Other entrepreneurs imitate the innovation to gain profits and, consequently, co
 
 Some companies fail in imitating and are forced to leave the market, while the production costs of all companies that are able to mimic the innovation are lowered
 
-The profit of the innovator and all imitators disappears and the system returns to equilibrium characterised by more efficient production
+The profit of the innovator and all imitators disappears and the system returns to equilibrium characterized by more efficient production
 
 The process of adaptation to innovation is represented by business fluctuations, namely <u>periods of expansion and recessions</u>. Innovations induce an increase in the level of economic activity creating favourable climate conditions, consisting of <u>the expansion of credits, the increase in prices and income, while prosperity prevails</u>.
 
@@ -1736,9 +1728,9 @@ As the first entrepreneurs innovate, the demand for goods grows and a climate of
 
 <u>THORSTEIN VEBLEN I (1857-1929)</u>
 
-Veblen was a US economist and sociologist, considered one of the founders of institutional economics. One of the most important aspect of Veblen’s analysis was his <u>methodology applied to an economic system that he saw as dynamic and constantly changing</u>. To him, anyone adopting a rigid view of the economy and assuming the future would always work the same was doomed to failure. <u>Veblen adopted an evolutionary approach, studying the forces causing economy to change or resit change over time</u>. In his view, therefore, economists should analyse the key process that shape the economy and economic behaviour.
+Veblen was a US economist and sociologist, considered one of the founders of institutional economics. One of the most important aspect of Veblen’s analysis was his <u>methodology applied to an economic system that he saw as dynamic and constantly changing</u>. To him, anyone adopting a rigid view of the economy and assuming the future would always work the same was doomed to failure. <u>Veblen adopted an evolutionary approach, studying the forces causing economy to change or resit change over time</u>. In his view, therefore, economists should analyse the key process that shape the economy and economic behavior.
 
-Veblen claimed that consumers’ behaviours are determined by:
+Veblen claimed that consumers’ behaviors are determined by:
 
 BIOLOGICAL NEEDS
 
@@ -1748,7 +1740,7 @@ INDUSTRIAL FACTORS
 
 GOVERNMENT STRUCTURES
 
-Since institutions are the organisations, social structures, rules, and habits that structure human interactions and the economy, <u>Veblen believed that those should be the economists’ focus, even if the economy is in constant change and agents are regularly concerned with a variety of factors affecting their behaviour</u>. The understating of institutions provides the right instruments to analyse the forces promoting change and the evolution of the economy.
+Since institutions are the organisations, social structures, rules, and habits that structure human interactions and the economy, <u>Veblen believed that those should be the economists’ focus, even if the economy is in constant change and agents are regularly concerned with a variety of factors affecting their behavior</u>. The understating of institutions provides the right instruments to analyse the forces promoting change and the evolution of the economy.
 
 As a result, Veblen’s analysis founded institutional economics, whose core ideas are:
 
@@ -1756,7 +1748,7 @@ Institutions are the key factors shaping an economy and should be the primary fo
 
 The economy is constantly changing, and studying the underlying dynamics, shaped by technology and key institutions, provides the best possible understanding of the structure of the economic system, its evolutions, and the possibility of its improvement through effective government policy.
 
-Humans are social beings whose behaviour is shaped fundamentally by the institutions of society and who seek status and power on the basis of their cultural values. This approach implicitly criticises neoclassical economics.
+Humans are social beings whose behavior is shaped fundamentally by the institutions of society and who seek status and power on the basis of their cultural values. This approach implicitly criticises neoclassical economics.
 
 The concept of conspicuous consumption, namely the practice of consumers purchasing and using goods for the purposes of displaying their status to others, is emblematic of Veblen’ sophisticated analysis of how culture and human institutions shape purchasing pattern. <u>All goods have a value or utility, meaning that they are useful to us and improve our well-being.</u> Nevertheless, conspicuous consumption goods also have a display or honorific value. Within this framework, Veblen also elaborates the notion of pecuniary emulation, where people from lower classes imitate culture, habits, and spending to the upper classes to achieve status for themselves.
 
@@ -1794,13 +1786,13 @@ CAPITAL MARKET
 
 MONEY MARKET
 
-LABOUR MARKET
+labor MARKET
 
-In contrast with Walras’ general equilibrium model, however, <u>in Keynes’ theory, money occupies a fundamental role and, furthermore, one of the four markets, namely the labour market, can be in disequilibrium while the other three are in equilibrium</u>.
+In contrast with Walras’ general equilibrium model, however, <u>in Keynes’ theory, money occupies a fundamental role and, furthermore, one of the four markets, namely the labor market, can be in disequilibrium while the other three are in equilibrium</u>.
 
 The “General Theory” posits quantities that directly influence other quantities, but provides almost no analysis of how these influences pass through modifications of relative prices and individual incentives. This distinguishes Keynes’ approach from that of marginal analysis.
 
-Moreover, one key ingredient of marginal analysis (utility maximisation) plays only a small role in there book. <u>To capture consumer behaviour, Keynes does not consider the maximisation of utility under the budget constraint, but appeals to the existence of a psychological inclination that makes consumers spend only a fixed fraction c of their earnings.</u> This fraction c is called the marginal propensity to consume.
+Moreover, one key ingredient of marginal analysis (utility maximization) plays only a small role in there book. <u>To capture consumer behavior, Keynes does not consider the maximization of utility under the budget constraint, but appeals to the existence of a psychological inclination that makes consumers spend only a fixed fraction c of their earnings.</u> This fraction c is called the marginal propensity to consume.
 
 With respect to previous business cycle theories, most notably that of Hayek, the “General Theory” shifts the focus away from inter temporal equilibrium, dynamic processes, and long-run analysis, to focus on simultaneous equilibria in different markets, comparative statics, and short-run analysis.
 
@@ -1808,7 +1800,7 @@ Keynes provided two distinct explanations as to why he called his theory a gener
 
 It considers the economy as a whole
 
-It removes the assumption of Say’s law that characterised the view of marginalists; for Keynes, Say’s law is false, as aggregate demand can be smaller than aggregate supply
+It removes the assumption of Say’s law that characterized the view of marginalists; for Keynes, Say’s law is false, as aggregate demand can be smaller than aggregate supply
 
 The major characteristics and principles of Keynesian economics are:
 
@@ -1860,7 +1852,7 @@ Like the MPC, the marginal propensity to save (MPS = s) is greater than zero and
 
 MPS = s = ΔS/ΔY
 
-Here is a short run consumption function; the curve’s slope (ΔC/ΔY) is the marginal propensity to consume:<img src="media/image16.png" style="width:2.3397in;height:2.13369in" />
+Here is a short run consumption function; the curve’s slope (ΔC/ΔY) is the marginal propensity to consume:<b class="missing">+++</b>
 
 <u>INVESTMENT</u>
 
@@ -1904,7 +1896,7 @@ The crucial element in the analysis of the interest rate determination is the re
 
 <u>Thus, there is an inverse relation between the rate of interest and the demand for money. This relation is depicted in the figure below. The demand curve (L) slopes downward, indicating that people will desire to hold more cash at lower interest rates.</u>
 
-The quantity of money supplied depends on the policy of the central bank. The quantity of money supplied is assumed to be independent of the interest rate; hence, the money supply curve in the figure below is vertical:<img src="media/image17.png" style="width:2.45748in;height:2.45748in" />
+The quantity of money supplied depends on the policy of the central bank. The quantity of money supplied is assumed to be independent of the interest rate; hence, the money supply curve in the figure below is vertical:<b class="missing">+++</b>
 
 The equilibrium rate of interest is i1. An increase in the quantity of money would lower the interest rate, unless the public’s liquidity preference was increasing more than the quantity of money.
 
@@ -1936,7 +1928,7 @@ Solving the two equations provides an alternative condition for equilibrium inco
 
 S = I
 
-The standard textbook presentation of the simple Keynesian model is shown as the figure below (the Keynesian cross model):<img src="media/image18.png" style="width:2.66027in;height:2.20721in" />
+The standard textbook presentation of the simple Keynesian model is shown as the figure below (the Keynesian cross model):<b class="missing">+++</b>
 
 <u>The aggregate expenditure curve AE shows the combined level of consumption and investment spending forthcoming at each level of income.</u> The vertical distance between AE and the consumption function C = f(Y) is the level of investment. The vertical distance between the consumption function and the horizontal axis is the level of consumption.
 
@@ -1944,23 +1936,23 @@ Equilibrium income is Y1, because at this point, the aggregate expenditures curv
 
 How might a depression occur? Keynes answer its easily demonstrated through a simple model. Let’s suppose that the income level in Y1 in the figure above is the full employment level of income. Let’s further assume that, for some reason, entrepreneurs become pessimistic about future business prospects, and that this results in a downward revision of expected returns on a new investment. <u>This translates to a decline in the marginal efficiency of capital and a leftward shift of the investment demand curve.</u>
 
-The decline in investment spending reduces aggregate expenditures from AE1 to AE2; in response to declining sales and rising inventories, firms reduce their employment and production. National income therefore declines from Y1 to Y2:<img src="media/image19.png" style="width:3.30172in;height:3.08397in" />
+The decline in investment spending reduces aggregate expenditures from AE1 to AE2; in response to declining sales and rising inventories, firms reduce their employment and production. National income therefore declines from Y1 to Y2:<b class="missing">+++</b>
 
 It should be noted that the equilibrium income declines by more than the drop in investment itself. The reason for this is the multiplier effect of an initial change in investment spending.
 
 Keynes borrowed this theory from R.F. Kahn, a Cambridge colleague of his, and incorporated it directly into his own model. <u>The multiplier measures the ultimate effect on income of a change in spending; it is the change in income divided by the change in investment.</u>
 
-The size of the multiplier depends on the slope of the aggregate expenditures curve (c). Let us assume that c is 0.6. If people’s income falls by 10$, they reduce consumption and investment by 60$ and 40$, respectively.
+The size of the multiplier depends on the slope of the aggregate expenditures curve (c). Let us assume that c is 0.6. If people’s income falls by 10\$, they reduce consumption and investment by 60\$ and 40\$, respectively.
 
-T<u>he decline in consumption spending of 6$ will cause a further reduction of income of 6$, which in turn will reduce someone else’s consumption spending by an additional 3.6$. Saving will decline by another 2.4$.</u>
+T<u>he decline in consumption spending of 6\$ will cause a further reduction of income of 6\$, which in turn will reduce someone else’s consumption spending by an additional 3.6\$. Saving will decline by another 2.4\$.</u>
 
-This process will continue. Once the total decline in income reaches 25$, equilibrium will be restored. The 25$ decline in income will reduce saving by an amount just equal to the initial 10$ reduction in investment spending (0.4 x 25). In this case, the multiplier is 2.5:
+This process will continue. Once the total decline in income reaches 25\$, equilibrium will be restored. The 25\$ decline in income will reduce saving by an amount just equal to the initial 10\$ reduction in investment spending (0.4 x 25). In this case, the multiplier is 2.5:
 
 (1)/(1-c) = 1/s = 1/0.4 = 2.5
 
 <u>POLICIES TO PROMOTE FULL EMPLOYMENT AND STABILITY</u>
 
-Keynes proposed a large government role to stabilise the economy at a full employment level of national income. E.g.: <u>the government should stimulate private investment during a period of depression by forcing down the interest rate, which could be accomplished through a central bank policy, But there are limits to how low interest rates will fall.</u>
+Keynes proposed a large government role to stabilize the economy at a full employment level of national income. E.g.: <u>the government should stimulate private investment during a period of depression by forcing down the interest rate, which could be accomplished through a central bank policy, But there are limits to how low interest rates will fall.</u>
 
 A second and more effective way to overcome depression is for the government to undertake an expansionary fiscal policy. Government spending, like private investment, serves as a source of aggregate expenditures. Such spending, declared Keynes, could be increased, thereby increasing aggregate expenditures and producing a multiple increase in national income.
 
@@ -1970,7 +1962,7 @@ Soon after the publication of the “General Theory”, people began to speak of
 
 Keynesianism split into various lines of thinking and went completely out of fashion in the <u>1970’s</u> and <u>1980’s</u>. When it came back as New Keynesianism in the <u>1990’s</u>, it was in rather different shapes.
 
-In <u>1936</u>, the Econometric Society organised a meeting in Oxford to discuss the “General Theory”. At this meeting, Hicks, Meade, and Roy Hared presented three papers that attempted to translate the “General Theory”’s theoretical core into a system of equations.
+In <u>1936</u>, the Econometric Society organized a meeting in Oxford to discuss the “General Theory”. At this meeting, Hicks, Meade, and Roy Hared presented three papers that attempted to translate the “General Theory”’s theoretical core into a system of equations.
 
 Hick’s contribution, titled “Mr. Keynes and the ‘Classics’: a suggested interpretation”, introduced the IS-LM model, which is constituted of four equations:
 
@@ -2060,11 +2052,11 @@ The monetarists interpreted non-neutralities of money as short-run phenomena tha
 
 The frictions were mainly expressed as time lags in adjustments of expectations to actual changes in the price level. Those lags were captured by the hypothesis of adaptive expectations, which states that people form their expectations about future inflation by taking into account their earlier errors. <u>The adaptive expectation hypothesis soon came under attack by new classical critics.</u>
 
-Robert Lucas and Thomas Sargent demanded that all economic theory must be firmly based on the rigorous micrcofoundations of Walrasian GE theory assuming rational expectations in representative actor models. They formed the so-called new classical economics school.
+Robert Lucas and Thomas Sargent demanded that all economic theory must be firmly based on the rigorous microfoundations of Walrasian GE theory assuming rational expectations in representative actor models. They formed the so-called new classical economics school.
 
-<u>All changes in the levels of production and employment should be explained as results of rational behaviour under the assumptions of full price flexibility and continuous market clearing.</u>
+<u>All changes in the levels of production and employment should be explained as results of rational behavior under the assumptions of full price flexibility and continuous market clearing.</u>
 
-New classical economists considered adaptive expectations to be inconsistent with rational behaviour, as they are backward-looking and systematically erroneous. Since markets are assumed to maximise utility or profit, they will make use of all accessible information about future developments in markets and in economic policy. Their expectations are forward-looking and rational in the sense that all systematic errors will be eliminated in the search for utility and profit gains.
+New classical economists considered adaptive expectations to be inconsistent with rational behavior, as they are backward-looking and systematically erroneous. Since markets are assumed to maximize utility or profit, they will make use of all accessible information about future developments in markets and in economic policy. Their expectations are forward-looking and rational in the sense that all systematic errors will be eliminated in the search for utility and profit gains.
 
 <u>Given these assumptions, only a completely erratic, unpredictable type of monetary policy could be non-neutral with regard to unemployment.</u> No systematic monetary policy has any real influence on the economy. New classical economics attempted to explain business cycles as responses to monetary shocks/as changes to aggregate supply in reaction to unforeseeable inflationary impulses. <u>Even this last vestige of non-neutrality of money was eliminated by the next round of new classical economics.</u>
 
