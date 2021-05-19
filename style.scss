@@ -271,12 +271,17 @@ nav a {
 li {
   line-height: 1.2em;
   margin-bottom: .2em;
-	li {
-		list-style-type: "–  ";
-		li {
-			list-style-type: "+  ";
-		}
+  ul {
+    & > li {
+      margin-bottom: 0;
+	  list-style-type: "–  ";
+      & > ul {
+        & > li {
+		  list-style-type: "+  ";
+	    }
+	  }
 	}
+  }
 }
 
 side {

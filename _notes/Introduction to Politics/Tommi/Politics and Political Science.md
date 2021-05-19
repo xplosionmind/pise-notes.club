@@ -2,7 +2,6 @@
 date: 2021-02-25T18:34:53.435671+01:00
 updated: 2021-03-02T06:54:21.144284+01:00
 aliases: ["Political Science Chapter 1"]
-tags: introduction-to-politics
 ---
 ## Key points
 

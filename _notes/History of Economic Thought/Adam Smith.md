@@ -193,7 +193,6 @@ Smith uses the term <q>natural price</q> and sometimes he refers to it as <q>val
 The value of a commodity corresponds to the <u>quantity of labor</u> required for its production.  
 The problem of this theory is that it cannot work in civilizations which are not primitive and which <u>do not have social classes subdivision</u>.
 
-{% comment %}
 Assuming that:
 - it is produced only one good (grain, $X_g$)
 - $X_g$ is produced by using labor ($L$) and seeds ($K$, where $K < X_g$, since $K$ is the portion of grains used as seeds)
@@ -210,7 +209,6 @@ $$
 $$
 
 where $I=\frac{L}{X_g}$ and $k=\frac{K}{X_g}$
-{% endcomment %}
 
 #### Labor commanded
 

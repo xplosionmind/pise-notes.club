@@ -9,6 +9,7 @@ CFU: 6
 link: https://www.unive.it/data/course/332311/
 toc: false
 loop: false
+tag: wip
 aliases: ["HoET", "History of Economics"]
 others:
   - lili
